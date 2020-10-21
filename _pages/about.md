@@ -3,11 +3,13 @@ permalink: /about/
 title: "About WeaMyL"
 ---
 
-About WeaMyL
+## About WeaMyL
 
+WeaMyL project aims at enhancing the accuracy, performance and reliability of national nowcasting warning systems by the use of machine learning (ML) techniques applied on radar, satellite and weather stations’ observations. The focus will be on obtaining higher precision in predicting the occurrence and the areas affected by severe meteorological phenomena, as well as attaining lower decision times (compared to current, exclusively human decision times). The project’s main goal is to automate the nowcasting warning systems by creating a ML driven platform for early and accurate forecast of severe phenomena. Thus, it is aimed to be the backbone of a new framework for imminent severe weather detection adapted to current technological possibilities.
 
+## Main objectives
 
-WeaMyL project aims at enhancing the accuracy, performance and reliability of national nowcasting warning systems by the use of machine learning (ML) techniques applied on radar, satellite and weather stations’ observations. The focus will be on obtaining higher precision in predicting the occurrence and the areas affected by severe meteorological phenomena, as well as attaining lower decision times (compared to current, exclusively human decision times). The project’s main goal is to automate the nowcasting warning systems by creating a ML driven platform for early and accurate forecast of severe phenomena. Thus, it is aimed to be the backbone of a new framework for imminent severe weather detection adapted to current technological possibilities. The main objectives of the project are  the following: 
+The main objectives of the project are  the following: 
 
 * Development and scientific validation of novel ML computational models and techniques
   specially tailored for accurate nowcasting. Unsupervised Learning (UL) models such as Principal Component Analysis, T-distributed Stochastic Neighbor Embedding, clustering, and auto-encoders are envisaged as intelligent tools for analyzing multiple data sources which may be relevant for accurate nowcasting: meteorological data (radar, satellite, weather stations’ observations) and geographical data (elevation, exposure, vegetation, hydrological features, anthropic features). Following unsupervised data analysis, both off-line and on-line Supervised Learning methods such as Convolution Neural Networks, U-Nets, Long Short Term Memory Networks, XGBoost, and Restricted Boltzmann Machines will be developed to assist meteorologists in providing precise nowcasting alerts.
@@ -18,7 +20,10 @@ WeaMyL project aims at enhancing the accuracy, performance and reliability of na
 * Integration of the WeaMyL platform within the national weather warning systems of Norway and Romania. The WeaMyL platform will be integrated with the relevant software systems of the National Meteorological Services. This integration will directly facilitate the meteorologists’ activity by assisting them in the nowcasting decision process and will accelerate alert issuing procedures. 
 * Contribute to the development of scientific knowledge by disseminating the obtained scientific results through scientific publications, the project website and social media.
 
+## WeaMyL software platform
+
 The WeaMyL software platform consists of three components such as the,
+
 * **Forecasting Platform**. Given that the accuracy of the prediction module is paramount for the system’s precision, this is WeaMyL’s central component. The forecasting platform employs historical and real-time data and is responsible with estimating the location, time and severity of meteorological phenomena expected to take place in the near future (0-6 hours). Our algorithms will model the meteorological situation based on the earlier meteorological situations. The employed learning models will find patterns in the meteorological data which apply to specific circumstances and thus improve themselves as increasingly more data becomes available, hence making the forecasting module self-adaptive. To process the available amount of meteorological data and to accelerate scientific analysis and information extraction, big data approaches will be targeted. 
 * **Annotated Atlas of Meteorological Observations** The Annotated Atlas component will provide a semantic database over the large volume of historical data from varying  sources, including weather stations’ observations, radar and satellite imagery. Its main objectives are to facilitate the study of past conditions using statistical and comparative analyses, provide intelligent information retrieval based on a semantic data model, and provide a custom, extensible annotation model across observation types and sources. The Atlas component will offer two main functionalities: (a) management of the Atlas and (b) visualizations, statistics and reports based on the historical meteorological data stored in the Atlas.
 * **Integration Module**. In order for the above components to provide actionable
