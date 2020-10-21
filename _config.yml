@@ -77,7 +77,7 @@ footer:
       icon: "fas fa-fw fa-water"
       url: "https://met.no/"
     - label: "Babes-Bolyai University"
-      icon: "fas fa-fw fa-water"
+      icon: "fas fa-fw fa-university"
       url: "https://www.ubbcluj.ro/en/"
     - label: "Administrația Națională de Meteorologie"
       icon: "fas fa-fw fa-water"
