@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About Machine Ocean"
+title: "About WeaMyL Project"
 ---
 
 About WeaMyL
