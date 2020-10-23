@@ -1,11 +1,11 @@
 main:
-  - title: "About"
+  - title: About
     url: /about/
   - title: Resources
     url: /resources/
-  - title: "Partners" 
+  - title: Partners 
     url: /partners/
-  - title: "contact"
+  - title: Contact
     url : /contact/
 
 page_links:
@@ -17,7 +17,7 @@ page_links:
       url: /resources/
     - title: Partners
       url: /partners/
-    - title: "contact"
+    - title: Contact
     url : /contact/
   - title: External Links
     children:
