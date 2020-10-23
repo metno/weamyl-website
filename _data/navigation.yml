@@ -3,6 +3,8 @@ main:
     url: /about/
   - title: Resources
     url: /resources/
+  - title: "Work Packages" 
+    url: /wps/
 
 page_links:
   - title: Pages
@@ -11,6 +13,8 @@ page_links:
       url: /about/
     - title: Project Resources
       url: /resources/
+    - title: Work Packages
+      url: /wps/
   - title: External Links
     children:
     - title: MET Norway
