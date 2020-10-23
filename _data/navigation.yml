@@ -5,6 +5,8 @@ main:
     url: /resources/
   - title: "Partners" 
     url: /partners/
+  - title: "contact"
+    url : /contact/
 
 page_links:
   - title: Pages
@@ -15,6 +17,8 @@ page_links:
       url: /resources/
     - title: Partners
       url: /partners/
+    - title: "contact"
+    url : /contact/
   - title: External Links
     children:
     - title: MET Norway
