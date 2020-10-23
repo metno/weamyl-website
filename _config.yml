@@ -29,7 +29,9 @@ logo: "assets/images/LogoMyLFinal-01.png"
 # Build settings
 markdown: kramdown
 # theme: minimal-mistakes-jekyll
-remote_theme: mmistakes/minimal-mistakes@4.19.3
+# theme: jekyll-theme-minimal
+# them : mmistakes/minimal-mistakes@4.19.3
+remote_theme: jekyll-theme-minimal
 
 # Outputting
 permalink: /:categories/:title/
