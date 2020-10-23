@@ -31,7 +31,7 @@ markdown: kramdown
 # theme: minimal-mistakes-jekyll
 # theme: jekyll-theme-minimal
 # them : mmistakes/minimal-mistakes@4.19.3
-remote_theme: jekyll-theme-minimal
+remote_theme: jekyll-theme-cayman
 
 # Outputting
 permalink: /:categories/:title/
