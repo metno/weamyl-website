@@ -1,8 +1,8 @@
 main:
   - title: About
     url: /about/
-  - title: Resources
-    url: /resources/
+  - title: Dissemination
+    url: /dissemination/
   - title: Partners 
     url: /partners/
   - title: Contact
@@ -28,5 +28,6 @@ page_links:
       url: https://www.ubbcluj.ro/en/
     - title: Romanian National Meteorological Administration 
       url: www.meteoromania.ro
-
+    - title: Grants
+      url: https://www.forskningsradet.no/en/apply-for-funding/international-funding/EEA/eos-midlene-romania/
 
