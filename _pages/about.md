@@ -3,8 +3,6 @@ permalink: /about/
 title: "About WeaMyL"
 ---
 
-## About WeaMyL
-
 WeaMyL project aims at enhancing the accuracy, performance and reliability of national nowcasting warning systems by the use of machine learning (ML) techniques applied on radar, satellite and weather stations’ observations. The focus will be on obtaining higher precision in predicting the occurrence and the areas affected by severe meteorological phenomena, as well as attaining lower decision times (compared to current, exclusively human decision times). The project’s main goal is to automate the nowcasting warning systems by creating a ML driven platform for early and accurate forecast of severe phenomena. Thus, it is aimed to be the backbone of a new framework for imminent severe weather detection adapted to current technological possibilities.
 
 ## Main objectives
@@ -28,3 +26,22 @@ The WeaMyL software platform consists of three components such as the,
 * **Annotated Atlas of Meteorological Observations** The Annotated Atlas component will provide a semantic database over the large volume of historical data from varying  sources, including weather stations’ observations, radar and satellite imagery. Its main objectives are to facilitate the study of past conditions using statistical and comparative analyses, provide intelligent information retrieval based on a semantic data model, and provide a custom, extensible annotation model across observation types and sources. The Atlas component will offer two main functionalities: (a) management of the Atlas and (b) visualizations, statistics and reports based on the historical meteorological data stored in the Atlas.
 * **Integration Module**. In order for the above components to provide actionable
 information, they must be integrated with the software systems already deployed on location. The purpose of this module is to provide a number of data consumer and data provider connectors that can be integrated within existing systems. Both the Forecasting Platform and the Annotated Atlas will act as consumers for real-time generated meteorological data, while the Forecasting Platform will provide data relevant to upcoming severe weather.
+
+## Work Packages
+
+The work programme is divided into five work packages (WPs), following the usual stages needed to reach the main research objective, namely to develop the WeaMyL software platform. These are:
+   WP1 - Documentation, system requirements and architecture
+   WP2 - Machine learning models for weather nowcasting
+   WP3 - Software development, testing and integration
+   WP4 - Meteorological evaluation, interpretation and analysis
+   WP5 - Project management, dissemination and exploitation
+
+### Documentation, system requirements and architecture
+In this work package, we will first conduct a documentation, study and literature analyses. Then, we will identify the limitations of existing state-of-the-
+art approaches and solutions in nowcasting. Afterwards, we aim at defining the functional and nonfunctional requirements for WeaMyL including the end-user requirements, as well as the main conditions for the system's proper functioning in order to establish the general architecture and design of the WeaMyL software platform.
+
+### Machine learning models for weather nowcasting
+The second work package consists of defining a theoretical model for nowcasting along with (2) Develop specially tailored scalable ML models for accurate
+nowcasting. (3) Scientifically validate developed ML models using experimental results analysis and
+interpretation, as well as comparison to related work.
+
