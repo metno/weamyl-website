@@ -30,18 +30,18 @@ information, they must be integrated with the software systems already deployed 
 ## Work Packages
 
 The work programme is divided into five work packages (WPs), following the usual stages needed to reach the main research objective, namely to develop the WeaMyL software platform. These are:
-   WP1 - Documentation, system requirements and architecture
-   WP2 - Machine learning models for weather nowcasting
-   WP3 - Software development, testing and integration
-   WP4 - Meteorological evaluation, interpretation and analysis
-   WP5 - Project management, dissemination and exploitation
-
-### Documentation, system requirements and architecture
+   
+### WP1 - Documentation, system requirements and architecture
 In this work package, we will first conduct a documentation, study and literature analyses. Then, we will identify the limitations of existing state-of-the-
 art approaches and solutions in nowcasting. Afterwards, we aim at defining the functional and nonfunctional requirements for WeaMyL including the end-user requirements, as well as the main conditions for the system's proper functioning in order to establish the general architecture and design of the WeaMyL software platform.
 
-### Machine learning models for weather nowcasting
+### WP2 - Machine learning models for weather nowcasting
 The second work package consists of defining a theoretical model for nowcasting along with (2) Develop specially tailored scalable ML models for accurate
 nowcasting. (3) Scientifically validate developed ML models using experimental results analysis and
 interpretation, as well as comparison to related work.
 
+### WP3 - Software development, testing and integration
+WP3 is focused on software development, testing, and platform integration with national warning systems. The Forecasting Platform is comprised of the ML components (accessible via an API) together with the front-end. An effort is made concerning the integration of WeaMyL with national warning systems. The platform prototype will be developed in an incremental, iterative manner, having as final objective its successful integration with Romanian and Norwegian weather warning systems.
+
+### WP4 - Meteorological evaluation, interpretation and analysis
+WP4 activities include extracting, annotating and validating relevant meteorological data from NMA and MET databases and piloting the platform within NMA and MET locations. These activities will be coordinated by NMA in close cooperation with MET-MT. Results concerning the accuracy, performance and reliability of the platform will be discussed with MET-IT and BBU. The feedback will be used to continuously improve the ML modules, front-end components and the Annotated Atlas.
