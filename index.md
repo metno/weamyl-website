@@ -5,8 +5,8 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/home-page-feature.jpg
-  caption: "some text"
+  overlay_image: /assets/images/romania_backgroud.jpg
+  caption: "Photo credit: Stefan Jammer"
 excerpt: >
   Enhancing the performance and reliability of national weather warning systems by use of deep learning techniques applied on radar, satellite and ground meteorological observations
 ---
