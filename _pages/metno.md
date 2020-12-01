@@ -1,5 +1,5 @@
 ---
-permalink: /bbu/
+permalink: /metno/
 title: "About MET Norway"
 ---
 
