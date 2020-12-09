@@ -7,10 +7,10 @@ title: "About Babes-Bolyai University - MLyRE team"
 
 Members of the MLyRE group involved in the WeaMyL project:
 
-* Prof. Czibula Gabriela, PhD
-* Prof. Czibula Istvan, PhD
-* Lect. Molnar Arthur, PhD
-* Lect. Onet-Marian Zsuzsanna, PhD
+* <a href= "http://www.cs.ubbcluj.ro/~gabis/"> Prof. Czibula Gabriela, PhD </a>
+* <a href= "http://www.cs.ubbcluj.ro/~istvanc/"> Prof. Czibula Istvan, PhD </a>
+* <a href= "https://arthur486.wordpress.com/"> Lect. Molnar Arthur, PhD </a>
+* <a href= "http://www.cs.ubbcluj.ro/~marianzsu/"> Lect. Onet-Marian Zsuzsanna, PhD </a>
 * Lect. Ionescu Vlad-Sebastian, PhD
 * Lect. Mircea Ioan-Gabriel
 * Assist. Miholca Diana, PhD
