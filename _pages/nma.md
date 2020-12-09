@@ -7,19 +7,17 @@ The Romanian National Meteorological Administration provides warnings for the pu
 
 The NMA research team involved in the WeaMyL project is multidisciplinary, with expertise in severe weather research, radar and satellite meteorology and data processing and analysis, weather forecasting, and climate research and services. Romanian NMA team includes:
 
-
-
-    * Sorin Burcea, PhD
-    * Eugen Mihuleț, Forecaster
-    * Gabriela Băncilă, Phd
-    * Andrei Diamandi, Phd
-    * Oana Nicola, Researcher
-    * Alexandru Dumitrescu, Phd
-    * Marius Bîrsan, Phd
-    * Meda Andrei, Forecaster
-    * Udo Reckerth, Forecaster
-    * Cristian Grecu, Forecaster
-    * Cristina Blaga, Forecaster
-    * Adela Mitea, Forecaster
-    * Gabriela Harpa, Forecaster
-    * Narcisa Milian, Forecaster
+* Sorin Burcea, PhD
+* Eugen Mihuleț, Forecaster
+* Gabriela Băncilă, Phd
+* Andrei Diamandi, Phd
+* Oana Nicola, Researcher
+* Alexandru Dumitrescu, Phd
+* Marius Bîrsan, Phd
+* Meda Andrei, Forecaster
+* Udo Reckerth, Forecaster
+* Cristian Grecu, Forecaster
+* Cristina Blaga, Forecaster
+* Adela Mitea, Forecaster
+* Gabriela Harpa, Forecaster
+* Narcisa Milian, Forecaster
