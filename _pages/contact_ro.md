@@ -3,6 +3,8 @@ permalink: /contact_ro/
 title: "Contact"
 ---
 
+[EN](/contact/){: .btn .btn--primary}
+
 The main contact persons of the WeaMyL projects are:
 ## Czibula Gabriela, Principal Investigator
 Czibula Gabriela is a professor at the Department of Computer Science, BBU.

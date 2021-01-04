@@ -3,6 +3,8 @@ permalink: /bbu_ro/
 title: "About Babes-Bolyai University - MLyRE team"
 ---
 
+[EN](/bbu/){: .btn .btn--primary}
+
 <a href="http://www.cs.ubbcluj.ro/ml/">MLyRE </a> (Machine Learning REsearch) is a research group on MACHINE LEARNING at the Faculty of Mathematics and Computer Science, Babes-Bolyai University of Cluj-Napoca, Romania. The group focuses on fundamental, applicative and interdisciplinary research on Machine Learning.
 
 Members of the MLyRE group involved in the WeaMyL project:

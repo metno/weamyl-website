@@ -3,6 +3,8 @@ permalink: /partners_ro/
 title: "Partners"
 ---
 
+[EN](/partners/){: .btn .btn--primary}
+
 The consortium members are:
 
 ## Babeș-Bolyai University (BBU)

@@ -3,6 +3,8 @@ permalink: /dissemination_ro/
 title: "Project dissemination"
 ---
 
+[EN](/dissemination/){: .btn .btn--primary}
+
 An overview of the outcomes for the project.
 
 ## Publications
