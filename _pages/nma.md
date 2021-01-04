@@ -1,6 +1,6 @@
 ---
 permalink: /anm/
-title: "About ANM"
+title: "About NMA"
 ---
 
 [RO](/anm_ro/){: .btn .btn--primary}

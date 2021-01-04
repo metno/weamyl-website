@@ -1,20 +1,20 @@
 ---
 permalink: /bbu_ro/
-title: "About Babes-Bolyai University - MLyRE team"
+title: "Despre Universitatea Babeș-Bolyai - Echipa MLyRE "
 ---
 
 [EN](/bbu/){: .btn .btn--primary}
 
-<a href="http://www.cs.ubbcluj.ro/ml/">MLyRE </a> (Machine Learning REsearch) is a research group on MACHINE LEARNING at the Faculty of Mathematics and Computer Science, Babes-Bolyai University of Cluj-Napoca, Romania. The group focuses on fundamental, applicative and interdisciplinary research on Machine Learning.
+<a href="http://www.cs.ubbcluj.ro/ml/">MLyRE </a> (Machine Learning REsearch) este un grup de cercetare în domeniul Învățării Automate la Facultatea de Matematică și Informatică, Universitatea Babeș-Bolyai din Cluj-Napoca, România. Grupul se concentrează pe cercetări fundamentale, aplicative și interdisciplinare privind învățarea automată.
 
-Members of the MLyRE group involved in the WeaMyL project:
+Membrii grupului MLyRE care participă în proiectul WeaMyL:
 
-* <a href= "http://www.cs.ubbcluj.ro/~gabis/"> Prof. Czibula Gabriela, PhD </a>
-* <a href= "http://www.cs.ubbcluj.ro/~istvanc/"> Prof. Czibula Istvan, PhD </a>
-* <a href= "https://arthur486.wordpress.com/"> Lect. Molnar Arthur, PhD </a>
-* <a href= "http://www.cs.ubbcluj.ro/~marianzsu/"> Lect. Onet-Marian Zsuzsanna, PhD </a>
-* Lect. Ionescu Vlad-Sebastian, PhD
-* Lect. Mircea Ioan-Gabriel
-* Assist. Miholca Diana, PhD
-* Mihai Andrei, PhD student
-* Albu Alexandra, PhD student
+* <a href= "http://www.cs.ubbcluj.ro/~gabis/"> Prof. Dr. Czibula Gabriela </a>
+* <a href= "http://www.cs.ubbcluj.ro/~istvanc/"> Prof. Dr. Czibula Istvan </a>
+* <a href= "https://arthur486.wordpress.com/"> Lect. Dr. Molnar Arthur </a>
+* <a href= "http://www.cs.ubbcluj.ro/~marianzsu/"> Lect. Dr. Onet-Marian Zsuzsanna </a>
+* Lect. Dr. Ionescu Vlad-Sebastian
+* Lect. Dr. Mircea Ioan-Gabriel
+* Asist. Dr. Miholca Diana
+* Drd. Mihai Andrei
+* Drd. Albu Alexandra
