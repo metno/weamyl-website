@@ -1,5 +1,5 @@
 ---
-permalink: /contact/
+permalink: /contact_ro/
 title: "Contact"
 ---
 

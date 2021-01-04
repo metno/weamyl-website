@@ -1,5 +1,5 @@
 ---
-permalink: /anm/
+permalink: /anm_ro/
 title: "About ANM"
 ---
 

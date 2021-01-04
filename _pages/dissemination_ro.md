@@ -1,5 +1,5 @@
 ---
-permalink: /dissemination/
+permalink: /dissemination_ro/
 title: "Project dissemination"
 ---
 

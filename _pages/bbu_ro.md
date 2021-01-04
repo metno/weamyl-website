@@ -1,5 +1,5 @@
 ---
-permalink: /bbu/
+permalink: /bbu_ro/
 title: "About Babes-Bolyai University - MLyRE team"
 ---
 

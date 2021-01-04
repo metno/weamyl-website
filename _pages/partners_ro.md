@@ -1,5 +1,5 @@
 ---
-permalink: /partners/
+permalink: /partners_ro/
 title: "Partners"
 ---
 
