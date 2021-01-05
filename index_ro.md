@@ -1,7 +1,7 @@
 ---
 title: "WeaMyL"
 layout: splash
-permalink: /
+permalink: /index_ro/
 hidden: true
 header:
   overlay_color: "#5e616c"
@@ -11,7 +11,7 @@ excerpt: >
   Enhancing the performance and reliability of national weather warning systems by use of deep learning techniques applied on radar, satellite and ground meteorological observations
 ---
 
-[RO](/index_ro/){: .btn .btn--primary}
+[EN](/){: .btn .btn--primary}
 
 WeaMyL project aims at enhancing the accuracy, performance and reliability of national nowcasting warning systems by the use of machine learning (ML) techniques applied on radar, satellite and weather stations’ observations. The focus will be on obtaining higher precision in predicting the occurrence and the areas affected by severe meteorological phenomena, as well as attaining lower decision times (compared to current, exclusively human decision times). The project’s main goal is to automate the nowcasting warning systems by creating a ML driven platform for early and accurate forecast of severe phenomena. Thus, it is aimed to be the backbone of a new framework for imminent severe weather detection adapted to current technological possibilities.
 
