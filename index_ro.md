@@ -8,20 +8,22 @@ header:
   overlay_image: /assets/images/romania_background.jpg
   caption: "Photo credit: Stefan Jammer"
 excerpt: >
-  Enhancing the performance and reliability of national weather warning systems by use of deep learning techniques applied on radar, satellite and ground meteorological observations
+  Îmbunătățirea  performanței  sistemelor naționale de avertizare meteorologică prin utilizarea tehnicilor de învățare profundă aplicate pe date radar, satelit și observații meteorologice
 ---
 
 [EN](/){: .btn .btn--primary}
 
-WeaMyL project aims at enhancing the accuracy, performance and reliability of national nowcasting warning systems by the use of machine learning (ML) techniques applied on radar, satellite and weather stations’ observations. The focus will be on obtaining higher precision in predicting the occurrence and the areas affected by severe meteorological phenomena, as well as attaining lower decision times (compared to current, exclusively human decision times). The project’s main goal is to automate the nowcasting warning systems by creating a ML driven platform for early and accurate forecast of severe phenomena. Thus, it is aimed to be the backbone of a new framework for imminent severe weather detection adapted to current technological possibilities.
+Proiectul WeaMyL își propune să îmbunătățească acuratețea, performanța și fiabilitatea sistemelor naționale de avertizare nowcasting prin utilizarea tehnicilor de învățare automată (ML) aplicate pe observațiile radarului, satelitului și stațiilor meteo.
+Accentul se va pune pe obținerea unei precizii mai mari în prezicerea apariției și a zonelor afectate de fenomene meteorologice severe, precum și pe obținerea unor timpi de decizie mai mici (în comparație cu timpi de decizie actuali, exclusiv umani).
+Scopul principal al proiectului este de a automatiza sistemele de avertizare nowcasting prin crearea unei platforme bazate pe ML pentru prognoza timpurie și precisă a fenomenelor severe. Astfel, se urmărește să fie coloana vertebrală a unui nou cadru pentru detectarea iminentă a vremii severe, adaptat posibilităților tehnologice actuale.
 
-WeaMyL involves a multidisciplinary consortium including the Babeș-Bolyai University (BBU) as a leading institution in Machine Learning, the Romanian National Meteorological Administration (NMA) as a romanian leading team in research and operational meteorology and two teams from the Norwegian Meteorological Institute (MET) one having expertise in meteorological research and the other in machine learning and software development.
+WeaMyL implică un consorțiu multidisciplinar care include Universitatea Babeș-Bolyai (UBB) ca instituție de frunte în învățarea automată, Administrația Națională de Meteorologie din România (ANM) ca echipă românească de vârf în cercetare și meteorologie operațională și două echipe de la Institutul Meteorologic Norvegian (MET) una având expertiză în cercetarea meteorologică și cealaltă în învățarea automată și dezvoltarea de software.
 
-The WeaMyL project is funded by the EEA and Norway Grants under the number RO-NO-2019-0133. Contract: No 26/2020.
+Proiectul WeaMyL este finanțat de granturile SEE și Norway sub numărul RO-NO-2019-0133. Contract: nr. 26/2020.
 
-The total budget of the project is approximately 1 Million euros.
+Bugetul total al proiectului este de aproximativ 1 milion de euro.
 
-Period of realization : From September 2020 to August 2023.
+Perioada de realizare: din septembrie 2020 până în august 2023.
 
 <p align="center">
 <img src="assets/images/Norway_grants.png" width="120" height="120"/>
