@@ -26,9 +26,9 @@ Bugetul total al proiectului este de aproximativ 1 milion de euro.
 Perioada de realizare: din septembrie 2020 până în august 2023.
 
 <p align="center">
-<img src="assets/images/Norway_grants.png" width="120" height="120"/>
-<img src="assets/images/uefiscdi-logo-full-RO.png" width="120" height="120"/>
-<img src="assets/images/ubb.png" width="120" height="120"/>
-<img src="assets/images/anm.png" width="120" height="120"/>
-<img src="assets/images/met.png" width="120" height="120"/>
+<img src="https://weamyl.met.no/assets/images/Norway_grants.png" width="120" height="120"/>
+<img src="https://weamyl.met.no/assets/images/uefiscdi-logo-full-RO.png" width="120" height="120"/>
+<img src="https://weamyl.met.no/assets/images/ubb.png" width="120" height="120"/>
+<img src="https://weamyl.met.no/assets/images/anm.png" width="120" height="120"/>
+<img src="https://weamyl.met.no/assets/images/met.png" width="120" height="120"/>
 </p>
