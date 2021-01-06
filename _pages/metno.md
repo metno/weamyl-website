@@ -9,7 +9,7 @@ The Norwegian Meteorological Institute (MET Norway) is a state agency from Norwa
 
 MET Norway research team includes
  - Anne-Cecilie Riiser, Head of the IT department
- - Lisbeth Bergholt, senior computer scientist 
+ - Lisbeth Bergholt, senior computer scientist
  - Børge Moe, Senior computer scientist
  - Nina Elisabeth Larsgård, Researcher
  - Isak Buhl Mortensen, Scientist
@@ -17,6 +17,6 @@ MET Norway research team includes
  - Trygve Aspenes, Senior-Engineer
  - Anita Verpe Dyrrdal, Scientist and Head of the Norwegian Climate Service Centre
  - Abdelkader Mezghani, Senior Scientist
- - Kajsa Maria Parding, Youg Sceintist
+ - Kajsa Maria Parding, Young Sceintist
  - Helena Birkeland Erlandsen, Young Scientist
  - Tine Klemsdahl Eklund, Senior advisor

@@ -1,22 +1,23 @@
 ---
 permalink: /metno_ro/
-title: "About MET Norway"
+title: "Despre MET Norvegia"
 ---
 
 [EN](/metno/){: .btn .btn--primary}
 
-The Norwegian Meteorological Institute (MET Norway) is a state agency from Norway, a leading international centre of expertise responsible for public meteorological services for civil and military purposes. It forecasts weather, monitors the climate and conducts research. MET Norway is actively involved in the work of the WMO, the European Centre for Medium Range Weather Forecasts, and the European Organization for the Exploitation of Meteorological Satellites (EUMETSAT). MET Norway counts more than 80 researchers. The main research and development activities include atmospheric, oceanic and climatological research and involve both models and observations. MET Norway has also a long record of participation in regional and EEA/Norway Grant programmes in addition to EU-grants, projects funded by external organisations, and projects funded by the Norwegian Research Council and the Nordic organisation NordForsk.
+Institutul Meteorologic Norvegian (MET Norway) este o agenție de stat din Norvegia, un centru internațional de expertiză responsabil cu serviciile meteorologice publice, civile și militare. Acesta realizează prognoze ale vremii, monitorizează clima și are activități de cercetare. MET Norvegia este implicată activ în activitatea OMM, a Centrului European de Prognoză Meteo pe Termen Mediu și a Organizației Europene pentru Exploatarea Sateliților Meteorologici (EUMETSAT). MET Norvegia numără peste 80 de cercetători. Principalele activități de cercetare și dezvoltare includ cercetări atmosferice, oceanice și climatologice și implică atât modelare, cât și observare. MET Norvegia are, de asemenea, numeroase participări la programele de granturi regionale și SEE / Norvegia, pe lângă granturile UE, proiecte finanțate de organizații externe și proiecte finanțate de Consiliul Norvegian de Cercetare și de Organizația Nordică NordForsk.
 
-MET Norway research team includes
- - Anne-Cecilie Riiser, Head of the IT department
- - Lisbeth Bergholt, senior computer scientist 
- - Børge Moe, Senior computer scientist
- - Nina Elisabeth Larsgård, Researcher
- - Isak Buhl Mortensen, Scientist
- - Christoffer Artturi Elo, Researcher
- - Trygve Aspenes, Senior-Engineer
- - Anita Verpe Dyrrdal, Scientist and Head of the Norwegian Climate Service Centre
- - Abdelkader Mezghani, Senior Scientist
- - Kajsa Maria Parding, Youg Sceintist
- - Helena Birkeland Erlandsen, Young Scientist
- - Tine Klemsdahl Eklund, Senior advisor
+Echipa de cercetare MET Norvegia este formată din:
+
+ - Anne-Cecilie Riiser, directorul departamentului IT
+ - Lisbeth Bergholt, informatician senior
+ - Børge Moe, informatician senior
+ - Nina Elisabeth Larsgård, cercetător
+ - Isak Buhl Mortensen, om de știință
+ - Christoffer Artturi Elo, cercetător
+ - Trygve Aspenes, inginer senior
+ - Anita Verpe Dyrrdal, om de știință și director al Centrului Norvegian de Servicii Climatice
+ - Abdelkader Mezghani, om de știință senior
+ - Kajsa Maria Parding, om de știință tânăr
+ - Helena Birkeland Erlandsen, om de știință tânăr
+ - Tine Klemsdahl Eklund, consilier senior
