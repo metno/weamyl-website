@@ -3,7 +3,6 @@ permalink: /contact/
 title: "Contact"
 ---
 
-[RO](/contact_ro/){: .btn .btn--primary}
 
 The main contact persons of the WeaMyL project are:
 ## Czibula Gabriela, Principal Investigator
