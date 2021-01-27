@@ -3,10 +3,12 @@ main:
     url: /about/
   - title: Dissemination
     url: /dissemination/
-  - title: Partners 
+  - title: Partners
     url: /partners/
   - title: Contact
     url : /contact/
+  - title: Română
+    url : https://metno.github.io/weamyl-website-ro/
 
 page_links:
   - title: Pages
@@ -19,15 +21,14 @@ page_links:
       url: /partners/
     - title: Contact
       url : /contact/
-    
+
   - title: External Links
     children:
     - title: MET Norway
       url: https://met.no/
     - title: Babes-Bolyai University
       url: https://www.ubbcluj.ro/en/
-    - title: Romanian National Meteorological Administration 
+    - title: Romanian National Meteorological Administration
       url: www.meteoromania.ro
     - title: EEA and Norway Grants
       url: https://www.forskningsradet.no/en/apply-for-funding/international-funding/EEA/eos-midlene-romania/
-
