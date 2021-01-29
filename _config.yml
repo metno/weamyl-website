@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: WeaMyL
-subtitle: Research cooperation between Romania and Norway under the EEA and Norway Grants scheme
+subtitle: Research cooperation between Romania and Norway
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Combining Machine Learning ...
@@ -84,7 +84,7 @@ footer:
     - label: "Administrația Națională de Meteorologie"
       icon: "fas fa-fw fa-water"
       url: "https://www.meteoromania.ro/"
- 
+
 defaults:
   # _posts
   - scope:
