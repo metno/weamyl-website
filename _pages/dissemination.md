@@ -14,13 +14,13 @@ An overview of the outcomes for the project.
 
 ### Related Publications
 
-1. Czibula, G., Mihai, A., Mihuleț, E., Teodorovici, D., [Using self-organizing maps for unsupervised analysis of radar data for nowcasting purposes](/assets/files/KES2019.pdf), 23nd International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES2019), Procedia Computer Science  Vol 159, (2019)  pp. 48-57 - https://www.sciencedirect.com/science/article/pii/S1877050919313377
+1. Czibula, G., Mihai, A., Mihuleț, E., Teodorovici, D., [Using self-organizing maps for unsupervised analysis of radar data for nowcasting purposes](/assets/files/KES2019.pdf), 23nd International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES2019), Procedia Computer Science  Vol 159, (2019)  pp. 48-57
 
-2. Mihai, A., Czibula, G., Mihuleț, E., Analyzing Meteorological Data Using Unsupervised Learning Techniques, ICCP 2019: Proceedings of the IEEE International Conference on Intelligent Computer Communication and Processing, 2019, Cluj-Napoca, Romania, IEEE Computer Society Press, pp. 529 – 536 - https://ieeexplore.ieee.org/document/8959777
+2. Mihai, A., Czibula, G., Mihuleț, E., Analyzing Meteorological Data Using Unsupervised Learning Techniques, ICCP 2019: Proceedings of the IEEE International Conference on Intelligent Computer Communication and Processing, 2019, Cluj-Napoca, Romania, IEEE Computer Society Press, pp. 529 – 536 - [Available here](https://ieeexplore.ieee.org/document/8959777)
 
-3. Socaci, I. A.,  Czibula, G., Ionescu, V. S., Mihai, A., XNow: A deep learning technique for nowcasting based on radar products’ values prediction, IEEE 14th International Symposium on Applied Computational Intelligence and Informatics, SACI 2020, Timișoara, IEEE Computer Society, pp. 117-122 - https://ieeexplore.ieee.org/document/9118849
+3. Socaci, I. A.,  Czibula, G., Ionescu, V. S., Mihai, A., XNow: A deep learning technique for nowcasting based on radar products’ values prediction, IEEE 14th International Symposium on Applied Computational Intelligence and Informatics, SACI 2020, Timișoara, IEEE Computer Society, pp. 117-122 - [Available here](https://ieeexplore.ieee.org/document/9118849)
 
-4. Czibula, G., Mihai, A., Czibula, I.G., [RadRAR:  A relational association rule mining approach for nowcasting based on predicting radar products' values](/assets/files/KES2020.pdf), 24nd International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES2020), Procedia Computer Science, Vol. 176, pp. 300-309 - https://www.sciencedirect.com/science/article/pii/S1877050920318561
+4. Czibula, G., Mihai, A., Czibula, I.G., [RadRAR:  A relational association rule mining approach for nowcasting based on predicting radar products' values](/assets/files/KES2020.pdf), 24nd International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES2020), Procedia Computer Science, Vol. 176, pp. 300-309 
 
 ## Seminars and Workshops
 
