@@ -19,3 +19,6 @@ MET Norway research team includes
  - Kajsa Maria Parding, Young Sceintist
  - Helena Birkeland Erlandsen, Young Scientist
  - Tine Klemsdahl Eklund, Senior advisor
+
+
+<img src="assets/images/Met_RGB_Horisontal_ENG.jpg" width="300"/>
