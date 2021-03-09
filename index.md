@@ -26,5 +26,5 @@ Period of realization : From September 2020 to August 2023.
 <img src="assets/images/uefiscdi-logo-full-RO.png" width="120" height="120"/>
 <img src="assets/images/ubb.png" width="120" height="120"/>
 <img src="assets/images/anm.png" width="120" height="120"/>
-<img src="assets/images/met.png" width="120" height="120"/>
+<img src="assets/images/Met_RGB_Horisontal_ENG.jpg" width="120" height="120"/>
 </p>
