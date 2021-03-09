@@ -7,6 +7,8 @@ main:
     url: /partners/
   - title: Contact
     url : /contact/
+  - title: Privacy
+    url : /privacy/
   - title: Romanian
     url : https://metno.github.io/weamyl-website-ro/
 
@@ -21,6 +23,8 @@ page_links:
       url: /partners/
     - title: Contact
       url : /contact/
+    - title: Privacy
+      url : /privacy/
 
   - title: External Links
     children:
