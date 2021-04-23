@@ -3,6 +3,9 @@ main:
     url: /about/
   - title: Dissemination
     url: /dissemination/
+    sublinks:
+      - title: Nowcasting models
+      url: /models/
   - title: Partners
     url: /partners/
   - title: Nowcasting models
