@@ -5,6 +5,8 @@ main:
     url: /dissemination/
   - title: Partners
     url: /partners/
+  - title: Nowcasting models
+    url: /models/
   - title: Contact
     url : /contact/
   - title: Privacy
@@ -21,6 +23,8 @@ page_links:
       url: /dissemination/
     - title: Partners
       url: /partners/
+      title: Nowcasting models
+      url: /models/
     - title: Contact
       url : /contact/
     - title: Privacy
