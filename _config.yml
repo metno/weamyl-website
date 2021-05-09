@@ -80,6 +80,7 @@ author:
 
 footer:
   image: /assets/images/LogoMyLFinal-01.png
+  image2: /assets/images/ro-icon.png
   links:
     - label: "Romanian"
       icon: /assets/images/ro-icon.png
