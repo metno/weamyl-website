@@ -81,6 +81,9 @@ author:
 footer:
   image: /assets/images/LogoMyLFinal-01.png
   links:
+    - label: "Romanian"
+      icon: /assets/images/ro-icon.png
+      url: "https://metno.github.io/weamyl-website-ro/"
     - label: "MET Norway"
       icon: "fas fa-fw fa-water"
       url: "https://met.no/"
