@@ -15,7 +15,7 @@ WeaMyL project aims at enhancing the accuracy, performance and reliability of na
 
 WeaMyL involves a multidisciplinary consortium including the Babeș-Bolyai University (BBU) as a leading institution in Machine Learning, the Romanian National Meteorological Administration (NMA) as a romanian leading team in research and operational meteorology and two teams from the Norwegian Meteorological Institute (MET) one having expertise in meteorological research and the other in machine learning and software development.
 
-The WeaMyL project is funded by the EEA and Norway Grants under the number RO-NO-2019-0133. Contract: No 26/2020.
+The WeaMyL project is funded by Norway Grants under the number RO-NO-2019-0133. Contract: No 26/2020.
 
 The total budget of the project is approximately 1 Million euros.
 
