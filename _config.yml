@@ -81,6 +81,7 @@ author:
 footer:
   image: /assets/images/LogoMyLFinal-01.png
   image2: /assets/images/ro-icon2.png
+  imegae3: /assets/images/FooterText.png
   links:
     - label: "MET Norway"
       icon: "fas fa-fw fa-water"
