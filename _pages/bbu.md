@@ -20,7 +20,8 @@ Gabriela Czibula works as a professor in the Computer Science Department, Facult
 * <a href= "http://www.cs.ubbcluj.ro/~istvanc/"> Prof. Czibula Istvan, PhD </a>
 <table>
 <tr>
-<td width="25%" ><center> <img src="/assets/images/bio/Czibula_Istvan.png" </center></td>
+<td width="25%" ><center> <img src="assets/images/bio/Czibula_Istvan.png" </center></td>
+
      <td width="75%" align="justify"> Istvan Gergely Czibula works as a  professor at the Computer Science Department, Faculty of Mathematics and Computer Science from the Babes-Bolyai University, city of Cluj-Napoca, Romania. He received his PhD degree in Computer Science in 2009. He published more than 95 papers in various journals and conferences proceedings. His main research interests are Software Engineering and Object Oriented Design. <br>
      <a href="https://scholar.google.com/citations?user=eSWofb8AAAAJ&hl=ro&oi=sra"> Google Scholar Profile </a>
  </td> </tr>  
