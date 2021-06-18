@@ -9,6 +9,8 @@ Members of the MLyRE group involved in the WeaMyL project:
 
 * <a href= "http://www.cs.ubbcluj.ro/~gabis/"> Prof. Czibula Gabriela, PhD </a>
 * <a href= "http://www.cs.ubbcluj.ro/~istvanc/"> Prof. Czibula Istvan, PhD </a>
+| table     | test |
+|--picture--| -text- |
 * <a href= "https://arthur486.wordpress.com/"> Lect. Molnar Arthur, PhD </a>
 * <a href= "http://www.cs.ubbcluj.ro/~marianzsu/"> Lect. Onet-Marian Zsuzsanna, PhD </a>
 * Lect. Ionescu Vlad-Sebastian, PhD
