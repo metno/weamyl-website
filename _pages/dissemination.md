@@ -11,12 +11,17 @@ An overview of the outcomes for the project.
 ### Project publications
 
 <ol>
-<li> Czibula, G., Mihai, A., Mihuleț, E., <a href="/assets/files/applsci-11-00125.pdf">NowDeepN: An ensemble of deep learning models for weather nowcasting based on radar products’ values prediction</a>, Applied Sciences, 2021, 11(1), 125; Special Issue Applied Machine Learning, https://doi.org/10.3390/app11010125. (2019 IF=2.474, Q2).
+<li style="font-size:80%"> <p>Gabriela Czibula, Andrei Mihai, Eugen Mihuleț, <a href="/assets/files/applsci-11-00125.pdf">NowDeepN: An ensemble of deep learning models for weather nowcasting based on radar products’ values prediction</a>, Applied Sciences, 2021, 11(1), 125; Special Issue Applied Machine Learning, https://doi.org/10.3390/app11010125. (2019 IF=2.474, Q2).</p>
 </li>
-<li> Ionescu, V.-S., Czibula, G., Mihuleț, E., DeePSat: A deep learning model for prediction of satellite images for nowcasting purposes, 2th International Conference on Knowledge-Based and Intelligent Information (KES2021), accepted for publication </li>
+<li style="font-size:70%">  <p>Vlad-Sebastian Ionescu, Gabriela Czibula, Eugen Mihuleț, DeePSat: A deep learning model for prediction of satellite images for nowcasting purposes, 2th International Conference on Knowledge-Based and Intelligent Information (KES2021), accepted for publication</p> </li>
+
+<li style="font-size:80%"> <p> Albu, Alexandra-Ioana: Towards learning transferable embeddings for protein conformations using Variational Autoencoders, 25th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES2021), Procedia Computer Science, accepted for publication </p> </li>
+
+<li style="font-size:80%"> <p> Gabriela Czibula, Alexandra Albu, Maria Iuliana Bocicor, Camelia Chira, <a href="https://www.mdpi.com/1099-4300/23/6/643"> AutoPPI: An ensemble of deep autoencoders for protein-protein interaction prediction</a>, Entropy, Special issue on Computational Methods and Algorithms for Bioinformatics, 23(6), 643, 2021,  (2019 IF=2.494, Q2) </p> </li>
+
 </ol>
 
-#### Related Publications
+### Related Publications
 
 1. Czibula, G., Mihai, A., Mihuleț, E., Teodorovici, D., [Using self-organizing maps for unsupervised analysis of radar data for nowcasting purposes](/assets/files/KES2019.pdf), 23nd International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES2019), Procedia Computer Science  Vol 159, (2019)  pp. 48-57
 
