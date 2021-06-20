@@ -10,8 +10,9 @@ Members of the MLyRE group involved in the WeaMyL project:
 * <a href= "http://www.cs.ubbcluj.ro/~gabis/"> Prof. Czibula Gabriela, PhD </a>
 <table>
 <tr>
+<td width="25%" ><center> <img src="/assets/images/bio/Czibula-Gabriela.png"/> </center></td>
 <td align="justify">
-Gabriela Czibula works as a professor in the Computer Science Department, Faculty of Mathematics and Computer Science from the Babes-Bolyai University, city of Cluj-Napoca, Romania. She published more than 200 papers in prestigious journals and conferences proceedings. Her research interests include machine learning, distributed artificial intelligence and multiagent systems, boinformatics. <br>
+Gabriela Czibula works as a professor in the Computer Science Department, Faculty of Mathematics and Computer Science from the Babes-Bolyai University, city of Cluj-Napoca, Romania. She received her PhD degree in Computer Science in 2003. She published more than 200 papers in prestigious journals and conferences proceedings. Her research interests include Computational Intelligence, Machine Learning, Distributed Artificial Intelligence and Multiagent systems, Bioinformatics.<br>
 <a href="https://scholar.google.com/citations?user=0_ybi_oAAAAJ&hl=ro"> Google Scholar Profile </a>
 </td>
 </tr>
@@ -22,7 +23,7 @@ Gabriela Czibula works as a professor in the Computer Science Department, Facult
 <tr>
 <td width="25%" ><center> <img src="/assets/images/bio/Czibula_Istvan.png"/> </center></td>
 
-     <td width="75%" align="justify"> Istvan Gergely Czibula works as a  professor at the Computer Science Department, Faculty of Mathematics and Computer Science from the Babes-Bolyai University, city of Cluj-Napoca, Romania. He received his PhD degree in Computer Science in 2009. He published more than 95 papers in various journals and conferences proceedings. His main research interests are Software Engineering and Object Oriented Design. <br>
+     <td width="75%" align="justify"> Istvan Gergely Czibula works as a  professor at the Computer Science Department, Faculty of Mathematics and Computer Science from the Babes-Bolyai University, city of Cluj-Napoca, Romania. He received his PhD degree in Computer Science in 2009. He published more than 95 papers in various journals and conferences proceedings. His main research interests are Search-based Software Engineering, Software Engineering, Programming paradigms, Object Oriented Design and Machine Learning.<br>
      <a href="https://scholar.google.com/citations?user=eSWofb8AAAAJ&hl=ro&oi=sra"> Google Scholar Profile </a>
  </td> </tr>  
 </table>
