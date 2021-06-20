@@ -10,11 +10,13 @@ An overview of the outcomes for the project.
 
 ### Project publications
 
-1. Czibula, G., Mihai, A., Mihuleț, E., [NowDeepN: An ensemble of deep learning models for weather nowcasting based on radar products' values prediction](/assets/files/applsci-11-00125.pdf), Applied Sciences, 2021, 11(1), 125; Special Issue Applied Machine Learning, https://doi.org/10.3390/app11010125. (2019 IF=2.474, Q2).
+<ol>
+<li> Czibula, G., Mihai, A., Mihuleț, E., <a href="/assets/files/applsci-11-00125.pdf">NowDeepN: An ensemble of deep learning models for weather nowcasting based on radar products’ values prediction</a>, Applied Sciences, 2021, 11(1), 125; Special Issue Applied Machine Learning, https://doi.org/10.3390/app11010125. (2019 IF=2.474, Q2).
+</li>
+<li> Ionescu, V.-S., Czibula, G., Mihuleț, E., DeePSat: A deep learning model for prediction of satellite images for nowcasting purposes, 2th International Conference on Knowledge-Based and Intelligent Information (KES2021), accepted for publication </li>
+</ol>
 
-2. Ionescu, V.-S., Czibula, G., Mihuleț, E., DeePSat: A deep learning model for prediction of satellite images for nowcasting purposes, 2th International Conference on Knowledge-Based and Intelligent Information (KES2021), accepted for publication
-
-### Related Publications
+#### Related Publications
 
 1. Czibula, G., Mihai, A., Mihuleț, E., Teodorovici, D., [Using self-organizing maps for unsupervised analysis of radar data for nowcasting purposes](/assets/files/KES2019.pdf), 23nd International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES2019), Procedia Computer Science  Vol 159, (2019)  pp. 48-57
 
