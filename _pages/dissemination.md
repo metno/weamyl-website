@@ -29,29 +29,39 @@ An overview of the outcomes for the project.
 <li style="font-size:80%"> <p> Andrei Mihai, Gabriela Czibula, Eugen Mihuleț, Analyzing Meteorological Data Using Unsupervised Learning Techniques, ICCP 2019: Proceedings of the IEEE International Conference on Intelligent Computer Communication and Processing, 2019, Cluj-Napoca, Romania, IEEE Computer Society Press, pp. 529 – 536 - <a href="https://ieeexplore.ieee.org/document/8959777">Available here</a> </p> </li>
 
 
-<li style="font-size:80%"> <p>  Ioana Angela Socaci, Gabriela Czibula, Vlad-Sebastian Ionescu, Andrei Mihai, XNow: A deep learning technique for nowcasting based on radar products’ values prediction, IEEE 14th International Symposium on Applied Computational Intelligence and Informatics, SACI 2020, Timișoara, IEEE Computer Society, pp. 117-122 - <a href="https://ieeexplore.ieee.org/document/9118849">Available here</a></p>
+<li style="font-size:80%"> <p>  Ioana Angela Socaci, Gabriela Czibula, Vlad-Sebastian Ionescu, Andrei Mihai, XNow: A deep learning technique for nowcasting based on radar products’ values prediction, IEEE 14th International Symposium on Applied Computational Intelligence and Informatics, SACI 2020, Timișoara, IEEE Computer Society, pp. 117-122 - <a href="https://ieeexplore.ieee.org/document/9118849">Available here</a></p> </li>
 
 <li style="font-size:80%"> <p> Gabriela Czibula, Andrei Mihai, Istvan Gergely Czibula, <a href="/assets/files/KES2020.pdf">RadRAR:  A relational association rule mining approach for nowcasting based on predicting radar products’ values</a>, 24nd International Conference on Knowledge-Based and Intelligent Information &amp; Engineering Systems (KES2020), Procedia Computer Science, Vol. 176, pp. 300-309</p> </li>
-
 </ol>
 
 ## Workshops
 
-* On the 28th of May the [1st Workshop on Applied Deep Leaning](http://www.cs.ubbcluj.ro/weadl/) was jointly organised by the MLyRE research group on Machine Learning, Faculty of Mathematics and Computer Science, Babeș-Bolyai University together with the Romanian National Meteorological Administration and Meteorologisk Institutt Norway.
+<ul>
+<li style="font-size:80%"> <p> On the 28th of May the <a href="http://www.cs.ubbcluj.ro/weadl/"> 1st Workshop on Applied Deep Leaning </a> was jointly organised by the MLyRE research group on Machine Learning, Faculty of Mathematics and Computer Science, Babeș-Bolyai University together with the Romanian National Meteorological Administration and Meteorologisk Institutt Norway. </p> </li>
+</ul>
 
 ## Presentations
 
-* Eugen Mihuleț (NMA): [Technology in weather forecasting](http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/Technology%20in%20Weather%20Forecasting%20-%20Eugen%20Mihulet.pdf)
-* Sorin Burcea (NMA): [Weather radars – basic principles and application in nowcasting in Romania](http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/Weather%20Radars%20-%20Burcea%20Sorin.pdf)
-*  Prof. Istvan Czibula (UBB): [Computational models for nowcasting](http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/Computational%20Models%20for%20Nowcasting%20-%20Istvan%20Czibula.pdf)
-* Andrei Mihai, PhD. Student (UBB): [Supervised and unsupervised machine learning for nowcasting, applied on radar data from central Transylvania region](http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/ML%20for%20Nowcasting%20in%20Transylvania%20-%20Andrei%20Mihai.pdf)
-* Lect. Vlad Ionescu (UBB): [Deep neural network models for nowcasting using satellite data](http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/DNN%20models%20for%20satellite%20data%20-%20Ionescu%20Vlad.pdf)
+<ul>
+<li style="font-size:80%"> <p> Eugen Mihuleț (NMA): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/Technology%20in%20Weather%20Forecasting%20-%20Eugen%20Mihulet.pdf"> Technology in weather forecasting </a> </p> </li>
+
+<li style="font-size:80%"> <p> Sorin Burcea (NMA): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/Weather%20Radars%20-%20Burcea%20Sorin.pdf"> Weather radars basic principles and application in nowcasting in Romania </a> </p> </li>
+
+<li style="font-size:80%"> <p> Prof. Istvan Czibula (UBB): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/Computational%20Models%20for%20Nowcasting%20-%20Istvan%20Czibula.pdf"> Computational models for nowcasting </a> </p> </li>
+
+<li style="font-size:80%"> <p> Andrei Mihai, PhD. Student (UBB): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/ML%20for%20Nowcasting%20in%20Transylvania%20-%20Andrei%20Mihai.pdf"> Supervised and unsupervised machine learning for nowcasting, applied on radar data from central Transylvania region </a> </p> </li>
+
+<li style="font-size:80%"> <p> Lect. Vlad Ionescu (UBB): <a href= "http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/DNN%20models%20for%20satellite%20data%20-%20Ionescu%20Vlad.pdf"> Deep neural network models for nowcasting using satellite data </a> </p> </li>
+</ul>
+
 
 ## Video
 
 ## Interviews, Press releases, Testimonials
 
-* [Press release on NMA's web page about the WeaMyL project](http://www.meteoromania.ro/wp-content/uploads/comunicate/Proiect_WeaMyL.pdf)
+<ul>
+<li style="font-size:80%"> <p> <a href="http://www.meteoromania.ro/wp-content/uploads/comunicate/Proiect_WeaMyL.pdf"> Press release on NMA's web page about the WeaMyL project </a> </p> </li>
+</ul>
 
 ## Social media
 
