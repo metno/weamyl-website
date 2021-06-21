@@ -3,7 +3,7 @@ main:
     url: /about/
   - title: Dissemination
     url: /dissemination/
-  - title: Partners
+  - title: Partners/Project teams
     url: /partners/
   - title: Nowcasting models
     url: /models/
@@ -21,7 +21,7 @@ page_links:
       url: /about/
     - title: Dissemination
       url: /dissemination/
-    - title: Partners
+    - title: Partners/Project teams
       url: /partners/
     - title: Nowcasting models
       url: /models/

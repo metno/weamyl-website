@@ -1,6 +1,6 @@
 ---
 permalink: /partners/
-title: "Partners"
+title: "Partners/Project teams"
 ---
 
 The consortium members are:

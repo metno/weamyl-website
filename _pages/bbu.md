@@ -27,6 +27,7 @@ Gabriela Czibula works as a professor in the Computer Science Department, Facult
      <a href="https://scholar.google.com/citations?user=eSWofb8AAAAJ&hl=ro&oi=sra"> Google Scholar Profile </a>
  </td> </tr>  
 </table>
+* <a href="https://sites.google.com/view/iuliana-bocicor/home"> Conf. Bocicor Iuliana, PhD </a>
 * <a href= "https://arthur486.wordpress.com/"> Lect. Molnar Arthur, PhD </a>
 * <a href= "http://www.cs.ubbcluj.ro/~marianzsu/"> Lect. Onet-Marian Zsuzsanna, PhD </a>
 * Lect. Ionescu Vlad-Sebastian, PhD
