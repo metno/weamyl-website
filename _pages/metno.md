@@ -24,6 +24,17 @@ MET Norway research team includes
  * Isak Buhl Mortensen, Scientist
  * Christoffer Artturi Elo, Researcher
  * Trygve Aspenes, Senior-Engineer
+ 
+ <table>
+ <tr>
+ <td width="25%" ><center> <img src="/assets/images/bio/Trygve_Aspenes.png"/> </center></td>
+  <td align="justify">
+ Trygve Aspenes works as a Senior Engineer at the Norwegian Meteorological Institute, in Oslo, Norway. He has a Master of Science degree in Meteorology. His main interests are: Satellite data in weather forecasting; how to receive, process and distribute these data to users.
+ <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
+ </td>
+ </tr>
+ </table>
+ 
  * Anita Verpe Dyrrdal, Scientist and Head of the Norwegian Climate Service Centre
  * Abdelkader Mezghani, Senior Scientist
  
