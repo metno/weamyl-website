@@ -35,6 +35,17 @@ MET Norway research team includes
  </tr>
  </table>
  
+* Arild Burud, 
+<table>
+ <tr>
+ <td width="25%" ><center> <img src="/assets/images/bio/Abdelkader_Mezghani.png"/> </center></td>
+  <td align="justify">
+   Arild Burud works as IT senior engineer in the Norwegian Meteorological Institute, Oslo, Norway. He has a diverse education with a BSc. in structural engineering and IT. His main interests is in joining researchers and IT for the benefit of both, to help getting research open and accessible.
+ <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
+ </td>
+ </tr>
+ </table>
+ 
  * Anita Verpe Dyrrdal, Scientist and Head of the Norwegian Climate Service Centre
  * Abdelkader Mezghani, Senior Scientist
  
