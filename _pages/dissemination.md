@@ -24,6 +24,8 @@ An overview of the outcomes for the project.
 
 <li style="font-size:80%"> <p> Bratu A., Czibula G., DAuGAN: An approach for augmenting time series imbalanced datasets via latent space sampling using adversarial techniques, Scientific Programming, 2021, accepted for publication (2020 IF=1.025, Q4) </p> </li>
 
+<li style="font-size:80%"> <p> Nistor, S.C., Czibula, G., IntelliSwAS: Optimizing Deep Neural Network Architectures using a Particle Swarm-based Approach,  Expert systems with Applications, 2021, accepted for publication, in press, (2020 IF=6.954, Q1) </p> </li>
+
 </ol>
 
 ### Related Publications
