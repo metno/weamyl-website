@@ -19,7 +19,17 @@ MET Norway research team includes
  </table>
 
  * Lisbeth Bergholt, senior computer scientist
- * Børge Moe, Senior computer scientist
+
+<table>
+ <tr>
+ <td align="justify">
+ Lisbeth Bergholt works as a senior computer scientist at the Norwegian Meteorological Institute, in Oslo, Norway. She has a PhD in Nuclear Physics. Her main interests are: Open source projects, making meteorological data available to the meteorologists and to the public.<br>
+ <a href="https://www.linkedin.com/in/lisbeth-bergholt-a1544a3/"> LinkedIn Profile </a>
+ </td>
+ </tr>
+ </table>
+
+* Børge Moe, Senior computer scientist
  * Nina Elisabeth Larsgård, Researcher
  * Isak Buhl Mortensen, Scientist
  * Christoffer Artturi Elo, Researcher
