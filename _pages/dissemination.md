@@ -76,8 +76,11 @@ An overview of the outcomes for the project.
 
 <li style="font-size:80%"> <p> Iulia-Monica Szuhai (UBB): <a href= "http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/DNA%20classification%20using%20DL%20-%20Szuhai%20Iulia-Monica.pdf"> DNA classification using supervised deep learning </a> </p> </li>
 
+<li style="font-size:80%"> <p> Sorin Burcea (NMA): <a href= "/assets/files/prezentare_interna_Meteo.pdf"> Proiect WeaMyL </a> </p> </li>
+
 </ul>
 
+## PhD Thesis
 
 ## Video
 
