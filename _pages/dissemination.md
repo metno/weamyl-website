@@ -41,6 +41,8 @@ An overview of the outcomes for the project.
 <li style="font-size:80%"> <p> Gabriela Czibula, Andrei Mihai, Istvan Gergely Czibula, <a href="/assets/files/KES2020.pdf">RadRAR:  A relational association rule mining approach for nowcasting based on predicting radar products’ values</a>, 24nd International Conference on Knowledge-Based and Intelligent Information &amp; Engineering Systems (KES2020), Procedia Computer Science, Vol. 176, pp. 300-309</p> </li>
 </ol>
 
+## PhD Thesis
+
 ## Workshops
 
 <ul>
@@ -80,7 +82,6 @@ An overview of the outcomes for the project.
 
 </ul>
 
-## PhD Thesis
 
 ## Video
 
