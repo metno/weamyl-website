@@ -30,11 +30,11 @@ MET Norway research team includes
  </table>
 
 * Børge Moe, Senior computer scientist
- * Nina Elisabeth Larsgård, Researcher
- * Isak Buhl Mortensen, Scientist
- * Christoffer Artturi Elo, Researcher
- * Trygve Aspenes, Senior-Engineer
- 
+* Nina Elisabeth Larsgård, Researcher
+* Isak Buhl Mortensen, Scientist
+* Christoffer Artturi Elo, Researcher
+* Trygve Aspenes, Senior-Engineer
+
  <table>
  <tr>
  <td width="25%" ><center> <img src="/assets/images/bio/Trygve_Aspenes.png"/> </center></td>
@@ -44,34 +44,33 @@ MET Norway research team includes
  </td>
  </tr>
  </table>
- 
-* Arild Burud, 
+
+* Arild Burud,
 <table>
  <tr>
- <td width="25%" ><center> <img src="/assets/images/bio/Abdelkader_Mezghani.png"/> </center></td>
+
   <td align="justify">
    Arild Burud works as IT senior engineer in the Norwegian Meteorological Institute, Oslo, Norway. He has a diverse education with a BSc. in structural engineering and IT. His main interests is in joining researchers and IT for the benefit of both, to help getting research open and accessible.
  <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
  </td>
  </tr>
  </table>
- 
- * Anita Verpe Dyrrdal, Scientist and Head of the Norwegian Climate Service Centre
- * Abdelkader Mezghani, Senior Scientist
- 
+
+* Anita Verpe Dyrrdal, Scientist and Head of the Norwegian Climate Service Centre
+
+* Abdelkader Mezghani, Senior Scientist
  <table>
  <tr>
- <td width="25%" ><center> <img src="/assets/images/bio/Abdelkader_Mezghani.png"/> </center></td>
   <td align="justify">
  Dr. Abdelkader Mezghani is a senior scientist at the Climate and Model Analysis group, Norwegian Meteorological Institute. His main interests include downscaling of weather and climate information, statistical analyses, programming and web developments, modeling of temperature and precipitation, Big data, Neural networks.<br>
  <a href="https://orcid.org/0000-0003-2825-5884"> ORCID </a>;<a href="https://no.linkedin.com/in/abdelkader-mezghani-8a3aa127"> LinkedIn Profile </a>; <a href="https://scholar.google.com/citations?user=oeIMYnUAAAAJ&hl=en"> Google Scholars </a>
  </td>
  </tr>
  </table>
- 
- * Kajsa Maria Parding, Young Sceintist
- * Helena Birkeland Erlandsen, Young Scientist
- * Tine Klemsdahl Eklund, Senior advisor
+
+* Kajsa Maria Parding, Young Sceintist
+* Helena Birkeland Erlandsen, Young Scientist
+* Tine Klemsdahl Eklund, Senior advisor
 
 
-<img src="assets/images/Met_RGB_Horisontal_ENG.jpg" width="300"/>
+<img src="/assets/images/Met_RGB_Horisontal_ENG.jpg" width="300"/>

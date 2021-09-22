@@ -9,6 +9,14 @@ The Romanian National Meteorological Administration provides warnings for the pu
 The NMA research team involved in the WeaMyL project is multidisciplinary, with expertise in severe weather research, radar and satellite meteorology and data processing and analysis, weather forecasting, and climate research and services. Romanian NMA team includes:
 
 * Sorin Burcea, PhD
+<table>
+<tr>
+ <td align="justify">Dr. Sorin Burcea works as a scientific researcher at the National Meteorological Administration, in Bucharest, Romania. His main activity is focused on radar meteorology, and his main scientific interests include radar-based climatology of storms, severe weather risk assessment, radar quantitative precipitation estimation and quality of weather radar data and processing algorithms.<br>
+<a href="https://www.researchgate.net/profile/Sorin-Burcea"> Research Gate Profile </a>
+</td>
+</tr>
+</table>
+
 * Eugen Mihuleț, Forecaster
 * Gabriela Băncilă, Phd
 * Andrei Diamandi, Phd
