@@ -35,9 +35,32 @@ Gabriela Czibula works as a professor in the Computer Science Department, Facult
      <a href="https://scholar.google.com/citations?user=WZnRL3YAAAAJ&hl=en"> Google Scholar Profile </a>
  </td> </tr>  
 </table>
-* <a href= "https://arthur486.wordpress.com/"> Lect. Molnar Arthur, PhD </a>
+* <a href= "https://arthur486.wordpress.com/"> Lect. Molnar Arthur-Jozsef, PhD </a>
+<table>
+<tr>
+<td width="25%" ><center> <img src="/assets/images/bio/ArthurMolnar-circle.png"/> </center></td>
+     <td width="75%" align="justify">Molnar Arthur is a Lecturer in Computer Science currently teaching at the Babes-Bolyai University. His PhD. thesis targeted the visualisation and testing of GUI-driven applications and was successfully defended in 2012. His research expanded to cover metrics and their relation with software quality, together with applications of computer science to eHealth and adjoining domains. He coordinated the Romanian partners within 2 international research projects in eHealth and worked as a researcher in several others, including at FP7 and Horizon 2020 level.  <br>
+     <a href="https://scholar.google.com/citations?user=aPimZycAAAAJ&hl=en"> Google Scholar Profile </a>
+ </td> </tr>  
+</table>
+
 * <a href= "http://www.cs.ubbcluj.ro/~marianzsu/"> Lect. Onet-Marian Zsuzsanna, PhD </a>
+<table>
+ <tr>
+ <td align="justify"> Zsuzsanna Onet-Marian works as a lecturer in the Computer Science Department, Faculty of Mathematics and Computer Science from the Babes-Bolyai University, Cluj-Napoca, Romania. She published more than 25 papers in prestigious journals and conferences proceedings. Her main research interests are Machine Learning and Search-Based Software Engineering. <br>
+ <a href="https://scholar.google.com/citations?user=U_dLunYAAAAJ&hl=en"> Google Scholar Profile </a>
+ </td>
+ </tr>
+ </table>
+
 * Lect. Ionescu Vlad-Sebastian, PhD
+<table>
+<tr>
+<td width="25%" ><center> <img src="/assets/images/bio/vlad_ionescu-circle.png"/> </center></td>
+     <td width="75%" align="justify">I am a Lecturer at the Babes-Bolyai University in Cluj-Napoca, Romania. My main research interests are machine learning and deep learning applied in various other fields of study for finding better solutions to existing problems in those fields. I am also interested in software engineering and regularly do freelance work on various programming projects. <br>
+     <a href="https://scholar.google.ro/citations?user=iUuFgp0AAAAJ&hl=en"> Google Scholar Profile </a>
+ </td> </tr>  
+</table>
 * Lect. Mircea Ioan-Gabriel
 * Assist. Miholca Diana-Lucia, PhD
 <table>
@@ -48,4 +71,24 @@ Gabriela Czibula works as a professor in the Computer Science Department, Facult
  </td> </tr>  
 </table>
 * Mihai Andrei, PhD student
+
 * Albu Alexandra, PhD student
+<table>
+ <tr>
+ <td align="justify">
+ Alexandra Albu is a PhD student at the Faculty of Mathematics and Computer Science, Babes-Bolyai University in Cluj-Napoca, Romania. Her research interests include Representation Learning, Deep Generative Models and Variational Inference.
+<br>
+ <a href="https://scholar.google.ro/citations?user=ULzTj-UAAAAJ&hl=en"> Google Scholar Profile </a>
+ </td>
+ </tr>
+ </table>
+
+* Maier Mariana, PhD student
+ <table>
+  <tr>
+  <td align="justify">
+  Mariana Maier is a PhD student in the Computer Science Department, Faculty of Mathematics and Computer Science from the Babes-Bolyai University, city of Cluj-Napoca, Romania. Her research interests include Computational Intelligence, Machine Learning, Educational Data Mining. <br>
+  <a href="https://scholar.google.com/citations?user=1MQDkl4AAAAJ&hl=ro"> Google Scholar Profile </a>
+  </td>
+  </tr>
+  </table>
