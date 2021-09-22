@@ -37,9 +37,9 @@ MET Norway research team includes
 
  <table>
  <tr>
- <td width="25%" ><center> <img src="/assets/images/bio/Trygve_Aspenes.png"/> </center></td>
+
   <td align="justify">
- Trygve Aspenes works as a Senior Engineer at the Norwegian Meteorological Institute, in Oslo, Norway. He has a Master of Science degree in Meteorology. His main interests are: Satellite data in weather forecasting; how to receive, process and distribute these data to users.
+ Trygve Aspenes works as a Senior Engineer at the Norwegian Meteorological Institute, in Oslo, Norway. He has a Master of Science degree in Meteorology. His main interests are: Satellite data in weather forecasting; how to receive, process and distribute these data to users.<br>
  <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
  </td>
  </tr>
@@ -48,9 +48,8 @@ MET Norway research team includes
 * Arild Burud,
 <table>
  <tr>
-
   <td align="justify">
-   Arild Burud works as IT senior engineer in the Norwegian Meteorological Institute, Oslo, Norway. He has a diverse education with a BSc. in structural engineering and IT. His main interests is in joining researchers and IT for the benefit of both, to help getting research open and accessible.
+   Arild Burud works as IT senior engineer in the Norwegian Meteorological Institute, Oslo, Norway. He has a diverse education with a BSc. in structural engineering and IT. His main interests is in joining researchers and IT for the benefit of both, to help getting research open and accessible.<br>
  <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
  </td>
  </tr>
