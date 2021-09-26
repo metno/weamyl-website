@@ -42,7 +42,10 @@ An overview of the outcomes for the project.
 </ol>
 
 ## PhD Thesis
+<ul>
+<li style="font-size:80%"> <p> Andrei Mihai (BBU): <a href="/assets/files/PhdAndrei_en.pdf"> Machine learning models for weather nowcasting </a> </p> </li>
 
+</ul>
 ## Workshops
 
 <ul>
