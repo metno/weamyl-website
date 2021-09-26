@@ -62,6 +62,16 @@ Gabriela Czibula works as a professor in the Computer Science Department, Facult
  </td> </tr>  
 </table>
 * Lect. Mircea Ioan-Gabriel
+* Assist. Mihai Andrei, PhD
+<table>
+<tr>
+<td width="25%" ><center> <img src="/assets/images/bio/MihaiAndrei-circle.png"/> </center></td>
+     <td width="75%" align="justify"> Mihai Andrei works as a teaching assistant in the Department of Computer Science, Faculty of Mathematics and Computer Science from the Babeș-Bolyai University of Cluj-Napoca, Romania. He received his PhD degree in Computer Science in 2021, the research centering around machine learning models for weather nowcasting. He published 10 papers in international journals and conference proceedings. His main research interests are Machine Learning and Computational Intelligence.
+<br>
+     <a href="https://scholar.google.com/citations?user=1krQvyoAAAAJ&hl=en"> Google Scholar Profile </a>
+ </td> </tr>  
+</table>
+
 * Assist. Miholca Diana-Lucia, PhD
 <table>
 <tr>
@@ -70,7 +80,6 @@ Gabriela Czibula works as a professor in the Computer Science Department, Facult
      <a href="https://scholar.google.ro/citations?user=N8WkF18AAAAJ&hl=en"> Google Scholar Profile </a>
  </td> </tr>  
 </table>
-* Mihai Andrei, PhD student
 
 * Albu Alexandra, PhD student
 <table>
