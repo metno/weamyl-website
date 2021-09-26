@@ -43,14 +43,14 @@ An overview of the outcomes for the project.
 
 ## PhD Thesis
 <ul>
-<li style="font-size:80%"> <p> Andrei Mihai (BBU): <a href="/assets/files/PhdAndrei_en.pdf"> Machine learning models for weather nowcasting </a> </p> </li>
+<li style="font-size:80%"> <p> Andrei Mihai (BBU): <a href="/assets/files/PhDAndrei_en.pdf"> Machine learning models for weather nowcasting </a> </p> </li>
 
 </ul>
 
 ## Workshops
 
 <ul>
-<li style="font-size:80%"> <p> On the 28th of May the <a href="http://www.cs.ubbcluj.ro/weadl/"> 1st Workshop on Applied Deep Leaning </a> was jointly organised by the MLyRE research group on Machine Learning, Faculty of Mathematics and Computer Science, Babeș-Bolyai University together with the Romanian National Meteorological Administration and Meteorologisk Institutt Norway. </p> </li>
+<li style="font-size:80%"> <p> On the 28th of May the <a href="http://www.cs.ubbcluj.ro/weadl/"> 1st Workshop on Applied Deep Learning </a> was jointly organised by the MLyRE research group on Machine Learning, Faculty of Mathematics and Computer Science, Babeș-Bolyai University together with the Romanian National Meteorological Administration and Meteorologisk Institutt Norway. </p> </li>
 </ul>
 
 ## Presentations
