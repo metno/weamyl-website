@@ -10,7 +10,8 @@ MET Norway research team includes
 ## Anne-Cecilie Riiser, Head of the IT department
  <table>
  <tr>
- <td align="justify">
+  <td width="10%" ><center> <img src="/assets/images/bio/anne_metno.jpg"/> </center></td>
+  <td align="justify">
  Anne-Cecilie Riiser works as the IT-director (CIO) at the Norwegian Meteorological Institute, in Oslo, Norway. She has a Master of Science degree In Theoretical Physics and an Executive MBA in Global E-Management. Her main interests are: IT development methodologies, IT operation methodologies, IT architecture, AI and new technology trends.<br>
  <a href="https://www.linkedin.com/in/anne-cecilie-riiser-b8885b/"> LinkedIn Profile </a>
  </td>
@@ -20,7 +21,8 @@ MET Norway research team includes
 ## Lisbeth Bergholt, senior computer scientist
 <table>
  <tr>
- <td align="justify">
+  <td width="10%" ><center> <img src="/assets/images/bio/lisbeth_metno.jpg"/> </center></td>
+  <td align="justify">
  Lisbeth Bergholt works as a senior computer scientist at the Norwegian Meteorological Institute, in Oslo, Norway. She has a PhD in Nuclear Physics. Her main interests are: Open source projects, making meteorological data available to the meteorologists and to the public.<br>
  <a href="https://www.linkedin.com/in/lisbeth-bergholt-a1544a3/"> LinkedIn Profile </a>
  </td>
