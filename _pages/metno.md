@@ -97,7 +97,7 @@ MET Norway research team includes
  </tr>
  </table>
 
-# Anita Verpe Dyrrdal, Scientist and Head of the Norwegian Climate Service Centre
+## Anita Verpe Dyrrdal, Scientist and Head of the Norwegian Climate Service Centre
 <table>
  <tr>
   <td width="10%" ><center> <img src="/assets/images/bio/anita_metno.jpg"/> </center></td>
@@ -108,7 +108,7 @@ MET Norway research team includes
  </tr>
  </table>
 
-# Abdelkader Mezghani, Senior Scientist
+## Abdelkader Mezghani, Senior Scientist
  <table>
  <tr>
   <td width="10%" ><center> <img src="/assets/images/bio/abdelkader_metno.jpg"/> </center></td>
@@ -119,7 +119,7 @@ MET Norway research team includes
  </tr>
  </table>
 
-# Kajsa Maria Parding, Young Sceintist
+## Kajsa Maria Parding, Young Sceintist
 <table>
  <tr>
   <td width="10%" ><center> <img src="/assets/images/bio/kajsa_metno.jpg"/> </center></td>
@@ -129,7 +129,8 @@ MET Norway research team includes
  </td>
  </tr>
  </table>
-# Helena Birkeland Erlandsen, Young Scientist
+
+## Helena Birkeland Erlandsen, Young Scientist
 <table>
  <tr>
   <td width="10%" ><center> <img src="/assets/images/bio/helene_metno.jpg"/> </center></td>
@@ -139,7 +140,8 @@ MET Norway research team includes
  </td>
  </tr>
  </table>
-# Tine Klemsdahl Eklund, Senior advisor
+
+## Tine Klemsdahl Eklund, Senior advisor
 <table>
  <tr>
   <td width="10%" ><center> <img src="/assets/images/bio/tine_metno.jpg"/> </center></td>
