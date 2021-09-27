@@ -28,13 +28,49 @@ MET Norway research team includes
  </table>
 
 # Børge Moe, Senior computer scientist
+<table>
+ <tr>
+  <td width="10%" ><center> <img src="/assets/images/bio/borge_metno.jpg"/> </center></td>
+  <td align="justify">
+ Trygve Aspenes works as a Senior Engineer at the Norwegian Meteorological Institute, in Oslo, Norway. He has a Master of Science degree in Meteorology. His main interests are: Satellite data in weather forecasting; how to receive, process and distribute these data to users.<br>
+ <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
+ </td>
+ </tr>
+ </table>
 # Nina Elisabeth Larsgård, Researcher
+<table>
+ <tr>
+  <td width="10%" ><center> <img src="/assets/images/bio/nina_metno.jpg"/> </center></td>
+  <td align="justify">
+ Trygve Aspenes works as a Senior Engineer at the Norwegian Meteorological Institute, in Oslo, Norway. He has a Master of Science degree in Meteorology. His main interests are: Satellite data in weather forecasting; how to receive, process and distribute these data to users.<br>
+ <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
+ </td>
+ </tr>
+ </table>
 # Isak Buhl Mortensen, Scientist
+<table>
+ <tr>
+  <td width="10%" ><center> <img src="/assets/images/bio/isak_metno.jpg"/> </center></td>
+  <td align="justify">
+ Trygve Aspenes works as a Senior Engineer at the Norwegian Meteorological Institute, in Oslo, Norway. He has a Master of Science degree in Meteorology. His main interests are: Satellite data in weather forecasting; how to receive, process and distribute these data to users.<br>
+ <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
+ </td>
+ </tr>
+ </table>
 # Christoffer Artturi Elo, Researcher
+<table>
+ <tr>
+  <td width="10%" ><center> <img src="/assets/images/bio/christoffer_metno.jpg"/> </center></td>
+  <td align="justify">
+ Trygve Aspenes works as a Senior Engineer at the Norwegian Meteorological Institute, in Oslo, Norway. He has a Master of Science degree in Meteorology. His main interests are: Satellite data in weather forecasting; how to receive, process and distribute these data to users.<br>
+ <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
+ </td>
+ </tr>
+ </table>
 # Trygve Aspenes, Senior-Engineer
-
  <table>
  <tr>
+  <td width="10%" ><center> <img src="/assets/images/bio/trygve_metno.jpg"/> </center></td>
   <td align="justify">
  Trygve Aspenes works as a Senior Engineer at the Norwegian Meteorological Institute, in Oslo, Norway. He has a Master of Science degree in Meteorology. His main interests are: Satellite data in weather forecasting; how to receive, process and distribute these data to users.<br>
  <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
@@ -45,6 +81,7 @@ MET Norway research team includes
 # Arild Burud,
 <table>
  <tr>
+  <td width="10%" ><center> <img src="/assets/images/bio/arild_metno.jpg"/> </center></td>
   <td align="justify">
    Arild Burud works as IT senior engineer in the Norwegian Meteorological Institute, Oslo, Norway. He has a diverse education with a BSc. in structural engineering and IT. His main interests is in joining researchers and IT for the benefit of both, to help getting research open and accessible.<br>
  <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
@@ -55,7 +92,7 @@ MET Norway research team includes
 # Anita Verpe Dyrrdal, Scientist and Head of the Norwegian Climate Service Centre
 <table>
  <tr>
-  <td width="10%" ><center> <img src="/assets/images/bio/abdelkader_metno.jpg"/> </center></td>
+  <td width="10%" ><center> <img src="/assets/images/bio/anita_metno.jpg"/> </center></td>
   <td align="justify">
  Dr. Anita Verpe Dyrrdal <br>
  <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
@@ -75,8 +112,34 @@ MET Norway research team includes
  </table>
 
 # Kajsa Maria Parding, Young Sceintist
+<table>
+ <tr>
+  <td width="10%" ><center> <img src="/assets/images/bio/kajsa_metno.jpg"/> </center></td>
+  <td align="justify">
+ Dr. Anita Verpe Dyrrdal <br>
+ <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
+ </td>
+ </tr>
+ </table>
 # Helena Birkeland Erlandsen, Young Scientist
+<table>
+ <tr>
+  <td width="10%" ><center> <img src="/assets/images/bio/helene_metno.jpg"/> </center></td>
+  <td align="justify">
+ Dr. Anita Verpe Dyrrdal <br>
+ <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
+ </td>
+ </tr>
+ </table>
 # Tine Klemsdahl Eklund, Senior advisor
-
+<table>
+ <tr>
+  <td width="10%" ><center> <img src="/assets/images/bio/tine_metno.jpg"/> </center></td>
+  <td align="justify">
+ Dr. Anita Verpe Dyrrdal <br>
+ <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
+ </td>
+ </tr>
+ </table>
 
 <img src="/assets/images/Met_RGB_Horisontal_ENG.jpg" width="300"/>
