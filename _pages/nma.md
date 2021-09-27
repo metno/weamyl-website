@@ -18,6 +18,13 @@ The NMA research team involved in the WeaMyL project is multidisciplinary, with 
 </table>
 
 * Eugen Mihuleț, Forecaster
+<table>
+<tr>
+ <td align="justify">Eugen Mihulet works in the National Weather Forecasting Center. He is enrolled in a doctoral program and the research topic is related to weather and climate data management in support of weather and climate products and services development. His main professional interests are new technologies in meteorology, data analysis using machine learning.<br>
+<a href="https://www.researchgate.net/profile/Eugen-Mihulet"> Research Gate Profile </a>
+</td>
+</tr>
+</table>
 * Gabriela Băncilă, Phd
 * Andrei Diamandi, Phd
 * Oana Nicola, Researcher
@@ -25,8 +32,47 @@ The NMA research team involved in the WeaMyL project is multidisciplinary, with 
 * Marius Bîrsan, Phd
 * Meda Andrei, Forecaster
 * Udo Reckerth, Forecaster
+<table>
+<tr>
+ <td align="justify">Udo Reckerth works as a senior forecaster at the National Meteorological Administration, Transilvania-Sud Regional Forecasting Center from Sibiu, Romania. His main activity is focused on sinoptic and radar forecasting meteorology, as well as and avalanche risk estimation. His main scientific interests include radar-based severe weather risk assessment, quantitative radar precipitation estimation, quality of weather radar data and processing algorithms, climatology of severe weather events and avalanches.<br>
+</td>
+</tr>
+</table>
 * Cristian Grecu, Forecaster
+<table>
+<tr>
+ <td align="justify">Cristian-Lucian Grecu works as a forecaster at the National Meteorological Administration, Transilvania-Sud Regional Forecasting Center from Sibiu, Romania. His main activity is focused on sinoptic and radar forecasting meteorology and avalanche risk estimation. His main scientific interests include radar-based severe weather risk assessment, quantitative precipitation estimation, quality of weather radar data and processing algorithms, climatology of severe weather events.<br>
+</td>
+</tr>
+</table>
 * Cristina Blaga, Forecaster
+<table>
+<tr>
+ <td align="justify">Ioana-Cristina Blaga works as a forecaster at the National Meteorological Administration, Transilvania-Sud Regional Forecasting Center from Sibiu, Romania. Her main activity is focused on sinoptic and radar forecasting meteorology. Her main scientific interests include radar-based severe weather risk assessment and quantitative precipitation estimation and climatology of severe weather events.<br>
+</td>
+</tr>
+</table>
+
 * Adela Mitea, Forecaster
+<table>
+<tr>
+ <td align="justify">Adela-Mariana Mitea works as a forecaster at the National Meteorological Administration, Transilvania-Sud Regional Forecasting Center from Sibiu, Romania. Her main activity is focused on sinoptic and radar forecasting meteorology. Her main scientific interests include radar-based severe weather risk assessment and quantitative precipitation estimation and climatology of severe weather events.<br>
+</td>
+</tr>
+</table>
 * Gabriela Harpa, Forecaster
+<table>
+<tr>
+ <td align="justify">Gabriela V. Harpa works as a weather forecaster at Regional Meteorological Center Transylvania South, in Sibiu, Romania. Her main scientific interests include climate dynamics, climate variability, atmospheric sciences and severe weather risk assessment, focusing on extreme precipitation events.<br>
+<a href="https://www.researchgate.net/profile/Gabriela-Harpa-2"> Research Gate Profile </a>
+</td>
+</tr>
+</table>
 * Narcisa Milian, Forecaster
+<table>
+<tr>
+ <td align="justify">Narcisa Milian works as a senior forecaster at the National Meteorological Administration, Transilvania-Sud Regional Forecasting Center from Sibiu, Romania. Her main activity is focused on sinoptic and radar forecasting meteorology and avalanche risk estimation. Her main scientific interests include radar-based severe weather  risk assessment and quantitative precipitation estimation, climatology of severe weather events and avalanches.
+<br>
+</td>
+</tr>
+</table>
