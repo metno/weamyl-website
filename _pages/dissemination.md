@@ -23,7 +23,7 @@ An overview of the outcomes for the project.
 
 <li style="font-size:80%"> <p> Gabriela Czibula, Alexandra Albu, Maria Iuliana Bocicor, Camelia Chira, <a href="https://www.mdpi.com/1099-4300/23/6/643"> AutoPPI: An ensemble of deep autoencoders for protein-protein interaction prediction</a>, Entropy, Special issue on Computational Methods and Algorithms for Bioinformatics, 23(6), 643, 2021,  (2020 IF=2.524, Q2) </p> </li>
 
-<li style="font-size:80%"> <p> Bratu A., Czibula G., DAuGAN, <a href="https://www.hindawi.com/journals/sp/2021/7877590/">An approach for augmenting time series imbalanced datasets via latent space sampling using adversarial techniques</a>, Scientific Programming, Special Issue on Theory, Algorithms, and Applications for the Multiclass Classification Problem, Vol. 2021, Article ID 7877590,   (2020 IF=1.025, Q4) </p> </li>
+<li style="font-size:80%"> <p> Bratu A., Czibula G., <a href="https://www.hindawi.com/journals/sp/2021/7877590/">DAuGAN: An approach for augmenting time series imbalanced datasets via latent space sampling using adversarial techniques</a>, Scientific Programming, Special Issue on Theory, Algorithms, and Applications for the Multiclass Classification Problem, Vol. 2021, Article ID 7877590,   (2020 IF=1.025, Q4) </p> </li>
 
 <li style="font-size:80%"> <p> Nistor, S.C., Czibula, G., <a href="https://www.sciencedirect.com/science/article/pii/S0957417421012987">IntelliSwAS: Optimizing Deep Neural Network Architectures using a Particle Swarm-based Approach</a>, Expert systems with Applications, 2021, accepted for publication, in press, (2020 IF=6.954, Q1) </p> </li>
 
