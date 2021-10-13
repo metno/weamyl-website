@@ -117,6 +117,8 @@ An overview of the outcomes for the project.
 
 <li style="font-size:80%"> <p> 2021, WeADL workshop, Iulia-Monica Szuhai (BBU): <a href= "https://www.youtube.com/watch?v=otT68PnfWaU"> DNA classification using supervised deep learning </a> </p> </li>
 
+<li style="font-size:80%"> <p> 2021, KES Conference, Vlad-Sebastian Ionescu (BBU), Gabriela Czibula (BBU), Eugen Mihuleț (NMA): <a href= "/assets/videos/kes2021.mp4"> DeePSat: A deep learning model for prediction of satellite images for nowcasting purposes </a> </p> </li>
+
 </ul>
 
 ## Interviews, Press releases, Testimonials
