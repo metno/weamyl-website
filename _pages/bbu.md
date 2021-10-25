@@ -7,7 +7,7 @@ title: "About Babes-Bolyai University - MLyRE team"
 
 Members of the MLyRE group involved in the WeaMyL project:
 
-* <a href= "http://www.cs.ubbcluj.ro/~gabis/"> Prof. Czibula Gabriela, PhD </a>
+* <a href= "http://www.cs.ubbcluj.ro/~gabis/"> Prof. Czibula Gabriela, PhD </a> - principal investigator
 <table>
 <tr>
 <td width="25%" ><center> <img src="/assets/images/bio/circle_GabrielaCzibula.png"/> </center></td>
@@ -101,3 +101,13 @@ Gabriela Czibula works as a professor in the Computer Science Department, Facult
   </td>
   </tr>
   </table>
+
+* Chirtoș Delia, Financial Manager
+   <table>
+    <tr>
+    <td align="justify">
+     <br>
+    <a href="">  </a>
+    </td>
+    </tr>
+    </table>
