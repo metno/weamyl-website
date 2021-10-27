@@ -105,9 +105,8 @@ Gabriela Czibula works as a professor in the Computer Science Department, Facult
 * Chirtoș Delia, Financial Manager
    <table>
     <tr>
-    <td align="justify">
-     <br>
-    <a href="">  </a>
+    <td align="justify">Delia Chirtos works as an economist at Babes-Bolyai University, city of Cluj-Napoca, Romania, since 2013. She received her Bachelor’s Degree in Banks and stock exchanges in 1997 and got her Master Degree in Business management in 2009 and since 2006 she is a member of The Body of Expert and Licensed Accountants of Romania (CECCAR). Working as an economist at Babes-Bolyai University she does accounting specific activities such as accounting notes, trial balances, budget execution and she is financially responsible for European funded projects. <br>
+    <a href="https://www.linkedin.com/in/delia-chirtos-60671b224/"> LinkedIn Profile  </a>
     </td>
     </tr>
     </table>
