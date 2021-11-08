@@ -85,7 +85,7 @@ An overview of the outcomes for the project.
 
 <li style="font-size:80%"> <p> 2021, NMA internal workshop, Sorin Burcea (NMA): <a href= "/assets/files/prezentare_interna_Meteo.pdf"> Proiect WeaMyL </a> </p> </li>
 
-<li style="font-size:80%"> <p> 2021, Cluj IT Days, <a href= "https://www.itdays.ro/speaker/andrei-mihai">Andrei Mihai (BBU)</a>: Enhancing the performance of weather nowcasting by use of machine learning techniques  </p> </li>
+<li style="font-size:80%"> <p> 2021, Cluj IT Days, <a href= "https://www.itdays.ro/speaker/andrei-mihai">Andrei Mihai (BBU)</a>: <a href="/assets/files/ITDays_2021.pdf">Enhancing the performance of weather nowcasting by use of machine learning techniques</a>  </p> </li>
 
 </ul>
 
