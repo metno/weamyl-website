@@ -62,6 +62,13 @@ Gabriela Czibula works as a professor in the Computer Science Department, Facult
  </td> </tr>  
 </table>
 * Lect. Mircea Ioan-Gabriel
+<table>
+<tr>
+<td width="25%" ><center> <img src="/assets/images/bio/gabi_mircea.png"/> </center></td>
+     <td width="75%" align="justify"> I am a Lecturer at the Babes-Bolyai University in Cluj-Napoca, Romania. Fueled by my childhood dream of becoming Indiana Jones, I managed to combine my initial attraction for history and archaeology with a newly found passion for machine learning and deep learning, which stemmed from my prior love for mathematics and computer science, materialized in a PhD thesis entitled Machine Learning applied in bioarchaeology. My interests include exciting applications of machine learning and deep learning techniques in various interdisciplinary scientific projects.<br>
+     <a href="https://scholar.google.ro/citations?hl=ro&user=P09Bqs8AAAAJ&view_op=list_works&sortby=pubdate"> Google Scholar Profile </a>
+ </td> </tr>  
+</table>
 * Assist. Mihai Andrei, PhD
 <table>
 <tr>

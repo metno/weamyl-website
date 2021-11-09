@@ -123,17 +123,26 @@ An overview of the outcomes for the project.
 
 </ul>
 
-## Interviews, Press releases, Testimonials
+## Testimonials
+<ul>
+<li style="font-size:80%"> <p> <a href="/assets/files/rector.pdf"> BBU Rector’s Speech at Opening Ceremony WeaDL Workshop, 2021 </a> </p> </li>
+
+<li style="font-size:80%"> <p> <a href="/assets/files/testimonial_gabi.pdf"> Mircea Gabriel (BBU) </a> </p> </li>
+
+</ul>
+
+## Interviews, Press releases
 
 <ul>
-
-<li style="font-size:80%"> <p> <a href="/assets/files/rector.pdf"> BBU Rector’s Speech at Opening Ceremony WeaDL Workshop, 2021 </a> </p> </li>
 
 <li style="font-size:80%"> <p> <a href="http://www.meteoromania.ro/wp-content/uploads/comunicate/Proiect_WeaMyL.pdf"> Press release, NMA, 01.2021 </a> </p> </li>
 
 <li style="font-size:80%"> <p> <a href="http://www.cs.ubbcluj.ro/weadl-2021-en/"> Press release, Faculty of Mathematics and Computer Science, 22.05.2021 </a> </p> </li>
 
 <li style="font-size:80%">  <p> <a href="https://news.ubbcluj.ro/ubb-organizeaza-online-prima-editie-a-workshopului-in-invatare-profunda-aplicata-weadl2021/"> Press release, BBU, 27.05.2021  </a></p></li>
+
+<li style="font-size:80%">  <p> <a href="https://news.ubbcluj.ro/cadre-universitare-ale-ubb-prezente-la-evenimentul-itdays/"> Press release, BBU, 9.11.2021  </a></p></li>
+
 
 </ul>
 
