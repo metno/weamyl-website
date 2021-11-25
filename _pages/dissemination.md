@@ -125,6 +125,7 @@ An overview of the outcomes for the project.
 
 <li style="font-size:80%"> <p> 2021, KES Conference, Vlad-Sebastian Ionescu (BBU), Gabriela Czibula (BBU), Eugen Mihuleț (NMA): <a href= "/assets/videos/kes2021.mp4"> DeePSat: A deep learning model for prediction of satellite images for nowcasting purposes </a> </p> </li>
 
+<li style="font-size:80%"> <p> 2021, Cluj IT Days, Andrei Mihai (BBU): <a href="https://vimeo.com/647889204">Enhancing the performance of weather nowcasting by use of machine learning techniques </a></p> </li>
 </ul>
 
 ## Testimonials
@@ -141,7 +142,7 @@ An overview of the outcomes for the project.
 
 <li style="font-size:80%"> <p> <a href="http://www.meteoromania.ro/wp-content/uploads/comunicate/Proiect_WeaMyL.pdf"> Press release, NMA, 01.2021 </a> </p> </li>
 
-<li style="font-size:80%"> <p> <a href="http://www.cs.ubbcluj.ro/weadl-2021-en/"> Press release, Faculty of Mathematics and Computer Science, 22.05.2021 </a> </p> </li>
+<li style="font-size:80%"> <p> <a href="http://www.cs.ubbcluj.ro/weadl-2021-en/"> Press release, Faculty of Mathematics and Computer Science (BBU), 22.05.2021 </a> </p> </li>
 
 <li style="font-size:80%">  <p> <a href="https://news.ubbcluj.ro/ubb-organizeaza-online-prima-editie-a-workshopului-in-invatare-profunda-aplicata-weadl2021/"> Press release, BBU, 27.05.2021  </a></p></li>
 
