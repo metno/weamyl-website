@@ -69,7 +69,7 @@ An overview of the outcomes for the project.
 
 <li style="font-size:80%"> <p> 2021, WeADL workshop, Andrei Mihai (BBU): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/ML%20for%20Nowcasting%20in%20Transylvania%20-%20Andrei%20Mihai.pdf"> Supervised and unsupervised machine learning for nowcasting, applied on radar data from central Transylvania region </a> </p> </li>
 
-<li style="font-size:80%"> <p>2021, Alexandra Albu (BBU): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/DL%20models%20for%20reflectivity%20-%20Alexandra%20Albu.pdf"> Deep learning models for composite reflectivity prediction </a> </p> </li> 
+<li style="font-size:80%"> <p>2021, Alexandra Albu (BBU): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/DL%20models%20for%20reflectivity%20-%20Alexandra%20Albu.pdf"> Deep learning models for composite reflectivity prediction </a> </p> </li>
 
 <li style="font-size:80%"> <p>2021, WeADL workshop, Vlad Ionescu (BBU): <a href= "http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/DNN%20models%20for%20satellite%20data%20-%20Ionescu%20Vlad.pdf"> Deep neural network models for nowcasting using satellite data </a> </p> </li>
 
@@ -132,7 +132,9 @@ An overview of the outcomes for the project.
 <ul>
 <li style="font-size:80%"> <p> <a href="/assets/files/rector.pdf"> BBU Rector’s Speech at Opening Ceremony WeaDL Workshop, 2021 </a> </p> </li>
 
-<li style="font-size:80%"> <p> <a href="/assets/files/testimonial_gabi.pdf"> Mircea Gabriel (BBU) </a> </p> </li>
+<li style="font-size:80%"> <p> <a href="/assets/files/testimonial_gabi.pdf"> Gabriel Mircea (BBU) </a> </p> </li>
+
+<li style="font-size:80%"> <p> <a href="/assets/files/testimonial_anm.pdf"> Cristian Grecu (NMA) </a> </p> </li>
 
 </ul>
 
