@@ -148,7 +148,7 @@ An overview of the outcomes for the project.
 
 <li style="font-size:80%">  <p> <a href="https://news.ubbcluj.ro/ubb-organizeaza-online-prima-editie-a-workshopului-in-invatare-profunda-aplicata-weadl2021/"> Press release, BBU, 27.05.2021  </a></p></li>
 
-<li style="font-size:80%">  <p> <a href="https://news.ubbcluj.ro/cadre-universitare-ale-ubb-prezente-la-evenimentul-itdays/"> Press release, BBU, 9.11.2021  </a></p></li>
+<li style="font-size:80%">  <p> <a href="https://news.ubbcluj.ro/cadre-universitare-ale-ubb-prezente-la-evenimentul-itdays/"> Press release, BBU, 9.11.2021</a></p></li>
 
 
 </ul>
@@ -156,3 +156,8 @@ An overview of the outcomes for the project.
 ## Social media
 
 ## Annual Reporting
+
+<ul>
+<li style="font-size:80%">  <p> <a href="assets/files/raport21.pdf">Technical Report 2020-2021</a></p></li>
+
+</ul>
