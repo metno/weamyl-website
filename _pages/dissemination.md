@@ -158,6 +158,6 @@ An overview of the outcomes for the project.
 ## Annual Reporting
 
 <ul>
-<li style="font-size:80%">  <p> <a href="/assets/files/report21.pdf">Technical Report 2020-2021</a></p></li>
+<li style="font-size:80%">  <p> <a href="https://weamyl.met.no/assets/files/report21.pdf">Technical Report 2020-2021</a></p></li>
 
 </ul>
