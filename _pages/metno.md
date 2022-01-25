@@ -11,7 +11,7 @@ MET Norway research team includes
 ## Anne-Cecilie Riiser, Head of the IT department
  <table>
  <tr>
-  <td width="10%" ><center> <img src="/assets/images/bio/anne_metno.jpg"/> </center></td>
+  <td width="25%" ><center> <img src="/assets/images/bio/anne_metno.jpg"/> </center></td>
   <td align="justify">
  Anne-Cecilie Riiser works as the IT-director (CIO) at the Norwegian Meteorological Institute, in Oslo, Norway. She has a Master of Science degree In Theoretical Physics and an Executive MBA in Global E-Management. Her main interests are: IT development methodologies, IT operation methodologies, IT architecture, AI and new technology trends.<br>
  <a href="https://www.linkedin.com/in/anne-cecilie-riiser-b8885b/"> LinkedIn Profile </a>
@@ -22,7 +22,7 @@ MET Norway research team includes
 ## Lisbeth Bergholt, senior computer scientist
 <table>
  <tr>
-  <td width="10%" ><center> <img src="/assets/images/bio/Lisbeth_MET_Norway.png"/> </center></td>
+  <td width="25%" ><center> <img src="/assets/images/bio/Lisbeth_MET_Norway.png"/> </center></td>
   <td align="justify">
  Lisbeth Bergholt works as a senior computer scientist at the Norwegian Meteorological Institute, in Oslo, Norway. She has a PhD in Nuclear Physics. Her main interests are: Open source projects, making meteorological data available to the meteorologists and to the public.<br>
  <a href="https://www.linkedin.com/in/lisbeth-bergholt-a1544a3/"> LinkedIn Profile </a>
@@ -33,7 +33,7 @@ MET Norway research team includes
 ## Bard Saadatnejad, senior computer scientist
 <table>
  <tr>
-  <td width="10%" ><center> <img src="/assets/images/bio/borge_metno.jpg"/> </center></td>
+  <td width="25%" ><center> <img src="/assets/images/bio/borge_metno.jpg"/> </center></td>
   <td align="justify">
    Bard is a senior computer scientist at the Norwegian Meteorological Institute, in Oslo, Norway. His main interests are numerical computing and dissemination of public scientific data through open source projects. He has a background in theoretical and computational astrophysics.
 
@@ -46,7 +46,7 @@ MET Norway research team includes
 ## Nina Elisabeth Larsgård, Researcher
 <table>
  <tr>
-  <td width="10%" ><center> <img src="/assets/images/bio/Nina_MET_Norway.png"/> </center></td>
+  <td width="25%" ><center> <img src="/assets/images/bio/Nina_MET_Norway.png"/> </center></td>
   <td align="justify">
  Nina Elisabeth Larsgård <br>
  <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
@@ -57,7 +57,7 @@ MET Norway research team includes
 ## Isak Buhl Mortensen, Scientist
 <table>
  <tr>
-  <td width="10%" ><center> <img src="/assets/images/bio/isak_metno.jpg"/> </center></td>
+  <td width="25%" ><center> <img src="/assets/images/bio/isak_metno.jpg"/> </center></td>
   <td align="justify">
  Isak Buhl Mortensen <br>
  <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
@@ -68,7 +68,7 @@ MET Norway research team includes
 ## Christoffer Artturi Elo, Researcher
 <table>
  <tr>
-  <td width="10%" ><center> <img src="/assets/images/bio/christoffer_MET_Norway.png"/> </center></td>
+  <td width="25%" ><center> <img src="/assets/images/bio/christoffer_MET_Norway.png"/> </center></td>
   <td align="justify">
  Christoffer Artturi Elo<br>
  <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
@@ -79,7 +79,7 @@ MET Norway research team includes
 ## Trygve Aspenes, Senior-Engineer
  <table>
  <tr>
-  <td width="10%" ><center> <img src="/assets/images/bio/trygve_metno.jpg"/> </center></td>
+  <td width="25%" ><center> <img src="/assets/images/bio/trygve_metno.jpg"/> </center></td>
   <td align="justify">
  Trygve Aspenes works as a Senior Engineer at the Norwegian Meteorological Institute, in Oslo, Norway. He has a Master of Science degree in Meteorology. His main interests are: Satellite data in weather forecasting; how to receive, process and distribute these data to users.<br>
  <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
@@ -90,7 +90,7 @@ MET Norway research team includes
 ## Arild Burud,
 <table>
  <tr>
-  <td width="10%" ><center> <img src="/assets/images/bio/Arild_MET_Norway.png"/> </center></td>
+  <td width="25%" ><center> <img src="/assets/images/bio/Arild_MET_Norway.png"/> </center></td>
   <td align="justify">
    Arild Burud works as IT senior engineer in the Norwegian Meteorological Institute, Oslo, Norway. He has a diverse education with a BSc. in structural engineering and IT. His main interests is in joining researchers and IT for the benefit of both, to help getting research open and accessible.<br>
  <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
@@ -101,7 +101,7 @@ MET Norway research team includes
 ## Anita Verpe Dyrrdal, Scientist and Head of the Norwegian Climate Service Centre
 <table>
  <tr>
-  <td width="10%" ><center> <img src="/assets/images/bio/Anita_MET_Norway.png"/> </center></td>
+  <td width="25%" ><center> <img src="/assets/images/bio/Anita_MET_Norway.png"/> </center></td>
   <td align="justify">
  Dr. Anita Verpe Dyrrdal <br>
  <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
@@ -112,7 +112,7 @@ MET Norway research team includes
 ## Abdelkader Mezghani, Senior Scientist
  <table>
  <tr>
-  <td width="10%" ><center> <img src="/assets/images/bio/abdelkader_metno.jpg"/> </center></td>
+  <td width="25%" ><center> <img src="/assets/images/bio/abdelkader_metno.jpg"/> </center></td>
   <td align="justify">
  Dr. Abdelkader Mezghani is a senior scientist at the Climate and Model Analysis group, Norwegian Meteorological Institute. His main interests include downscaling of weather and climate information, statistical analyses, programming and web developments, modeling of temperature and precipitation, Big data, Neural networks.<br>
  <a href="https://orcid.org/0000-0003-2825-5884"> ORCID </a>;<a href="https://no.linkedin.com/in/abdelkader-mezghani-8a3aa127"> LinkedIn Profile </a>; <a href="https://scholar.google.com/citations?user=oeIMYnUAAAAJ&hl=en"> Google Scholars </a>
@@ -123,7 +123,7 @@ MET Norway research team includes
 ## Kajsa Maria Parding, Young Sceintist
 <table>
  <tr>
-  <td width="10%" ><center> <img src="/assets/images/bio/kajsa_MET_Norway.png"/> </center></td>
+  <td width="25%" ><center> <img src="/assets/images/bio/kajsa_MET_Norway.png"/> </center></td>
   <td align="justify">
  Dr. Anita Verpe Dyrrdal <br>
  <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
@@ -134,7 +134,7 @@ MET Norway research team includes
 ## Helena Birkeland Erlandsen, Young Scientist
 <table>
  <tr>
-  <td width="10%" ><center> <img src="/assets/images/bio/helene_MET_Norway.png"/> </center></td>
+  <td width="25%" ><center> <img src="/assets/images/bio/helene_MET_Norway.png"/> </center></td>
   <td align="justify">
  Dr. Anita Verpe Dyrrdal <br>
  <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
@@ -145,7 +145,7 @@ MET Norway research team includes
 ## Hans Christian Nenseth, computer engineer
 <table>
  <tr>
-  <td width="10%" ><center> <img src="/assets/images/bio/Hans_Christian_MET_Norway.png"/> </center></td>
+  <td width="25%" ><center> <img src="/assets/images/bio/Hans_Christian_MET_Norway.png"/> </center></td>
   <td align="justify">
  Hans Christian Nenseth has a bachelor in computer engineering from OsloMet and a BSc in theoretical physics from UiO. My main interests are frontend development,  computer security and machine learning.
 <br>
@@ -157,7 +157,7 @@ MET Norway research team includes
 ## Tine Klemsdahl Eklund, Senior advisor
 <table>
  <tr>
-  <td width="10%" ><center> <img src="/assets/images/bio/tine_metno.jpg"/> </center></td>
+  <td width="25%" ><center> <img src="/assets/images/bio/tine_metno.jpg"/> </center></td>
   <td align="justify">
  Tine Klemsdahl Eklund <br>
  <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
