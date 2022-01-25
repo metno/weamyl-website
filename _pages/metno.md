@@ -11,7 +11,7 @@ MET Norway research team includes
 ## Anne-Cecilie Riiser, Head of the IT department
  <table>
  <tr>
-  <td width="25%" ><center> <img src="/assets/images/bio/anne_metno.jpg"/> </center></td>
+  <td width="25%" ><center> <img src="/assets/images/bio/anne_cecilie_MET_Norway.jpg"/> </center></td>
   <td align="justify">
  Anne-Cecilie Riiser works as the IT-director (CIO) at the Norwegian Meteorological Institute, in Oslo, Norway. She has a Master of Science degree In Theoretical Physics and an Executive MBA in Global E-Management. Her main interests are: IT development methodologies, IT operation methodologies, IT architecture, AI and new technology trends.<br>
  <a href="https://www.linkedin.com/in/anne-cecilie-riiser-b8885b/"> LinkedIn Profile </a>
