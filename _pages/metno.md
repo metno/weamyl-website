@@ -30,12 +30,13 @@ MET Norway research team includes
  </tr>
  </table>
 
-## Børge Moe, Senior computer scientist
+## Bard Saadatnejad, senior computer scientist
 <table>
  <tr>
   <td width="10%" ><center> <img src="/assets/images/bio/borge_metno.jpg"/> </center></td>
   <td align="justify">
-   Børge Moe
+   Bard is a senior computer scientist at the Norwegian Meteorological Institute, in Oslo, Norway. His main interests are numerical computing and dissemination of public scientific data through open source projects. He has a background in theoretical and computational astrophysics.
+
  <br>
  <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
  </td>
@@ -141,12 +142,24 @@ MET Norway research team includes
  </tr>
  </table>
 
+## Hans Christian Nenseth, computer engineer
+<table>
+ <tr>
+  <td width="10%" ><center> <img src="/assets/images/bio/helene_metno.jpg"/> </center></td>
+  <td align="justify">
+ Hans Christian Nenseth has a bachelor in computer engineering from OsloMet and a BSc in theoretical physics from UiO. My main interests are frontend development,  computer security and machine learning.
+<br>
+ <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
+ </td>
+ </tr>
+ </table>
+
 ## Tine Klemsdahl Eklund, Senior advisor
 <table>
  <tr>
   <td width="10%" ><center> <img src="/assets/images/bio/tine_metno.jpg"/> </center></td>
   <td align="justify">
- Dr. Anita Verpe Dyrrdal <br>
+ Tine Klemsdahl Eklund <br>
  <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
  </td>
  </tr>
