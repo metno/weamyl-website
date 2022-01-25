@@ -112,7 +112,7 @@ MET Norway research team includes
 ## Abdelkader Mezghani, Senior Scientist
  <table>
  <tr>
-  <td width="25%" ><center> <img src="/assets/images/bio/abdelkader_metno.jpg"/> </center></td>
+  <td width="10%" ><center> <img src="/assets/images/bio/abdelkader_metno.jpg"/> </center></td>
   <td align="justify">
  Dr. Abdelkader Mezghani is a senior scientist at the Climate and Model Analysis group, Norwegian Meteorological Institute. His main interests include downscaling of weather and climate information, statistical analyses, programming and web developments, modeling of temperature and precipitation, Big data, Neural networks.<br>
  <a href="https://orcid.org/0000-0003-2825-5884"> ORCID </a>;<a href="https://no.linkedin.com/in/abdelkader-mezghani-8a3aa127"> LinkedIn Profile </a>; <a href="https://scholar.google.com/citations?user=oeIMYnUAAAAJ&hl=en"> Google Scholars </a>
