@@ -48,18 +48,7 @@ MET Norway research team includes
  <tr>
   <td width="25%" ><center> <img src="/assets/images/bio/Nina_MET_Norway.png"/> </center></td>
   <td align="justify">
- Nina Elisabeth Larsgård <br>
- <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
- </td>
- </tr>
- </table>
-
-## Isak Buhl Mortensen, Scientist
-<table>
- <tr>
-  <td width="25%" ><center> <img src="/assets/images/bio/isak_metno.jpg"/> </center></td>
-  <td align="justify">
- Isak Buhl Mortensen <br>
+ Nina Elisabeth Larsgård is a researcher at MET Norway. Her main interests are: forecasting and quality control of observations;<br>
  <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
  </td>
  </tr>
@@ -70,7 +59,7 @@ MET Norway research team includes
  <tr>
   <td width="25%" ><center> <img src="/assets/images/bio/christoffer_MET_Norway.png"/> </center></td>
   <td align="justify">
- Christoffer Artturi Elo<br>
+ Christoffer Artturi Elo is a scientist developer. His main interests are: Running operational systems and developing nowcasting routines and has a good expertise with radar data;<br>
  <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
  </td>
  </tr>
@@ -103,7 +92,7 @@ MET Norway research team includes
  <tr>
   <td width="25%" ><center> <img src="/assets/images/bio/Anita_MET_Norway.png"/> </center></td>
   <td align="justify">
- Dr. Anita Verpe Dyrrdal <br>
+ Dr. Anita Verpe Dyrrdal is a senior scientist at the Climate and Model Analyses Group and is the head of the Norwegian Climate Service Centre. Her main interests are: Methodologies for estimating extreme rainfall for planning and dimensioning of infrastructures.<br>
  <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
  </td>
  </tr>
@@ -125,7 +114,7 @@ MET Norway research team includes
  <tr>
   <td width="25%" ><center> <img src="/assets/images/bio/kajsa_MET_Norway.png"/> </center></td>
   <td align="justify">
- Dr. Anita Verpe Dyrrdal <br>
+ Dr. Kajsa Maria Parding is young scientist at the Climate and Model Analysis group, Norwegian Meteorological Institute. Her main interests include downscaling of weather and climate information, statistical analyses, modeling of temperature and precipitation, and storm track analyses.<br>
  <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
  </td>
  </tr>
@@ -136,7 +125,7 @@ MET Norway research team includes
  <tr>
   <td width="25%" ><center> <img src="/assets/images/bio/helene_MET_Norway.png"/> </center></td>
   <td align="justify">
- Dr. Anita Verpe Dyrrdal <br>
+ Dr. Helena Birkeland Erlandsen is young scientist at the Climate and Model Analysis group, Norwegian Meteorological Institute. Her main interests include: hybrid-downscaling of temperature and precipitation. <br>
  <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
  </td>
  </tr>
@@ -159,7 +148,7 @@ MET Norway research team includes
  <tr>
   <td width="25%" ><center> <img src="/assets/images/bio/tine_metno.jpg"/> </center></td>
   <td align="justify">
- Tine Klemsdahl Eklund <br>
+ Tine Klemsdahl Eklund is a senior advisor supporting MET Norway team with project management and finances.<br>
  <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
  </td>
  </tr>
