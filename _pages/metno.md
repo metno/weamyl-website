@@ -22,7 +22,7 @@ MET Norway research team includes
 ## Lisbeth Bergholt, senior computer scientist
 <table>
  <tr>
-  <td width="10%" ><center> <img src="/assets/images/bio/lisbeth_metno.jpg"/> </center></td>
+  <td width="10%" ><center> <img src="/assets/images/bio/Lisbeth_MET_Norway.png"/> </center></td>
   <td align="justify">
  Lisbeth Bergholt works as a senior computer scientist at the Norwegian Meteorological Institute, in Oslo, Norway. She has a PhD in Nuclear Physics. Her main interests are: Open source projects, making meteorological data available to the meteorologists and to the public.<br>
  <a href="https://www.linkedin.com/in/lisbeth-bergholt-a1544a3/"> LinkedIn Profile </a>
@@ -46,7 +46,7 @@ MET Norway research team includes
 ## Nina Elisabeth Larsgård, Researcher
 <table>
  <tr>
-  <td width="10%" ><center> <img src="/assets/images/bio/nina_metno.jpg"/> </center></td>
+  <td width="10%" ><center> <img src="/assets/images/bio/Nina_MET_Norway.png"/> </center></td>
   <td align="justify">
  Nina Elisabeth Larsgård <br>
  <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
@@ -68,7 +68,7 @@ MET Norway research team includes
 ## Christoffer Artturi Elo, Researcher
 <table>
  <tr>
-  <td width="10%" ><center> <img src="/assets/images/bio/christoffer_metno.jpg"/> </center></td>
+  <td width="10%" ><center> <img src="/assets/images/bio/christoffer_MET_Norway.png"/> </center></td>
   <td align="justify">
  Christoffer Artturi Elo<br>
  <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
@@ -90,7 +90,7 @@ MET Norway research team includes
 ## Arild Burud,
 <table>
  <tr>
-  <td width="10%" ><center> <img src="/assets/images/bio/arild_metno.jpg"/> </center></td>
+  <td width="10%" ><center> <img src="/assets/images/bio/Arild_MET_Norway.png"/> </center></td>
   <td align="justify">
    Arild Burud works as IT senior engineer in the Norwegian Meteorological Institute, Oslo, Norway. He has a diverse education with a BSc. in structural engineering and IT. His main interests is in joining researchers and IT for the benefit of both, to help getting research open and accessible.<br>
  <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
@@ -101,7 +101,7 @@ MET Norway research team includes
 ## Anita Verpe Dyrrdal, Scientist and Head of the Norwegian Climate Service Centre
 <table>
  <tr>
-  <td width="10%" ><center> <img src="/assets/images/bio/anita_metno.jpg"/> </center></td>
+  <td width="10%" ><center> <img src="/assets/images/bio/Anita_MET_Norway.png"/> </center></td>
   <td align="justify">
  Dr. Anita Verpe Dyrrdal <br>
  <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
@@ -123,7 +123,7 @@ MET Norway research team includes
 ## Kajsa Maria Parding, Young Sceintist
 <table>
  <tr>
-  <td width="10%" ><center> <img src="/assets/images/bio/kajsa_metno.jpg"/> </center></td>
+  <td width="10%" ><center> <img src="/assets/images/bio/kajsa_MET_Norway.png"/> </center></td>
   <td align="justify">
  Dr. Anita Verpe Dyrrdal <br>
  <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
@@ -134,7 +134,7 @@ MET Norway research team includes
 ## Helena Birkeland Erlandsen, Young Scientist
 <table>
  <tr>
-  <td width="10%" ><center> <img src="/assets/images/bio/helene_metno.jpg"/> </center></td>
+  <td width="10%" ><center> <img src="/assets/images/bio/helene_MET_Norway.png"/> </center></td>
   <td align="justify">
  Dr. Anita Verpe Dyrrdal <br>
  <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
@@ -145,7 +145,7 @@ MET Norway research team includes
 ## Hans Christian Nenseth, computer engineer
 <table>
  <tr>
-  <td width="10%" ><center> <img src="/assets/images/bio/helene_metno.jpg"/> </center></td>
+  <td width="10%" ><center> <img src="/assets/images/bio/Hans_Christian_MET_Norway.png"/> </center></td>
   <td align="justify">
  Hans Christian Nenseth has a bachelor in computer engineering from OsloMet and a BSc in theoretical physics from UiO. My main interests are frontend development,  computer security and machine learning.
 <br>
