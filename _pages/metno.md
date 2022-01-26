@@ -33,7 +33,7 @@ MET Norway research team includes
 ## Bard Saadatnejad, senior computer scientist
 <table>
  <tr>
-  <td width="25%" ><center> <img src="/assets/images/bio/bard_MET_Norway.jpg"/> </center></td>
+  <td width="25%" ><center> <img src="/assets/images/bio/bard_MET_Norway.png"/> </center></td>
   <td align="justify">
    Bard is a senior computer scientist at the Norwegian Meteorological Institute, in Oslo, Norway. His main interests are numerical computing and dissemination of public scientific data through open source projects. He has a background in theoretical and computational astrophysics.
 
@@ -68,7 +68,7 @@ MET Norway research team includes
 ## Trygve Aspenes, Senior-Engineer
  <table>
  <tr>
-  <td width="25%" ><center> <img src="/assets/images/bio/trygve_MET_Norway.jpg"/> </center></td>
+  <td width="25%" ><center> <img src="/assets/images/bio/trygve_MET_Norway.png"/> </center></td>
   <td align="justify">
  Trygve Aspenes works as a Senior Engineer at the Norwegian Meteorological Institute, in Oslo, Norway. He has a Master of Science degree in Meteorology. His main interests are: Satellite data in weather forecasting; how to receive, process and distribute these data to users.<br>
  <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
@@ -146,7 +146,7 @@ MET Norway research team includes
 ## Tine Klemsdahl Eklund, Senior advisor
 <table>
  <tr>
-  <td width="25%" ><center> <img src="/assets/images/bio/tine_MET_Norway.jpg"/> </center></td>
+  <td width="25%" ><center> <img src="/assets/images/bio/tine_MET_Norway.png"/> </center></td>
   <td align="justify">
  Tine Klemsdahl Eklund is a senior advisor supporting MET Norway team with project management and finances.<br>
  <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
