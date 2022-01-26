@@ -146,7 +146,7 @@ MET Norway research team includes
 ## Tine Klemsdahl Eklund, Senior advisor
 <table>
  <tr>
-  <td width="25%" ><center> <img src="/assets/images/bio/tine_metno.jpg"/> </center></td>
+  <td width="25%" ><center> <img src="/assets/images/bio/tine_MET_Norway.jpg"/> </center></td>
   <td align="justify">
  Tine Klemsdahl Eklund is a senior advisor supporting MET Norway team with project management and finances.<br>
  <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
