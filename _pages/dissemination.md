@@ -27,7 +27,7 @@ An overview of the outcomes for the project.
 
 <li style="font-size:80%"> <p> Nistor, S.C., Czibula, G., <a href="https://www.sciencedirect.com/science/article/pii/S0957417421012987">IntelliSwAS: Optimizing Deep Neural Network Architectures using a Particle Swarm-based Approach</a>, Expert systems with Applications, Volume 187, ID 11594 January 2022, (2020 IF=6.954, Q1). </p> </li>
 
-<li style="font-size:80%"> <p> Cristian-Lucian Grecu, <a href="">Sateliții Meteorologici</a>, TODAY SOFTWARE MAGAZINE, Nr. 116, February 2022, pp 32-36. </p> </li>
+<li style="font-size:80%"> <p> Cristian-Lucian Grecu, <a href="https://www.todaysoftmag.ro/article/3529/satelitii-meteorologici">Sateliții Meteorologici</a>, TODAY SOFTWARE MAGAZINE, Nr. 116, February 2022, pp 32-36. </p> </li>
 
 </ol>
 
@@ -41,7 +41,7 @@ An overview of the outcomes for the project.
 
 <li style="font-size:80%"> <p>  Ioana Angela Socaci, Gabriela Czibula, Vlad-Sebastian Ionescu, Andrei Mihai, <a href="https://ieeexplore.ieee.org/document/9118849">XNow: A deep learning technique for nowcasting based on radar products’ values prediction</a>, IEEE 14th International Symposium on Applied Computational Intelligence and Informatics, SACI 2020, Timișoara, IEEE Computer Society, pp. 117-122</p> </li>
 
-<li style="font-size:80%"> <p> Gabriela Czibula, Andrei Mihai, Istvan Gergely Czibula, <a href="/assets/files/KES2020.pdf">RadRAR:  A relational association rule mining approach for nowcasting based on predicting radar products’ values</a>, 24nd International Conference on Knowledge-Based and Intelligent Information &amp; Engineering Systems (KES2020), Procedia Computer Science, Vol. 176, pp. 300-309</p> </li>
+<li style="font-size:80%"> <p> Gabriela Czibula, Andrei Mihai, Istvan Gergely Czibula, <a href="/assets/files/KES2020.pdf">RadRAR: A relational association rule mining approach for nowcasting based on predicting radar products’ values</a>, 24nd International Conference on Knowledge-Based and Intelligent Information &amp; Engineering Systems (KES2020), Procedia Computer Science, Vol. 176, pp. 300-309</p> </li>
 </ol>
 
 ## PhD Thesis
