@@ -16,7 +16,7 @@ NowCastX version 0.0.1 - Incipient Xception-based model trained on a dataset con
 <video width="130%" controls>
   <source src="/assets/videos/xnow-4steps-15min-publ.mp4" type="video/mp4">
 </video>
-<p class="small">NowCastX 15 min - based on currently available radar data predict the radar values 15 minutes in the future. <p>
+<p class="small">NowCastX 15 min - based on currently available radar data predict the radar values 15 minutes in the future. </p>
 
 ## NowCastX version 0.0.1
 
