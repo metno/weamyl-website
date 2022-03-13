@@ -8,7 +8,7 @@ NowCastX version 0.0.1 - Incipient Xception-based model trained on a dataset con
 
 ## NowCastX version 1.0.0
 
-<p class="small">NowCastX version 1.0.0 - Xception-based model trained on a dataset containing 45 days of radar data (thredds). The model has been trained on a region of approximately 300km x 300km surrounding Oslo for predicting the composite reflectivity values in the future using radar current radar values. The day used for illustrating the predictions has not been used for training.</p>
+<p class="small">NowCastX version 1.0.0 - <a href="https://weamyl.met.no/dissemination/#project-publications">Xception-based model</a> trained on a dataset containing 45 days of radar data <a href="https://thredds.met.no/thredds/catalog/remotesensing/reflectivity-nordic/catalog.html">(thredds)</a>. The model has been trained on a region of approximately 300km x 300km surrounding Oslo for predicting the composite reflectivity values in the future using radar current radar values. The day used for illustrating the predictions has not been used for training.</p>
 <video width="100%" controls>
   <source src="/assets/videos/xnow-4steps-5min-publ.mp4" type="video/mp4">
 </video>
