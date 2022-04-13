@@ -38,10 +38,10 @@ An overview of the outcomes for the project.
 <ol>
 <li style="font-size:80%"> <p> Gabriela Czibula, Andrei Mihai, Eugen Mihuleț, Daniel Teodorovici, <a href="/assets/files/KES2019.pdf">Using self-organizing maps for unsupervised analysis of radar data for nowcasting purposes</a>, 23nd International Conference on Knowledge-Based and Intelligent Information &amp; Engineering Systems (KES2019), Procedia Computer Science  Vol 159, (2019)  pp. 48-57</p> </li>
 
-<li style="font-size:80%"> <p> Andrei Mihai, Gabriela Czibula, Eugen Mihuleț,<a href="https://ieeexplore.ieee.org/document/8959777"> Analyzing Meteorological Data Using Unsupervised Learning Techniques</a>, ICCP 2019: Proceedings of the IEEE International Conference on Intelligent Computer Communication and Processing, 2019, Cluj-Napoca, Romania, IEEE Computer Society Press, pp. 529 – 536 </p> </li>
+<li style="font-size:80%"> <p> Andrei Mihai, Gabriela Czibula, Eugen Mihuleț, <a href="https://ieeexplore.ieee.org/document/8959777"> Analyzing Meteorological Data Using Unsupervised Learning Techniques</a>, ICCP 2019: Proceedings of the IEEE International Conference on Intelligent Computer Communication and Processing, 2019, Cluj-Napoca, Romania, IEEE Computer Society Press, pp. 529 – 536 </p> </li>
 
 
-<li style="font-size:80%"> <p>  Ioana Angela Socaci, Gabriela Czibula, Vlad-Sebastian Ionescu, Andrei Mihai, <a href="https://ieeexplore.ieee.org/document/9118849">XNow: A deep learning technique for nowcasting based on radar products’ values prediction</a>, IEEE 14th International Symposium on Applied Computational Intelligence and Informatics, SACI 2020, Timișoara, IEEE Computer Society, pp. 117-122</p> </li>
+<li style="font-size:80%"> <p> Ioana Angela Socaci, Gabriela Czibula, Vlad-Sebastian Ionescu, Andrei Mihai, <a href="https://ieeexplore.ieee.org/document/9118849">XNow: A deep learning technique for nowcasting based on radar products’ values prediction</a>, IEEE 14th International Symposium on Applied Computational Intelligence and Informatics, SACI 2020, Timișoara, IEEE Computer Society, pp. 117-122</p> </li>
 
 <li style="font-size:80%"> <p> Gabriela Czibula, Andrei Mihai, Istvan Gergely Czibula, <a href="/assets/files/KES2020.pdf">RadRAR: A relational association rule mining approach for nowcasting based on predicting radar products’ values</a>, 24nd International Conference on Knowledge-Based and Intelligent Information &amp; Engineering Systems (KES2020), Procedia Computer Science, Vol. 176, pp. 300-309</p> </li>
 </ol>
@@ -55,7 +55,7 @@ An overview of the outcomes for the project.
 ## Workshops
 
 <ul>
-<li style="font-size:80%"> <p> On the 28th of May 2021, the <a href="http://www.cs.ubbcluj.ro/weadl/"> 1st Workshop on Applied Deep Learning </a> was jointly organised by the MLyRE research group on Machine Learning, Faculty of Mathematics and Computer Science, Babeș-Bolyai University together with the Romanian National Meteorological Administration and Meteorologisk Institutt Norway. </p> </li>
+<li style="font-size:80%"> <p> On the 28th of May 2021, the <a href="http://www.cs.ubbcluj.ro/weadl/program-2021/"> 1st Workshop on Applied Deep Learning </a> was jointly organised by the MLyRE research group on Machine Learning, Faculty of Mathematics and Computer Science, Babeș-Bolyai University together with the Romanian National Meteorological Administration and Meteorologisk Institutt Norway. </p> </li>
 </ul>
 
 ## Presentations
