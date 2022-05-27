@@ -137,6 +137,9 @@ An overview of the outcomes for the project.
 <li style="font-size:80%"> <p> 2021, KES Conference, Vlad-Sebastian Ionescu (BBU), Gabriela Czibula (BBU), Eugen Mihuleț (NMA): <a href= "/assets/videos/kes2021.mp4"> DeePSat: A deep learning model for prediction of satellite images for nowcasting purposes </a> </p> </li>
 
 <li style="font-size:80%"> <p> 2021, Cluj IT Days, Andrei Mihai (BBU): <a href="https://vimeo.com/647889204">Enhancing the performance of weather nowcasting by use of machine learning techniques </a></p> </li>
+
+<li style="font-size:80%"> <p> 2022, Abdelkader Mezghani (MET) <a href="/assets/videos/weamyl_video_version0.webm">WeaMyL. Demo on how to access and visualise the output from the machine learning platform</a></p> </li>
+
 </ul>
 
 ## Testimonials
