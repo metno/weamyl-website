@@ -35,7 +35,7 @@ An overview of the outcomes for the project.
 
 <li style="font-size:80%"> <p> Albu, Alexandra-Ioana, Protein-Protein Interaction Prediction using Supervised Autoencoders, 26th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES2022), accepted for publication (B-ranked according to CORE classification, indexed WoS)</p> </li>
 
-<li style="font-size:80%"> <p> Meda Andrei, <a href=https://www.todaysoftmag.ro/article/3591/prognoza-vremii-si-modelele-numerice">Prognoza Vremii și Modelele Numerice</a>, TODAY SOFTWARE MAGAZINE, Nr. 119, May 2022, pp. 27-30. <a href="/assets/files/abstractMeda.pdf">Abstract</a></p> </li>
+<li style="font-size:80%"> <p> Meda Andrei, <a href="https://www.todaysoftmag.ro/article/3591/prognoza-vremii-si-modelele-numerice">Prognoza Vremii și Modelele Numerice</a>, TODAY SOFTWARE MAGAZINE, Nr. 119, May 2022, pp. 27-30. <a href="/assets/files/abstractMeda.pdf">Abstract</a></p> </li>
 
 </ol>
 
@@ -171,8 +171,8 @@ An overview of the outcomes for the project.
 
 ## Social media
 
-<a href="https://twitter.com/WeaMyLProject?s=20&t=lIubQgFakRfeT2z29WcDQw"><img src="assets/images/Twitter-logo.png" width="30" height="30"></a>
-<a href="https://www.youtube.com/channel/UCiUSpKhB0TiRpZ0l2Q67GJQ/featured"><img src="assets/images/youtube.jpg" width="30" height="30"></a> 
+<a href="https://twitter.com/WeaMyLProject?s=20&t=lIubQgFakRfeT2z29WcDQw"><img src="/assets/images/Twitter-logo.png" width="30" height="30"></a>
+<a href="https://www.youtube.com/channel/UCiUSpKhB0TiRpZ0l2Q67GJQ/featured"><img src="/assets/images/youtube.jpg" width="40" height="40"></a> 
 
 ## Annual Reporting
 
