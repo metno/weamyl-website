@@ -82,6 +82,8 @@ footer:
   image: /assets/images/LogoMyLFinal-01.png
   image2: /assets/images/ro-icon2.png
   image3: /assets/images/FooterText.png
+  image4: /assets/images/Twitter-logo.png
+  image5: /assets/images/youtube.jpg
   links:
     - label: "MET Norway"
       icon: "fas fa-fw fa-water"
