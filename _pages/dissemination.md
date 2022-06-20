@@ -62,7 +62,11 @@ An overview of the outcomes for the project.
 
 <ul>
 <li style="font-size:80%"> <p> On the 28th of May 2021, the <a href="http://www.cs.ubbcluj.ro/weadl/program-2021/"> 1st Workshop on Applied Deep Learning </a> was jointly organised by the MLyRE research group on Machine Learning, Faculty of Mathematics and Computer Science, Babeș-Bolyai University together with the Romanian National Meteorological Administration and Meteorologisk Institutt Norway. </p> </li>
+
+<li style="font-size:80%"> <p> On the 3rd of June 2022, the <a href="http://www.cs.ubbcluj.ro/weadl/"> 2nd Workshop on Applied Deep Learning </a> was jointly organised by the <a href="http://www.cs.ubbcluj.ro/ml/">MLyRE research group on Machine Learning</a>, Faculty of Mathematics and Computer Science, Babeș-Bolyai University together with the <a href="https://www.meteoromania.ro/">Romanian National Meteorological Administration</a> and <a href="https://www.met.no/en">Meteorologisk Institutt Norway</a>. </p> </li>
+
 </ul>
+
 
 ## Presentations
 
@@ -103,6 +107,31 @@ An overview of the outcomes for the project.
 <li style="font-size:80%"> <p> January 18th, 2022, Internal meeting, Oslo, Norway: Overview of machine learning activities at MET Norway </p> </li>
 
 <li style="font-size:80%"> <p> March 18th, 2022, <a href="http://aerapa.conference.ubbcluj.ro/wordpress/">Air and Water – Components of the Environment International Conference</a>, Eugen Mihuleț (NMA), <a href="/assets/files/Air_Eugen.pdf">Analysis of Applying a Deep Learning Model for Prediction of WSR-98D Weather Radar Product Values</a> </p> </li>
+
+<li style="font-size:80%"> <p> 2022, WeADL workshop, Sorin Cheval (NMA) <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2022/06/Sorin%20Cheval%20-%20Country%20scale%20assessment%20of%20the%20heat%20hazard-risk.pdf">A country scale assessment of the heat hazard-risk in urban areas</a> </p> </li>
+
+<li style="font-size:80%"> <p> 2022, WeADL workshop, Mihaela Caian (NMA) <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2022/06/Mihaela%20Caian%20-%20Variability%20of%20precipitation%20in%20Romania.pdf">Variability of precipitation in Romania: recent trends and projected changes in climate scenarios</a> </p> </li>
+
+<li style="font-size:80%"> <p> 2022, WeADL workshop, Magnus Haukeland (MET) <a href="">How nowcasting is used in today’s danger warnings</a> </p> </li>
+
+<li style="font-size:80%"> <p> 2022, WeADL workshop, Christoffer Artturi Elo (MET) <a href="">Processing and filtering of radar end-product composite reflectivity</a> </p> </li>
+
+<li style="font-size:80%"> <p> 2022, WeADL workshop, Mihai Andrei (BBU) <a href="">Using convolutional autoencoders for precipitation nowcasting based on radar data</a> </p> </li>
+
+<li style="font-size:80%"> <p> 2022, WeADL workshop, Gabriel-Ioan Mircea (BBU) <a href="">ConvLSTM architectures for meteorological nowcasting based on satellite imagery</a> </p> </li>
+
+<li style="font-size:80%"> <p> 2022, WeADL workshop, Abdelkader Mezghani (MET) <a href="">How to use the WeaMyL machine learning forecasting platform</a> </p> </li>
+
+<li style="font-size:80%"> <p> 2022, WeADL workshop, Arild Burud (MET) <a href="">A brief introduction on the netCDF file format, the OPeNDAP protocol and THREDDS Data server</a> </p> </li>
+
+<li style="font-size:80%"> <p> 2022, WeADL workshop, George Ciubotariu (BBU) <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2022/06/George%20Ciubotariu%20-%20MBMT-Net.pdf">MBMT-Net: A Multi-Backbone, Multi-Task Deep Convolutional Neural Network </a> </p> </li>
+
+<li style="font-size:80%"> <p> 2022, WeADL workshop, Radu Gălan (BBU) <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2022/06/Radu%20Galan%20-%20Generation%20and%20Simulation%20of%20Artificial%20Human%20Societies.pdf">Generation and Simulation of Artificial Human Societies using Anthropologically modelled Learning Agents </a> </p> </li>
+
+<li style="font-size:80%"> <p> 2022, WeADL workshop, Raluca Hațegan (BBU) <a href="">Application of Machine Learning algorithms for the botanical origin assessment of honey using isotope and elemental profiles </a> </p> </li>
+
+<li style="font-size:80%"> <p> 2022, WeADL workshop, Alexandra Albu (BBU) <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2022/06/Alexandra%20Albu%20-%20Protein-Protein%20Interaction%20Prediction.pdf">Protein-Protein Interaction Prediction using a Deep Learning Approach based on Autoencoders </a> </p> </li>
+
 
 </ul>
 
@@ -160,11 +189,22 @@ An overview of the outcomes for the project.
 
 <li style="font-size:80%"> <p> <a href="http://www.meteoromania.ro/wp-content/uploads/comunicate/Proiect_WeaMyL.pdf"> Press release, NMA, 01.2021 </a> </p> </li>
 
+
+<li style="font-size:80%">  <p> <a href="https://news.ubbcluj.ro/ubb-organizeaza-online-prima-editie-a-workshopului-in-invatare-profunda-aplicata-weadl2021/"> Press release, NEWSUBB, BBU, 20.05.2021 </a></p></li>
+
 <li style="font-size:80%"> <p> <a href="http://www.cs.ubbcluj.ro/weadl-2021-en/"> Press release, Faculty of Mathematics and Computer Science (BBU), 22.05.2021 </a> </p> </li>
+
 
 <li style="font-size:80%">  <p> <a href="https://news.ubbcluj.ro/ubb-organizeaza-online-prima-editie-a-workshopului-in-invatare-profunda-aplicata-weadl2021/"> Press release, BBU, 27.05.2021  </a></p></li>
 
 <li style="font-size:80%">  <p> <a href="https://news.ubbcluj.ro/cadre-universitare-ale-ubb-prezente-la-evenimentul-itdays/"> Press release, BBU, 9.11.2021</a></p></li>
+
+<li style="font-size:80%">  <p> <a href="https://www.cs.ubbcluj.ro/2nd-workshop-on-applied-deep-learning-weadl-2022/"> Press release, Faculty of Mathematics and Computer Science (BBU), 26.05.2022</a></p></li>
+
+<li style="font-size:80%">  <p> <a href="https://m.facebook.com/story.php?story_fbid=pfbid0SB716nEHajYwSbMjwKnM2fpx9zeQBaeysHKdTcdVrAwdcUANPQsGVD5eDjhrF7b8l&id=100069013215997"> Press release, UEFISCDI, 26.05.2022</a></p></li>
+
+<li style="font-size:80%">  <p> <a href="https://news.ubbcluj.ro/ubb-organizeaza-a-doua-editie-a-workshopului-weadl-workshop-on-applied-deep-learning/"> Press release, NEWSUBB, BBU, 25.05.2022 </a></p></li>
+
 
 
 </ul>
