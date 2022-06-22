@@ -118,7 +118,7 @@ An overview of the outcomes for the project.
 
 <li style="font-size:80%"> <p> 2022, WeADL workshop, Mihai Andrei (BBU) <a href="">Using convolutional autoencoders for precipitation nowcasting based on radar data</a> </p> </li>
 
-<li style="font-size:80%"> <p> 2022, WeADL workshop, Gabriel-Ioan Mircea (BBU) <a href="/assets/files/weadl2022gabi.pdf">ConvLSTM architectures for meteorological nowcasting based on satellite imagery</a> </p> </li>
+<li style="font-size:80%"> <p> 2022, WeADL workshop, Gabriel-Ioan Mircea (BBU) <a href="/assets/files/weadl22gabi.pdf">ConvLSTM architectures for meteorological nowcasting based on satellite imagery</a> </p> </li>
 
 <li style="font-size:80%"> <p> 2022, WeADL workshop, Abdelkader Mezghani (MET) <a href="">How to use the WeaMyL machine learning forecasting platform</a> </p> </li>
 
