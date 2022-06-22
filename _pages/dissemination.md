@@ -118,7 +118,7 @@ An overview of the outcomes for the project.
 
 <li style="font-size:80%"> <p> 2022, WeADL workshop, Mihai Andrei (BBU) <a href="">Using convolutional autoencoders for precipitation nowcasting based on radar data</a> </p> </li>
 
-<li style="font-size:80%"> <p> 2022, WeADL workshop, Gabriel-Ioan Mircea (BBU) <a href="">ConvLSTM architectures for meteorological nowcasting based on satellite imagery</a> </p> </li>
+<li style="font-size:80%"> <p> 2022, WeADL workshop, Gabriel-Ioan Mircea (BBU) <a href="/assets/files/weadl2022gabi.pdf">ConvLSTM architectures for meteorological nowcasting based on satellite imagery</a> </p> </li>
 
 <li style="font-size:80%"> <p> 2022, WeADL workshop, Abdelkader Mezghani (MET) <a href="">How to use the WeaMyL machine learning forecasting platform</a> </p> </li>
 
@@ -126,7 +126,7 @@ An overview of the outcomes for the project.
 
 <li style="font-size:80%"> <p> 2022, WeADL workshop, George Ciubotariu (BBU) <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2022/06/George%20Ciubotariu%20-%20MBMT-Net.pdf">MBMT-Net: A Multi-Backbone, Multi-Task Deep Convolutional Neural Network </a> </p> </li>
 
-<li style="font-size:80%"> <p> 2022, WeADL workshop, Radu Gălan (BBU) <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2022/06/Radu%20Galan%20-%20Generation%20and%20Simulation%20of%20Artificial%20Human%20Societies.pdf">Generation and Simulation of Artificial Human Societies using Anthropologically modelled Learning Agents </a> </p> </li>
+<li style="font-size:80%"> <p> 2022, WeADL workshop, Radu Galan (BBU) <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2022/06/Radu%20Galan%20-%20Generation%20and%20Simulation%20of%20Artificial%20Human%20Societies.pdf">Generation and Simulation of Artificial Human Societies using Anthropologically modelled Learning Agents </a> </p> </li>
 
 <li style="font-size:80%"> <p> 2022, WeADL workshop, Raluca Hațegan (BBU) <a href="">Application of Machine Learning algorithms for the botanical origin assessment of honey using isotope and elemental profiles </a> </p> </li>
 
@@ -181,6 +181,7 @@ An overview of the outcomes for the project.
 
 <li style="font-size:80%"> <p> <a href="/assets/files/testimonial_anm.pdf"> Cristian Grecu (NMA) </a> </p> </li>
 
+<li style="font-size:80%"> <p> <a href="/assets/files/testimonialSorin.pdf"> Speech at Opening Ceremony WeaDL Workshop, 2022 </a> </p> </li>
 </ul>
 
 ## Interviews, Press releases
