@@ -171,6 +171,31 @@ An overview of the outcomes for the project.
 
 <li style="font-size:80%"> <p> 2022, Abdelkader Mezghani (MET) <a href="/assets/videos/weamyl_video_version0.webm">WeaMyL. Demo on how to access and visualise the output from the machine learning platform</a></p> </li>
 
+<li style="font-size:80%"> <p> 2022, WeADL workshop, Sorin Cheval (NMA) <a href="https://youtu.be/CiIXkNuAkzc">A country scale assessment of the heat hazard-risk in urban areas</a> </p> </li>
+
+<li style="font-size:80%"> <p> 2022, WeADL workshop, Mihaela Caian (NMA) <a href="https://youtu.be/2Kmyw7tecls">Variability of precipitation in Romania: recent trends and projected changes in climate scenarios</a> </p> </li>
+
+<li style="font-size:80%"> <p> 2022, WeADL workshop, Magnus Haukeland (MET) <a href="https://youtu.be/WFIRPSUW5OY">How nowcasting is used in today’s danger warnings</a> </p> </li>
+
+<li style="font-size:80%"> <p> 2022, WeADL workshop, Christoffer Artturi Elo (MET) <a href="https://youtu.be/3dgdfWPPpE4">Processing and filtering of radar end-product composite reflectivity</a> </p> </li>
+
+<li style="font-size:80%"> <p> 2022, WeADL workshop, Mihai Andrei (BBU) <a href="https://youtu.be/bqoQQdOK60M">Using convolutional autoencoders for precipitation nowcasting based on radar data</a> </p> </li>
+
+<li style="font-size:80%"> <p> 2022, WeADL workshop, Gabriel-Ioan Mircea (BBU) <a href="https://youtu.be/zvtAG4pLBuo">ConvLSTM architectures for meteorological nowcasting based on satellite imagery</a> </p> </li>
+
+<li style="font-size:80%"> <p> 2022, WeADL workshop, Abdelkader Mezghani (MET) <a href="https://youtu.be/1zoaLWrCkcU">How to use the WeaMyL machine learning forecasting platform</a> </p> </li>
+
+<li style="font-size:80%"> <p> 2022, WeADL workshop, Arild Burud (MET) <a href="https://youtu.be/XauPIiDR52g">A brief introduction on the netCDF file format, the OPeNDAP protocol and THREDDS Data server</a> </p> </li>
+
+<li style="font-size:80%"> <p> 2022, WeADL workshop, George Ciubotariu (BBU) <a href="https://youtu.be/ojPcj6kpVxA">MBMT-Net: A Multi-Backbone, Multi-Task Deep Convolutional Neural Network </a> </p> </li>
+
+<li style="font-size:80%"> <p> 2022, WeADL workshop, Radu Galan (BBU) <a href="https://youtu.be/8Xu_pZsmr1s">Generation and Simulation of Artificial Human Societies using Anthropologically modelled Learning Agents </a> </p> </li>
+
+<!--<li style="font-size:80%"> <p> 2022, WeADL workshop, Raluca Hațegan (BBU) <a href="">Application of Machine Learning algorithms for the botanical origin assessment of honey using isotope and elemental profiles </a> </p> </li> -->
+
+<li style="font-size:80%"> <p> 2022, WeADL workshop, Alexandra Albu (BBU) <a href="https://youtu.be/zfMXwB7g6m8">Protein-Protein Interaction Prediction using a Deep Learning Approach based on Autoencoders </a> </p> </li>
+
+
 </ul>
 
 ## Testimonials
