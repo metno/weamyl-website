@@ -37,6 +37,8 @@ An overview of the outcomes for the project.
 
 <li style="font-size:80%"> <p> Meda Andrei, <a href="https://www.todaysoftmag.ro/article/3591/prognoza-vremii-si-modelele-numerice">Prognoza Vremii și Modelele Numerice</a>, TODAY SOFTWARE MAGAZINE, Nr. 119, May 2022, pp. 27-30. <a href="/assets/files/abstractMeda.pdf">Abstract</a></p> </li>
 
+<li style="font-size:80%"> <p> Albu, A.-I., Czibula G., Mihai, A., Czibula, I.G., Burcea, S. Mezghani, A., <a href="https://www.mdpi.com/2072-4292/14/16/3890">Enhancing the performance of  weather radar products prediction for nowcasting purposes using a customized deep learning model</a>, Remote Sensing, Special Issue "Artificial Intelligence-Based Learning Approaches for Remote Sensing", 2022, 14(16), 3890 (2021 IF=5.349, Q1) </li>
+
 </ol>
 
 ### Related Publications
