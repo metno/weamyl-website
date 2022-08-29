@@ -39,6 +39,8 @@ An overview of the outcomes for the project.
 
 <li style="font-size:80%"> <p> Albu, A.-I., Czibula G., Mihai, A., Czibula, I.G., Burcea, S. Mezghani, A., <a href="https://www.mdpi.com/2072-4292/14/16/3890">Enhancing the performance of  weather radar products prediction for nowcasting purposes using a customized deep learning model</a>, Remote Sensing, Special Issue "Artificial Intelligence-Based Learning Approaches for Remote Sensing", 2022, 14(16), 3890 (2021 IF=5.349, Q1) </p></li>
 
+<li style="font-size:80%"> <p> Narcisa Milian, Cristina Blaga, <a href="https://www.todaysoftmag.ro/article/3631/avertizarile-meteorologice-de-tipul-nowcasting">Avertizările Meteorologice de tipul nowcasting</a>, TODAY SOFTWARE MAGAZINE, Nr. 121, June 2022, pp. 25-29. <a href="/assets/files/abstractMilian.pdf">Abstract</a></p> </li>
+
 </ol>
 
 
