@@ -8,7 +8,7 @@ title: "Project dissemination"
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 .collapsible {
-  background-color: #777;
+  background-color: #80bfff;
   color: white;
   cursor: pointer;
   padding: 18px;
