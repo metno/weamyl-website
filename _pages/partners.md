@@ -63,6 +63,8 @@ title: "Team"
 <!--## The Norwegian Meteorological Institute (MET Norway)-->
 <p class="small" align="justify">The Norwegian Meteorological Institute (MET Norway) is a state agency from Norway, a leading international centre of expertise responsible for public meteorological services for civil and military purposes. It forecasts weather, monitors the climate and conducts research. MET Norway is actively involved in the work of the WMO, the European Centre for Medium Range Weather Forecasts, and the European Organization for the Exploitation of Meteorological Satellites (EUMETSAT). The main research and development activities include atmospheric, oceanic and climatological research and involve both models and observations. MET Norway has also a long record of participation in regional and EEA/Norway Grant programmes in addition to EU-grants, projects funded by external organisations, and projects funded by the Norwegian Research Council and the Nordic organisation NordForsk. Please see the <a href="https://weamyl.met.no/metno">partner page</a> for further details.</p>
 
+</div>
+
 <script>
 var coll = document.getElementsByClassName("collapsible");
 var i;
@@ -82,5 +84,4 @@ for (i = 0; i < coll.length; i++) {
 
 
 </body>
-
 </html>
