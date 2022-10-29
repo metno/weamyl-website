@@ -30,6 +30,7 @@ The WeaMyL software platform consists of three components such as the,
 
 <li style="font-size:80%"> <p align="justify"><b>Integration Module</b>. In order for the above components to provide actionable
 information, they must be integrated with the software systems already deployed on location. The purpose of this module is to provide a number of data consumer and data provider connectors that can be integrated within existing systems. Both the Forecasting Platform and the Annotated Atlas will act as consumers for real-time generated meteorological data, while the Forecasting Platform will provide data relevant to upcoming severe weather.</p></li>
+</ul>
 
 ## Work Packages
 
