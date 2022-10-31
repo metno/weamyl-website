@@ -32,12 +32,17 @@ title: "Results"
 </head>
 <body>
 
-<button type="button" class="collapsible">Nowcasting models</button>
+<figure>
+  <img src="/assets/images/Container.png" alt="The WeaMyL System" style="width:100%">
+  <center><figcaption>The WeaMyL System</figcaption></center>
+
+</figure>
+<button type="button" class="collapsible"><h1>Nowcasting models</h1></button>
 <div class="content">
 
-<img src="/assets/images/Container.png">
 
-<h3> NowCastX version 1.0.0</h3>
+
+<h2> NowCastX version 1.0.0</h2>
 
 <p class="small" align="justify">NowCastX version 1.0.0 - <a href="https://ieeexplore.ieee.org/document/9118849">Xception-based model</a> trained on a dataset containing 45 days of radar data <a href="https://thredds.met.no/thredds/catalog/remotesensing/reflectivity-nordic/catalog.html">(thredds)</a>. The model has been trained on a region of approximately 300km x 300km surrounding Oslo for predicting the composite reflectivity values in the future using current radar values. The day used for illustrating the predictions has not been used for training.</p>
 <video width="100%" controls>
@@ -49,7 +54,7 @@ title: "Results"
 </video>
 <p class="small">NowCastX 15 min - based on currently available radar data predicts the radar values 15 minutes in the future. </p>
 
-<h3> NowCastX version 0.0.1</h3>
+<h2> NowCastX version 0.0.1</h2>
 
 <p class="small" align="justify">NowCastX version 0.0.1 - Incipient Xception-based model trained on a dataset containing 6 days with meteorological events <a href="https://thredds.met.no/thredds/catalog/remotesensing/reflectivity-nordic/catalog.html">(thredds)</a>, selected from the CAP warnings available at <a href="https://api.met.no/weatherapi/metalerts/1.1?show=all&lang=en">weatherapi</a>. The model has been trained on a region of approximately 300km x 300km surrounding Oslo for predicting the composite reflectivity values at 5 minutes in the future using the values from the current timestamp. The day used for illustrating the predictions has not been used for training.</p>
 
@@ -58,15 +63,15 @@ title: "Results"
 </video>
 </div>
 
-<button type="button" class="collapsible">Annotated Atlas of Meteorological Observations</button>
+<button type="button" class="collapsible"><h1>Annotated Atlas of Meteorological Observations</h1></button>
 <div class="content">
 
 <p class="small" align="justify">This component offers a web interface to a search engine connected to a semantic database which contains severe weather warnings. The web interface is easy to use and allows searching/filtering for different types of weather events and also for named weather events. The web interface also offers the possibility to investigate geographical areas affected by annotated and earlier events. In addition, It provides information about where to find the source data files, hence, providing support to the training machine learning models to detect interesting possible weather events.</p>
 
-<img src="/assets/images/Atlas.png">
+<img src="/assets/images/Atlas.png"/>
 </div>
 
-<button type="button" class="collapsible">Forecasting Platform</button>
+<button type="button" class="collapsible"><h1>Forecasting Platform</h1></button>
 <div class="content">
 
 <p class="small" align="justify">The forecasting platform consists of the following components:</p>
@@ -85,7 +90,7 @@ title: "Results"
 
 <p class="small" align="justify">Below is an example of visualizing the ML output as forecast (left) versus observed (right) equivalent reflectivity factor using the Open GeoWeb mapping service for the weather event on April 08, 2022 at 18:05 UTC. This visualization is based on data assimilated every 5 to 10 minutes.</p>
 
-<img src="/assets/images/demo_GeoWeb.png">
+<img src="/assets/images/demo_GeoWeb.png"/>
 
 <!--<p class="small" align="justify">The video</p>
 
