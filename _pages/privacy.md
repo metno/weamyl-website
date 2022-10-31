@@ -7,7 +7,7 @@ title: "Privacy"
 # WeaMyL Privacy Policy Statement
 
 
-This privacy policy statement explains how WeaMyL collects and uses personal data.
+<p class="small" align="justify">This privacy policy statement explains how WeaMyL collects and uses personal data.</p>
 
 ## Processing of personal data on WeaMyL website
 
