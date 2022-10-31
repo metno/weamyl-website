@@ -33,8 +33,9 @@ title: "Results"
 <body>
 
 <figure>
-  <img src="/assets/images/Container.png" alt="The WeaMyL System" style="width:100%">
   <center><figcaption>The WeaMyL System</figcaption></center>
+  <img src="/assets/images/Container.png" alt="The WeaMyL System" style="width:100%">
+
 
 </figure>
 <button type="button" class="collapsible"><h1>Nowcasting models</h1></button>
@@ -87,10 +88,10 @@ title: "Results"
 <li style="font-size:80%"> <p align="justify"> CAP editor - editor used by the forecaster to produce CAP warnings.</p></li>
 
 <li style="font-size:80%"> <p align="justify"> CAP feed - service providing all issued CAP warnings.</p></li>
-
+</ol>
 <p class="small" align="justify">Below is an example of visualizing the ML output as forecast (left) versus observed (right) equivalent reflectivity factor using the Open GeoWeb mapping service for the weather event on April 08, 2022 at 18:05 UTC. This visualization is based on data assimilated every 5 to 10 minutes.</p>
 
-<img src="/assets/images/demo_GeoWeb.png"/>
+<img src="/assets/images/demo_GeoWeb.png" />
 
 <!--<p class="small" align="justify">The video</p>
 
