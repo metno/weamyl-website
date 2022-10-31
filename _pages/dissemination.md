@@ -33,9 +33,9 @@ title: "Project dissemination"
 </head>
 <body>
 
-<h1>An overview of the outcomes for the project</h1>
+<h2>An overview of the outcomes for the project</h2>
 
-<button type="button" class="collapsible"><h2>Project Publications</h2></button>
+<button type="button" class="collapsible"><h3>Project Publications</h3></button>
 <div class="content">
   <ol>
 <li style="font-size:80%"> <p>Gabriela Czibula, Andrei Mihai, Eugen Mihuleț, <a href="/assets/files/applsci-11-00125.pdf">NowDeepN: An ensemble of deep learning models for weather nowcasting based on radar products’ values prediction</a>, Applied Sciences, 2021, 11(1), 125; Special Issue Applied Machine Learning, https://doi.org/10.3390/app11010125. (2020 IF=2.679, Q2).</p>
@@ -72,7 +72,7 @@ title: "Project dissemination"
 </ol>
 </div>
 
-<button type="button" class="collapsible"><h2>Related Publications</h2></button>
+<button type="button" class="collapsible"><h3>Related Publications</h3></button>
 <div class="content">
   <ol>
 <li style="font-size:80%"> <p> Gabriela Czibula, Andrei Mihai, Eugen Mihuleț, Daniel Teodorovici, <a href="/assets/files/KES2019.pdf">Using self-organizing maps for unsupervised analysis of radar data for nowcasting purposes</a>, 23nd International Conference on Knowledge-Based and Intelligent Information &amp; Engineering Systems (KES2019), Procedia Computer Science  Vol 159, (2019)  pp. 48-57</p> </li>
@@ -87,7 +87,7 @@ title: "Project dissemination"
 </div>
 
 
-<button type="button" class="collapsible"><h2>PhD Thesis</h2></button>
+<button type="button" class="collapsible"><h3>PhD Thesis</h3></button>
 <div class="content">
   <ul>
 <li style="font-size:80%"> <p> 2021, Andrei Mihai (BBU): <a href="/assets/files/PhDAndrei_en.pdf"> Machine learning models for weather nowcasting </a> </p> </li>
@@ -95,7 +95,7 @@ title: "Project dissemination"
 </ul>
 </div>
 
-<button type="button" class="collapsible"><h2>Workshops</h2></button>
+<button type="button" class="collapsible"><h3>Workshops</h3></button>
 <div class="content">
  <ul>
 <li style="font-size:80%"> <p> On the 28th of May 2021, the <a href="http://www.cs.ubbcluj.ro/weadl/program-2021/"> 1st Workshop on Applied Deep Learning </a> was jointly organised by the MLyRE research group on Machine Learning, Faculty of Mathematics and Computer Science, Babeș-Bolyai University together with the Romanian National Meteorological Administration and Meteorologisk Institutt Norway. </p> </li>
@@ -105,7 +105,7 @@ title: "Project dissemination"
 </ul>
 </div>
 
-<button type="button" class="collapsible"><h2>Presentations</h2></button>
+<button type="button" class="collapsible"><h3>Presentations</h3></button>
 <div class="content">
 <ul>
 <li style="font-size:80%"> <p> 2021, WeADL workshop, Eugen Mihuleț (NMA): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/Technology%20in%20Weather%20Forecasting%20-%20Eugen%20Mihulet.pdf"> Technology in weather forecasting </a> </p> </li>
@@ -172,7 +172,7 @@ title: "Project dissemination"
 </ul>
 </div>
 
-<button type="button" class="collapsible"><h2>Video</h2></button>
+<button type="button" class="collapsible"><h3>Video</h3></button>
 <div class="content">
  <ul>
 <li style="font-size:80%"> <p> 2021, WeADL workshop, Eugen Mihuleț (NMA): <a href="https://www.youtube.com/watch?v=_Jxk9NMJMZ4"> Technology in weather forecasting </a> </p> </li>
@@ -235,7 +235,7 @@ title: "Project dissemination"
 </ul>
 </div>
 
-<button type="button" class="collapsible"><h2>Testimonials</h2></button>
+<button type="button" class="collapsible"><h3>Testimonials</h3></button>
 <div class="content">
 <ul>
 <li style="font-size:80%"> <p> <a href="/assets/files/rector.pdf"> BBU Rector’s Speech at Opening Ceremony WeaDL Workshop, 2021 </a> </p> </li>
@@ -248,7 +248,7 @@ title: "Project dissemination"
 </ul>
 </div>
 
-<button type="button" class="collapsible"><h2>Interviews, Press releases</h2></button>
+<button type="button" class="collapsible"><h3>Interviews, Press releases</h3></button>
 <div class="content">
   <ul>
 
@@ -273,14 +273,14 @@ title: "Project dissemination"
 </ul>
 </div>
 
-<button type="button" class="collapsible"><h2>Social media</h2></button>
+<button type="button" class="collapsible"><h3>Social media</h3></button>
 <div class="content">
 <ul>
 <li style="font-size:80%">  <p> <a href="https://www.facebook.com/105951141283282/posts/pfbid024ATGcYRfFgnbto8YDZ9u72j6oLB1y3RioBBewPfEmD5D1Kv6oTkSze5875kSrrCvl"> WeADL, 2nd edition </a></p></li>
 </ul>
 </div>
 
-<button type="button" class="collapsible"><h2>Annual Reporting</h2></button>
+<button type="button" class="collapsible"><h3>Annual Reporting</h3></button>
 <div class="content">
 <ul>
 <li style="font-size:80%">  <p> <a href="https://weamyl.met.no/assets/files/report21.pdf">2020-2021 Technical report summary</a></p></li>
