@@ -74,10 +74,10 @@ title: "Results"
 <div class="content">
 
 <p class="small" align="justify">The forecasting platform consists of the following components:</p>
-<ol>
+<ul>
 <li> <p class="small" align="justify"> GeoWeb - A web application used to visualize all kinds of meteorological data. That includes output from the machine learning algorithm and CAP warnings.</p></li>
 
-<li> <p class="small" align="justify"> WebMapService providing data from the ML algorithms - Services providing all kinds of meteorological data, including model output satellite images, radar data, in situ observations as images that can be displayed on a map.</p></li>
+<li style="small"><p class="small" align="justify">  WebMapService providing data from the ML algorithms - Services providing all kinds of meteorological data, including model output satellite images, radar data, in situ observations as images that can be displayed on a map.</p></li>
 
 <li > <p class="small" align="justify"> Machine Learning Algorithms - producing forecasts based on the latest recorded radar data sets.</p></li>
 
@@ -87,17 +87,17 @@ title: "Results"
 
 <li> <p class="small" align="justify"> CAP feed - service providing all issued CAP warnings.</p></li>
 
-</ol>
+</ul>
 
 <p class="small" align="justify">Below is an example of visualizing the ML output as forecast (left) versus observed (right) equivalent reflectivity factor using the Open GeoWeb mapping service for the weather event on April 08, 2022 at 18:05 UTC. This visualization is based on data assimilated every 5 to 10 minutes.</p>
 
 <img src="/assets/images/demo_GeoWeb.png" />
 
-<!--<p class="small" align="justify">The video</p>
+<p class="small" align="justify">The video</p>
 
 <video width="100%" controls>
-  <source src="/assets/videos/xnow-4steps-15min-publ.mp4" type="video/mp4">
-</video> -->
+  <source src="/assets/videos/GeoWeb_demo.mp4" type="video/mp4">
+</video>
 
 </div>
 
