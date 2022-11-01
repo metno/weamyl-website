@@ -237,7 +237,33 @@ title: "Project dissemination"
 
 <button type="button" class="collapsible">Testimonials</button>
 <div class="content">
-<ul>
+<table>
+<tr>
+ <td width="25%" ><center> <img src="/assets/images/Rector.png"/> </center></td>
+ <td align="justify">
+<a href="/assets/files/rector.pdf"> BBU Rector’s Speech at Opening Ceremony WeaDL Workshop, 2021</a>
+</td>
+</tr>
+<tr>
+ <td width="25%" ><center> <img src="/assets/images/SorinCheval.png"/> </center></td>
+ <td align="justify">
+<a href="/assets/files/testimonialSorin.pdf">Speech at Opening Ceremony WeaDL Workshop, 2022  </a>
+</td>
+</tr>
+<tr>
+ <td width="25%" ><center> <img src="/assets/images/bio/gabi_mircea.jpg"/> </center></td>
+ <td align="justify">
+<a href="/assets/files/testimonial_gabi.pdf"> Gabriel Mircea (BBU) </a>
+</td>
+</tr>
+<tr>
+ <td width="25%" ><center>  </center></td>
+ <td align="justify">
+<a href="/assets/files/testimonial_anm.pdf"> Cristian Grecu (NMA) </a>
+</td>
+</tr>
+</table>
+<!--<ul>
 <li style="font-size:80%"> <p> <a href="/assets/files/rector.pdf"> BBU Rector’s Speech at Opening Ceremony WeaDL Workshop, 2021 </a> </p> </li>
 
 <li style="font-size:80%"> <p> <a href="/assets/files/testimonial_gabi.pdf"> Gabriel Mircea (BBU) </a> </p> </li>
@@ -245,7 +271,7 @@ title: "Project dissemination"
 <li style="font-size:80%"> <p> <a href="/assets/files/testimonial_anm.pdf"> Cristian Grecu (NMA) </a> </p> </li>
 
 <li style="font-size:80%"> <p> <a href="/assets/files/testimonialSorin.pdf"> Speech at Opening Ceremony WeaDL Workshop, 2022 </a> </p> </li>
-</ul>
+</ul>-->
 </div>
 
 <button type="button" class="collapsible">Interviews, Press releases</button>
