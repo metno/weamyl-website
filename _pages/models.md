@@ -81,7 +81,7 @@ title: "Results"
 
 <li > <p class="small" align="justify"> Machine Learning Algorithms - producing forecasts based on the latest recorded radar data sets.</p></li>
 
-<li> <p class="small" align="justify"> WebMapServices - Services providing all kinds of meteorological data, including model output, satellite images, radar data, in situ observations, as images that can be displayed on a map.</p></li>
+<!--<li> <p class="small" align="justify"> WebMapServices - Services providing all kinds of meteorological data, including model output, satellite images, radar data, in situ observations, as images that can be displayed on a map.</p></li>-->
 
 <li > <p class="small" align="justify"> CAP editor - editor used by the forecaster to produce CAP warnings.</p></li>
 

@@ -257,7 +257,7 @@ title: "Project dissemination"
 </td>
 </tr>
 <tr>
- <td width="25%" ><center>  </center></td>
+ <td width="25%" ><center> <img src="/assets/images/CristianGrecu.png"/> </center></td>
  <td align="justify">
 <a href="/assets/files/testimonial_anm.pdf"> Cristian Grecu (NMA) </a>
 </td>
