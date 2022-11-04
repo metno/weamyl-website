@@ -4,11 +4,11 @@ title: "About MET Norway"
 ---
 
 
-The Norwegian Meteorological Institute (MET Norway) is a state agency from Norway, a leading international centre of expertise responsible for public meteorological services for civil and military purposes. It forecasts weather, monitors the climate and conducts research. MET Norway is actively involved in the work of the WMO, the European Centre for Medium Range Weather Forecasts, and the European Organization for the Exploitation of Meteorological Satellites (EUMETSAT). MET Norway counts more than 80 researchers. The main research and development activities include atmospheric, oceanic and climatological research and involve both models and observations. MET Norway has also a long record of participation in regional and EEA/Norway Grant programmes in addition to EU-grants, projects funded by external organisations, and projects funded by the Norwegian Research Council and the Nordic organisation NordForsk.
+<p align="justify"><small>The Norwegian Meteorological Institute (MET Norway) is a state agency from Norway, a leading international centre of expertise responsible for public meteorological services for civil and military purposes. It forecasts weather, monitors the climate and conducts research. MET Norway is actively involved in the work of the WMO, the European Centre for Medium Range Weather Forecasts, and the European Organization for the Exploitation of Meteorological Satellites (EUMETSAT). MET Norway counts more than 80 researchers. The main research and development activities include atmospheric, oceanic and climatological research and involve both models and observations. MET Norway has also a long record of participation in regional and EEA/Norway Grant programmes in addition to EU-grants, projects funded by external organisations, and projects funded by the Norwegian Research Council and the Nordic organisation NordForsk.</small></p>
 
-MET Norway research team includes
+<p align="justify"><small>MET Norway research team includes</small></p>
 
-## Anne-Cecilie Riiser, Head of the IT department
+* <p align="justify"><small>Anne-Cecilie Riiser, Head of the IT department</small></p>
  <table>
  <tr>
   <td width="25%" ><center> <img src="/assets/images/bio/anne_cecilie_MET_Norway.jpg"/> </center></td>
@@ -19,7 +19,7 @@ MET Norway research team includes
  </tr>
  </table>
 
-## Lisbeth Bergholt, senior computer scientist
+* <p align="justify"><small> Lisbeth Bergholt, senior computer scientist</small></p>
 <table>
  <tr>
   <td width="25%" ><center> <img src="/assets/images/bio/Lisbeth_MET_Norway.png"/> </center></td>
@@ -30,7 +30,7 @@ MET Norway research team includes
  </tr>
  </table>
 
-## Bard Saadatnejad, senior computer scientist
+* <p align="justify"><small>Bard Saadatnejad, senior computer scientist</small></p>
 <table>
  <tr>
   <td width="25%" ><center> <img src="/assets/images/bio/bard_MET_Norway.png"/> </center></td>
@@ -43,7 +43,7 @@ MET Norway research team includes
  </tr>
  </table>
 
-## Nina Elisabeth Larsgård, Researcher
+* <p align="justify"><small> Nina Elisabeth Larsgård, Researcher</small></p>
 <table>
  <tr>
   <td width="25%" ><center> <img src="/assets/images/bio/Nina_MET_Norway.png"/> </center></td>
@@ -54,7 +54,7 @@ MET Norway research team includes
  </tr>
  </table>
 
-## Christoffer Artturi Elo, Researcher
+* <p align="justify"><small> Christoffer Artturi Elo, Researcher</small></p>
 <table>
  <tr>
   <td width="25%" ><center> <img src="/assets/images/bio/christoffer_MET_Norway.png"/> </center></td>
@@ -65,8 +65,8 @@ MET Norway research team includes
  </tr>
  </table>
 
-## Trygve Aspenes, Senior-Engineer
- <table>
+* <p align="justify"><small> Trygve Aspenes, Senior-Engineer
+ <table></small></p>
  <tr>
   <td width="25%" ><center> <img src="/assets/images/bio/trygve_MET_Norway.png"/> </center></td>
   <td align="justify">
@@ -76,7 +76,7 @@ MET Norway research team includes
  </tr>
  </table>
 
-## Arild Burud,
+* <p align="justify"><small> Arild Burud,</small></p>
 <table>
  <tr>
   <td width="25%" ><center> <img src="/assets/images/bio/Arild_MET_Norway.png"/> </center></td>
@@ -87,7 +87,7 @@ MET Norway research team includes
  </tr>
  </table>
 
-## Anita Verpe Dyrrdal, Scientist and Head of the Norwegian Climate Service Centre
+* <p align="justify"><small> Anita Verpe Dyrrdal, Scientist and Head of the Norwegian Climate Service Centre</small></p>
 <table>
  <tr>
   <td width="25%" ><center> <img src="/assets/images/bio/Anita_MET_Norway.png"/> </center></td>
@@ -98,7 +98,7 @@ MET Norway research team includes
  </tr>
  </table>
 
-## Abdelkader Mezghani, Senior Scientist
+* <p align="justify"><small> Abdelkader Mezghani, Senior Scientist</small></p>
  <table>
  <tr>
   <td width="25%" ><center> <img src="/assets/images/bio/abdelkader_metno.jpg"/> </center></td>
@@ -109,7 +109,7 @@ MET Norway research team includes
  </tr>
  </table>
 
-## Kajsa Maria Parding, Young Sceintist
+* <p align="justify"><small> Kajsa Maria Parding, Young Sceintist</small></p>
 <table>
  <tr>
   <td width="25%" ><center> <img src="/assets/images/bio/kajsa_MET_Norway.png"/> </center></td>
@@ -120,7 +120,7 @@ MET Norway research team includes
  </tr>
  </table>
 
-## Helena Birkeland Erlandsen, Young Scientist
+* <p align="justify"><small> Helena Birkeland Erlandsen, Young Scientist</small></p>
 <table>
  <tr>
   <td width="25%" ><center> <img src="/assets/images/bio/helene_MET_Norway.png"/> </center></td>
@@ -131,7 +131,7 @@ MET Norway research team includes
  </tr>
  </table>
 
-## Hans Christian Nenseth, computer engineer
+* <p align="justify"><small> Hans Christian Nenseth, computer engineer</small></p>
 <table>
  <tr>
   <td width="25%" ><center> <img src="/assets/images/bio/Hans_Christian_MET_Norway.png"/> </center></td>
@@ -143,7 +143,7 @@ MET Norway research team includes
  </tr>
  </table>
 
-## Tine Klemsdahl Eklund, Senior advisor
+* <p align="justify"><small> Tine Klemsdahl Eklund, Senior advisor</small></p>
 <table>
  <tr>
   <td width="25%" ><center> <img src="/assets/images/bio/tine_MET_Norway.png"/> </center></td>
