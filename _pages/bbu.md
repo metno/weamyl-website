@@ -3,11 +3,11 @@ permalink: /bbu/
 title: "About Babes-Bolyai University - MLyRE team"
 ---
 
-<a href="http://www.cs.ubbcluj.ro/ml/">MLyRE </a> (Machine Learning REsearch) is a research group on MACHINE LEARNING at the Faculty of Mathematics and Computer Science, Babes-Bolyai University of Cluj-Napoca, Romania. The group focuses on fundamental, applicative and interdisciplinary research on Machine Learning.
+<p align="justify"><small><a href="http://www.cs.ubbcluj.ro/ml/">MLyRE </a> (Machine Learning REsearch) is a research group on MACHINE LEARNING at the Faculty of Mathematics and Computer Science, Babes-Bolyai University of Cluj-Napoca, Romania. The group focuses on fundamental, applicative and interdisciplinary research on Machine Learning.</small></p>
 
-Members of the MLyRE group involved in the WeaMyL project:
+<p align="justify"><small>Members of the MLyRE group involved in the WeaMyL project:</small></p>
 
-* <a href= "http://www.cs.ubbcluj.ro/~gabis/"> Prof. Czibula Gabriela, PhD </a> - principal investigator
+* <p align="justify"><small><a href= "http://www.cs.ubbcluj.ro/~gabis/"> Prof. Czibula Gabriela, PhD </a> - principal investigator</small></p>
 <table>
 <tr>
 <td width="25%" ><center> <img src="/assets/images/bio/circle_GabrielaCzibula.png"/> </center></td>
@@ -18,7 +18,7 @@ Gabriela Czibula works as a professor in the Computer Science Department, Facult
 </tr>
 </table>
 
-* <a href= "http://www.cs.ubbcluj.ro/~istvanc/"> Prof. Czibula Istvan, PhD </a>
+* <p align="justify"><small> <a href= "http://www.cs.ubbcluj.ro/~istvanc/"> Prof. Czibula Istvan, PhD </a></small></p>
 <table>
 <tr>
 <td width="25%" ><center> <img src="/assets/images/bio/circle_IstvanCzibula.png"/> </center></td>
@@ -27,7 +27,8 @@ Gabriela Czibula works as a professor in the Computer Science Department, Facult
      <a href="https://scholar.google.com/citations?user=eSWofb8AAAAJ&hl=ro&oi=sra"> Google Scholar Profile </a>
  </td> </tr>  
 </table>
-* <a href="https://sites.google.com/view/iuliana-bocicor/home"> Conf. Bocicor Iuliana, PhD </a>
+
+* <p align="justify"><small><a href="https://sites.google.com/view/iuliana-bocicor/home"> Conf. Bocicor Iuliana, PhD </a></small></p>
 <table>
 <tr>
 <td width="25%" ><center> <img src="/assets/images/bio/circle_IulianaBocicor.png"/> </center></td>
@@ -35,7 +36,8 @@ Gabriela Czibula works as a professor in the Computer Science Department, Facult
      <a href="https://scholar.google.com/citations?user=WZnRL3YAAAAJ&hl=en"> Google Scholar Profile </a>
  </td> </tr>  
 </table>
-* <a href= "https://arthur486.wordpress.com/"> Lect. Molnar Arthur-Jozsef, PhD </a>
+
+* <p align="justify"><small><a href= "https://arthur486.wordpress.com/"> Lect. Molnar Arthur-Jozsef, PhD </a></small></p>
 <table>
 <tr>
 <td width="25%" ><center> <img src="/assets/images/bio/ArthurMolnar-circle.png"/> </center></td>
@@ -44,7 +46,7 @@ Gabriela Czibula works as a professor in the Computer Science Department, Facult
  </td> </tr>  
 </table>
 
-* <a href= "http://www.cs.ubbcluj.ro/~marianzsu/"> Lect. Onet-Marian Zsuzsanna, PhD </a>
+* <p align="justify"><small><a href= "http://www.cs.ubbcluj.ro/~marianzsu/"> Lect. Onet-Marian Zsuzsanna, PhD </a></small></p>
 <table>
  <tr>
  <td align="justify"> Zsuzsanna Onet-Marian works as a lecturer in the Computer Science Department, Faculty of Mathematics and Computer Science from the Babes-Bolyai University, Cluj-Napoca, Romania. She published more than 25 papers in prestigious journals and conferences proceedings. Her main research interests are Machine Learning and Search-Based Software Engineering. <br>
@@ -53,7 +55,7 @@ Gabriela Czibula works as a professor in the Computer Science Department, Facult
  </tr>
  </table>
 
-* Lect. Ionescu Vlad-Sebastian, PhD
+* <p align="justify"><small>Lect. Ionescu Vlad-Sebastian, PhD</small></p>
 <table>
 <tr>
 <td width="25%" ><center> <img src="/assets/images/bio/vlad_ionescu-circle.png"/> </center></td>
@@ -61,7 +63,7 @@ Gabriela Czibula works as a professor in the Computer Science Department, Facult
      <a href="https://scholar.google.ro/citations?user=iUuFgp0AAAAJ&hl=en"> Google Scholar Profile </a>
  </td> </tr>  
 </table>
-* Lect. Mircea Ioan-Gabriel
+* <p align="justify"><small>Lect. Mircea Ioan-Gabriel</small></p>
 <table>
 <tr>
 <td width="25%" ><center> <img src="/assets/images/bio/gabi_mircea.png"/> </center></td>
@@ -69,7 +71,7 @@ Gabriela Czibula works as a professor in the Computer Science Department, Facult
      <a href="https://scholar.google.ro/citations?hl=ro&user=P09Bqs8AAAAJ&view_op=list_works&sortby=pubdate"> Google Scholar Profile </a>
  </td> </tr>  
 </table>
-* Assist. Mihai Andrei, PhD
+* <p align="justify"><small>Assist. Mihai Andrei, PhD</small></p>
 <table>
 <tr>
 <td width="25%" ><center> <img src="/assets/images/bio/MihaiAndrei-circle.png"/> </center></td>
@@ -79,7 +81,7 @@ Gabriela Czibula works as a professor in the Computer Science Department, Facult
  </td> </tr>  
 </table>
 
-* Assist. Miholca Diana-Lucia, PhD
+* <p align="justify"><small>Assist. Miholca Diana-Lucia, PhD</small></p>
 <table>
 <tr>
 <td width="25%" ><center> <img src="/assets/images/bio/circle_DianaMiholca.png"/> </center></td>
@@ -88,7 +90,7 @@ Gabriela Czibula works as a professor in the Computer Science Department, Facult
  </td> </tr>  
 </table>
 
-* Albu Alexandra, PhD student
+* <p align="justify"><small>Albu Alexandra, PhD student</small></p>
 <table>
  <tr>
  <td align="justify">
@@ -99,7 +101,7 @@ Gabriela Czibula works as a professor in the Computer Science Department, Facult
  </tr>
  </table>
 
-* Maier Mariana, PhD student
+* <p align="justify"><small> Maier Mariana, PhD student</small></p>
  <table>
   <tr>
   <td align="justify">
@@ -109,7 +111,7 @@ Gabriela Czibula works as a professor in the Computer Science Department, Facult
   </tr>
   </table>
 
-* Chirtoș Delia, Financial Manager
+* <p align="justify"><small>Chirtoș Delia, Financial Manager</small></p>
 <table>
 <tr>
 <td align="justify">
