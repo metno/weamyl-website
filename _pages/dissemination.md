@@ -169,7 +169,7 @@ title: "Project dissemination"
 
 <li style="font-size:80%"> <p> 2022, WeADL workshop, Alexandra Albu (BBU) <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2022/06/Alexandra%20Albu%20-%20Protein-Protein%20Interaction%20Prediction.pdf">Protein-Protein Interaction Prediction using a Deep Learning Approach based on Autoencoders </a> </p> </li>
 
-<li style="font-size:80%"> <p> 2022, Cluj IT Days, Andrei Mihai (BBU) <a href="https://www.itdays.ro/presentation/An-innovative-machine-learning-model-for-short-term-weather-prediction-based-on-radar-data">An innovative machine learning model for short term weather prediction based on radar data </a></p> </li>
+<li style="font-size:80%"> <p> 2022, Cluj IT Days,<a href="https://www.itdays.ro/presentation/An-innovative-machine-learning-model-for-short-term-weather-prediction-based-on-radar-data"> Andrei Mihai (BBU)</a>: <a href="/assets/files/ITDays_2022.pdf">An innovative machine learning model for short term weather prediction based on radar data </a></p> </li>
 
 </ul>
 </div>
