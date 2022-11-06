@@ -65,8 +65,8 @@ title: "About MET Norway"
  </tr>
  </table>
 
-* <p align="justify"><small> Trygve Aspenes, Senior-Engineer
- <table></small></p>
+* <p align="justify"><small> Trygve Aspenes, Senior-Engineer</small></p>
+ <table>
  <tr>
   <td width="25%" ><center> <img src="/assets/images/bio/trygve_MET_Norway.png"/> </center></td>
   <td align="justify">
