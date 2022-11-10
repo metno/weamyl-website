@@ -41,8 +41,12 @@ title: "Team"
 <p class="small" align="justify">Babeș-Bolyai University is a public comprehensive university, being today the largest university in Romania and one of the best and most representative Romanian universities. At national level, BBU has been awarded the title of intensive-research university and was ranked the best Romanian university in the metaranking of <a href="https://cwur.org/2019-2020.php">CWUR World University Rankings 2019-2020</a>. The Computer Science research team from BBU is a research group in ML (MLyRE – www.cs.ubbcluj.ro/ml) from the Faculty of Mathematics and Computer Science formed by members with high expertise and valuable scientific results in the artificial intelligence field, particularly in ML. Please see the <a href="https://weamyl.met.no/bbu">partner page</a> for further details.</p>
 <table style="width:100%">
   <tr>
-    <td><img src="/assets/images/UBB1.png"></td>
-    <td><img src="/assets/images/UBB2.png"></td>
+    <td><img src="/assets/images/ubb/UBB7.png"></td>
+    <td><img src="/assets/images/ubb/UBB2.png"></td>
+  </tr>
+  <tr>
+    <td><img src="/assets/images/ubb/UBB5.png"></td>
+    <td><img src="/assets/images/ubb/UBB1.png"></td>
   </tr>
 </table>
 
@@ -63,8 +67,8 @@ title: "Team"
     <td><img src="/assets/images/anm/anm3.jpg"></td>
   </tr>
   <tr>
-    <td><img src="/assets/images/anm/anm9.jpg"></td>
-    <td><img src="/assets/images/anm/anm5.png"></td>
+    <td><img src="/assets/images/anm/anm9_1.jpg"></td>
+    <td><img src="/assets/images/anm/anm4.jpg"></td>
   </tr>
 </table>
 
