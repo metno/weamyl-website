@@ -67,7 +67,7 @@ title: "Team"
     <td><img src="/assets/images/anm/anm3.jpg"></td>
   </tr>
   <tr>
-    <td><img src="/assets/images/anm/anm9_1.jpg"></td>
+    <td><img src="/assets/images/anm/anm9.jpg"></td>
     <td><img src="/assets/images/anm/anm4.jpg"></td>
   </tr>
 </table>
