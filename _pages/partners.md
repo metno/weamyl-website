@@ -57,6 +57,17 @@ title: "Team"
 
 <p class="small" align="justify">NMA holds high expertise in meteorological research (severe weather, weather numerical modelling, climate variability and climate change, physics of the atmosphere and air pollution, remote sensing and GIS) and operational domains. Regarding education and training, NMA is deeply involved in activities within its National Meteorological School as well as in international training courses. Please see the <a href="https://weamyl.met.no/anm">partner page</a> for further details.</p>
 
+<table style="width:100%">
+  <tr>
+    <td><img src="/assets/images/anm/anm2.jpg"></td>
+    <td><img src="/assets/images/anm/anm3.jpg"></td>
+  </tr>
+  <tr>
+    <td><img src="/assets/images/anm/anm9.jpg"></td>
+    <td><img src="/assets/images/anm/anm5.png"></td>
+  </tr>
+</table>
+
 </div>
 <button type="button" class="collapsible">The Norwegian Meteorological Institute (MET Norway)</button>
 <div class="content">
