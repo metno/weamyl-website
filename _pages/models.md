@@ -67,7 +67,7 @@ title: "Results"
 
 <p class="small" align="justify">This component offers a web interface to a search engine connected to a semantic database which contains severe weather warnings. The web interface is easy to use and allows searching/filtering for different types of weather events and also for named weather events. The web interface also offers the possibility to investigate geographical areas affected by annotated and earlier events. In addition, It provides information about where to find the source data files, hence, providing support to the training machine learning models to detect interesting possible weather events.</p>
 
-<img src="/assets/images/Atlas.png"/>
+<img src="/assets/images/atlas1.png"/>
 </div>
 
 <button type="button" class="collapsible"><h1>Forecasting Platform</h1></button>
