@@ -69,6 +69,9 @@ title: "Project dissemination"
 <li style="font-size:80%"> <p> Narcisa Milian, Cristina Blaga, <a href="https://www.todaysoftmag.ro/article/3631/avertizarile-meteorologice-de-tipul-nowcasting">Avertizările Meteorologice de tipul nowcasting</a>, TODAY SOFTWARE MAGAZINE, Nr. 121, June 2022, pp. 25-29. <a href="/assets/files/abstractMilian.pdf">Abstract</a></p> </li>
 
 <li style="font-size:80%"> <p> Gabriela-Victoria Harpa, Adela-Mariana Mitea, <a href="https://www.todaysoftmag.ro/article/3654/date-masuratori-si-reteaua-meteorologica">Date, măsurători și rețeaua meteorologică</a>, TODAY SOFTWARE MAGAZINE, Nr. 122, July 2022, pp. 22-27. <a href="/assets/files/abstractHarpa.pdf">Abstract</a></p> </li>
+
+<li style="font-size:80%"> <p> Ciubotariu, G., Czibula, G., <a href=" https://ieeexplore.ieee.org/document/9966556">MBMT-Net: A multitask learning based convolutional neural network architecture for dense tasks performance improvement</a>, IEEE Access, 2022, Volume 10, pages 125600 - 125615 (2021 IF=3.476, Q2) </p></li>
+
 </ol>
 </div>
 
