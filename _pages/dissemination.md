@@ -60,7 +60,7 @@ title: "Project dissemination"
 
 <li style="font-size:80%"> <p> Udo Reckerth, <a href="https://www.todaysoftmag.ro/article/3573/introducere-in-meteorologia-radar">Introducere în Meteorologia RADAR</a>, TODAY SOFTWARE MAGAZINE, Nr. 118, April 2022, pp. 28-31. <a href="/assets/files/abstractUdo.pdf">Abstract</a></p> </li>
 
-<li style="font-size:80%"> <p> Albu, Alexandra-Ioana, An Approach for Predicting Protein-Protein Interactions using Supervised Autoencoders, 26th International Conference on Knowledge-Based and Intelligent Information &amp; Engineering Systems (KES2022), accepted for publication (B-ranked according to CORE classification, indexed WoS)</p> </li>
+<li style="font-size:80%"> <p> Albu, Alexandra-Ioana, <a href="https://www.sciencedirect.com/science/article/pii/S1877050922011474">An Approach for Predicting Protein-Protein Interactions using Supervised Autoencoders</a>, 26th International Conference on Knowledge-Based and Intelligent Information &amp; Engineering Systems (KES2022), Procedia Computer Science, Vol. 207 (2022), pp. 2023-2032</p> </li>
 
 <li style="font-size:80%"> <p> Meda Andrei, <a href="https://www.todaysoftmag.ro/article/3591/prognoza-vremii-si-modelele-numerice">Prognoza Vremii și Modelele Numerice</a>, TODAY SOFTWARE MAGAZINE, Nr. 119, May 2022, pp. 27-30. <a href="/assets/files/abstractMeda.pdf">Abstract</a></p> </li>
 
