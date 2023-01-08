@@ -72,6 +72,8 @@ title: "Project dissemination"
 
 <li style="font-size:80%"> <p> Ciubotariu, G., Czibula, G., <a href=" https://ieeexplore.ieee.org/document/9966556">MBMT-Net: A multitask learning based convolutional neural network architecture for dense tasks performance improvement</a>, IEEE Access, 2022, Volume 10, pages 125600 - 125615 (2021 IF=3.476, Q2) </p></li>
 
+<li style="font-size:80%"> <p> Alexandra-Ioana Albu, Maria-Iuliana Bocicor, Gabriela Czibula, <a href="https://www.sciencedirect.com/science/article/pii/S0010482522012343"> MM-PPI: A New Deep Multimodal Approach for Protein-Protein Interaction Prediction</a>, Computers in Biology and Medicine,Vol. 153, 106526, 2023 (2021 IF=6.698, Q1) </p></li>
+
 </ol>
 </div>
 
