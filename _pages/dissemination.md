@@ -105,9 +105,9 @@ title: "Project dissemination"
 <button type="button" class="collapsible">Workshops</button>
 <div class="content">
  <ul>
-<li style="font-size:80%"> <p> On the 28th of May 2021, the <a href="http://www.cs.ubbcluj.ro/weadl/program-2021/"> 1st Workshop on Applied Deep Learning </a> was jointly organised by the MLyRE research group on Machine Learning, Faculty of Mathematics and Computer Science, Babeș-Bolyai University together with the Romanian National Meteorological Administration and Meteorologisk Institutt Norway. </p> </li>
+<li style="font-size:70%"> <p> On the 28th of May 2021, the <a href="http://www.cs.ubbcluj.ro/weadl/program-2021/"> 1st Workshop on Applied Deep Learning </a> was jointly organised by the MLyRE research group on Machine Learning, Faculty of Mathematics and Computer Science, Babeș-Bolyai University together with the Romanian National Meteorological Administration and Meteorologisk Institutt Norway. </p> </li>
 
-<li style="font-size:80%"> <p> On the 3rd of June 2022, the <a href="http://www.cs.ubbcluj.ro/weadl/"> 2nd Workshop on Applied Deep Learning </a> was jointly organised by the <a href="http://www.cs.ubbcluj.ro/ml/">MLyRE research group on Machine Learning</a>, Faculty of Mathematics and Computer Science, Babeș-Bolyai University together with the <a href="https://www.meteoromania.ro/">Romanian National Meteorological Administration</a> and <a href="https://www.met.no/en">Meteorologisk Institutt Norway</a>. </p> </li>
+<li style="font-size:70%"> <p> On the 3rd of June 2022, the <a href="http://www.cs.ubbcluj.ro/weadl/"> 2nd Workshop on Applied Deep Learning </a> was jointly organised by the <a href="http://www.cs.ubbcluj.ro/ml/">MLyRE research group on Machine Learning</a>, Faculty of Mathematics and Computer Science, Babeș-Bolyai University together with the <a href="https://www.meteoromania.ro/">Romanian National Meteorological Administration</a> and <a href="https://www.met.no/en">Meteorologisk Institutt Norway</a>. </p> </li>
 
 </ul>
 </div>
@@ -115,68 +115,68 @@ title: "Project dissemination"
 <button type="button" class="collapsible">Presentations</button>
 <div class="content">
 <ul>
-<li style="font-size:80%"> <p> 2021, WeADL workshop, Eugen Mihuleț (NMA): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/Technology%20in%20Weather%20Forecasting%20-%20Eugen%20Mihulet.pdf"> Technology in weather forecasting </a> </p> </li>
+<li style="font-size:70%"> <p> 2021, WeADL workshop, Eugen Mihuleț (NMA): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/Technology%20in%20Weather%20Forecasting%20-%20Eugen%20Mihulet.pdf"> Technology in weather forecasting </a> </p> </li>
 
-<li style="font-size:80%"> <p>2021, WeADL workshop, Sorin Burcea (NMA): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/Weather%20Radars%20-%20Burcea%20Sorin.pdf"> Weather radars basic principles and application in nowcasting in Romania </a> </p> </li>
+<li style="font-size:70%"> <p>2021, WeADL workshop, Sorin Burcea (NMA): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/Weather%20Radars%20-%20Burcea%20Sorin.pdf"> Weather radars basic principles and application in nowcasting in Romania </a> </p> </li>
 
-<li style="font-size:80%"> <p> 2021, WeADL workshop, Ivar Seierstad &amp; Thomas Nipen (MET): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/Nowcasting%20on%20Yr%20-%20Thomas%20Nipen.pdf"> Nowcasting on Yr - opportunities and challenges </a> </p> </li>
+<li style="font-size:70%"> <p> 2021, WeADL workshop, Ivar Seierstad &amp; Thomas Nipen (MET): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/Nowcasting%20on%20Yr%20-%20Thomas%20Nipen.pdf"> Nowcasting on Yr - opportunities and challenges </a> </p> </li>
 
-<li style="font-size:80%"> <p> 2021, WeADL workshop, Arild Burud (MET): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/Introduction%20to%20netCDF%20and%20THREDDS%20-%20Arild%20Burud.pdf"> A brief introduction to the netCDF format and THREDDS data server </a> </p> </li>
+<li style="font-size:70%"> <p> 2021, WeADL workshop, Arild Burud (MET): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/Introduction%20to%20netCDF%20and%20THREDDS%20-%20Arild%20Burud.pdf"> A brief introduction to the netCDF format and THREDDS data server </a> </p> </li>
 
-<li style="font-size:80%"> <p> 2021, WeADL workshop, Istvan Czibula (BBU): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/Computational%20Models%20for%20Nowcasting%20-%20Istvan%20Czibula.pdf"> Computational models for nowcasting </a> </p> </li>
+<li style="font-size:70%"> <p> 2021, WeADL workshop, Istvan Czibula (BBU): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/Computational%20Models%20for%20Nowcasting%20-%20Istvan%20Czibula.pdf"> Computational models for nowcasting </a> </p> </li>
 
-<li style="font-size:80%"> <p> 2021, WeADL workshop, Andrei Mihai (BBU): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/ML%20for%20Nowcasting%20in%20Transylvania%20-%20Andrei%20Mihai.pdf"> Supervised and unsupervised machine learning for nowcasting, applied on radar data from central Transylvania region </a> </p> </li>
+<li style="font-size:70%"> <p> 2021, WeADL workshop, Andrei Mihai (BBU): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/ML%20for%20Nowcasting%20in%20Transylvania%20-%20Andrei%20Mihai.pdf"> Supervised and unsupervised machine learning for nowcasting, applied on radar data from central Transylvania region </a> </p> </li>
 
-<li style="font-size:80%"> <p>2021, Alexandra Albu (BBU): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/DL%20models%20for%20reflectivity%20-%20Alexandra%20Albu.pdf"> Deep learning models for composite reflectivity prediction </a> </p> </li>
+<li style="font-size:70%"> <p>2021, Alexandra Albu (BBU): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/DL%20models%20for%20reflectivity%20-%20Alexandra%20Albu.pdf"> Deep learning models for composite reflectivity prediction </a> </p> </li>
 
-<li style="font-size:80%"> <p>2021, WeADL workshop, Vlad Ionescu (BBU): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/DNN%20models%20for%20satellite%20data%20-%20Ionescu%20Vlad.pdf"> Deep neural network models for nowcasting using satellite data </a> </p> </li>
+<li style="font-size:70%"> <p>2021, WeADL workshop, Vlad Ionescu (BBU): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/DNN%20models%20for%20satellite%20data%20-%20Ionescu%20Vlad.pdf"> Deep neural network models for nowcasting using satellite data </a> </p> </li>
 
-<li style="font-size:80%"> <p> 2021, WeADL workshop, George Ciubotariu (BBU): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/Enhance%20performance%20of%20image%20classification%20-%20George%20Cuibotariu.pdf"> Enhancing the performance of indoor-outdoor image classifications using features extracted from depth-maps  </a> </p> </li>
+<li style="font-size:70%"> <p> 2021, WeADL workshop, George Ciubotariu (BBU): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/Enhance%20performance%20of%20image%20classification%20-%20George%20Cuibotariu.pdf"> Enhancing the performance of indoor-outdoor image classifications using features extracted from depth-maps  </a> </p> </li>
 
-<li style="font-size:80%"> <p> 2021, WeADL workshop, Alexandru-Marian Adăscăliței (BBU): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/Review%20of%20Grayscale%20Photo%20Colorization%20-%20Alexandru%20Marian%20Adascalitei.pdf"> Review and analysis of grayscale photography colorization using CNNs  </a> </p> </li>
+<li style="font-size:70%"> <p> 2021, WeADL workshop, Alexandru-Marian Adăscăliței (BBU): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/Review%20of%20Grayscale%20Photo%20Colorization%20-%20Alexandru%20Marian%20Adascalitei.pdf"> Review and analysis of grayscale photography colorization using CNNs  </a> </p> </li>
 
-<li style="font-size:80%"> <p> 2021, WeADL workshop, Maria-Mădălina Mircea (BBU): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/ML%20Approach%20for%20Data%20Protection%20in%20VR%20-%20Mircea%20Maria-Madalina.pdf"> A machine learning approach for data protection in VR therapy applications  </a> </p> </li>
+<li style="font-size:70%"> <p> 2021, WeADL workshop, Maria-Mădălina Mircea (BBU): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/ML%20Approach%20for%20Data%20Protection%20in%20VR%20-%20Mircea%20Maria-Madalina.pdf"> A machine learning approach for data protection in VR therapy applications  </a> </p> </li>
 
-<li style="font-size:80%"> <p> 2021, WeADL workshop, Andrei Bratu (BBU): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/%20Augmenting%20time%20series%20datasets%20for%20algorithmic%20trading%20-%20Andrei%20Bratu.pdf"> Augmenting time series datasets via latent space sampling with applications in algorithmic trading  </a> </p> </li>
+<li style="font-size:70%"> <p> 2021, WeADL workshop, Andrei Bratu (BBU): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/%20Augmenting%20time%20series%20datasets%20for%20algorithmic%20trading%20-%20Andrei%20Bratu.pdf"> Augmenting time series datasets via latent space sampling with applications in algorithmic trading  </a> </p> </li>
 
-<li style="font-size:80%"> <p> 2021, WeADL workshop, Iulia-Monica Szuhai (BBU): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/DNA%20classification%20using%20DL%20-%20Szuhai%20Iulia-Monica.pdf"> DNA classification using supervised deep learning </a> </p> </li>
+<li style="font-size:70%"> <p> 2021, WeADL workshop, Iulia-Monica Szuhai (BBU): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/DNA%20classification%20using%20DL%20-%20Szuhai%20Iulia-Monica.pdf"> DNA classification using supervised deep learning </a> </p> </li>
 
-<li style="font-size:80%"> <p> 2021, NMA internal workshop, Sorin Burcea (NMA): <a href="/assets/files/prezentare_interna_Meteo.pdf"> Proiect WeaMyL </a> </p> </li>
+<li style="font-size:70%"> <p> 2021, NMA internal workshop, Sorin Burcea (NMA): <a href="/assets/files/prezentare_interna_Meteo.pdf"> Proiect WeaMyL </a> </p> </li>
 
-<li style="font-size:80%"> <p> 2021, Cluj IT Days, <a href="https://www.itdays.ro/speaker/andrei-mihai">Andrei Mihai (BBU)</a>: Enhancing the performance of weather nowcasting by use of machine learning techniques </p> </li>
+<li style="font-size:70%"> <p> 2021, Cluj IT Days, <a href="https://www.itdays.ro/speaker/andrei-mihai">Andrei Mihai (BBU)</a>: Enhancing the performance of weather nowcasting by use of machine learning techniques </p> </li>
 
-<li style="font-size:80%"> <p> November 10-12, 2021, Sesiunea științifică anuală a Administrației Naționale de Meteorologie, Eugen Mihuleț (NMA): <a href="/assets/files/prezentare_NowDeepN.pdf"> Analiza performanței modelului NowDeepN pentru predicția valorilor produselor radarului meteorologic WSR-98D Bobohalma </a> </p> </li>
+<li style="font-size:70%"> <p> November 10-12, 2021, Sesiunea științifică anuală a Administrației Naționale de Meteorologie, Eugen Mihuleț (NMA): <a href="/assets/files/prezentare_NowDeepN.pdf"> Analiza performanței modelului NowDeepN pentru predicția valorilor produselor radarului meteorologic WSR-98D Bobohalma </a> </p> </li>
 
 
-<li style="font-size:80%"> <p> January 18th, 2022, Internal meeting, Oslo, Norway: Overview of machine learning activities at MET Norway </p> </li>
+<li style="font-size:70%"> <p> January 18th, 2022, Internal meeting, Oslo, Norway: Overview of machine learning activities at MET Norway </p> </li>
 
-<li style="font-size:80%"> <p> March 18th, 2022, <a href="http://aerapa.conference.ubbcluj.ro/wordpress/">Air and Water – Components of the Environment International Conference</a>, Eugen Mihuleț (NMA), <a href="/assets/files/Air_Eugen.pdf">Analysis of Applying a Deep Learning Model for Prediction of WSR-98D Weather Radar Product Values</a> </p> </li>
+<li style="font-size:70%"> <p> March 18th, 2022, <a href="http://aerapa.conference.ubbcluj.ro/wordpress/">Air and Water – Components of the Environment International Conference</a>, Eugen Mihuleț (NMA), <a href="/assets/files/Air_Eugen.pdf">Analysis of Applying a Deep Learning Model for Prediction of WSR-98D Weather Radar Product Values</a> </p> </li>
 
-<li style="font-size:80%"> <p> 2022, WeADL workshop, Sorin Cheval (NMA) <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2022/06/Sorin%20Cheval%20-%20Country%20scale%20assessment%20of%20the%20heat%20hazard-risk.pdf">A country scale assessment of the heat hazard-risk in urban areas</a> </p> </li>
+<li style="font-size:70%"> <p> 2022, WeADL workshop, Sorin Cheval (NMA) <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2022/06/Sorin%20Cheval%20-%20Country%20scale%20assessment%20of%20the%20heat%20hazard-risk.pdf">A country scale assessment of the heat hazard-risk in urban areas</a> </p> </li>
 
-<li style="font-size:80%"> <p> 2022, WeADL workshop, Mihaela Caian (NMA) <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2022/06/Mihaela%20Caian%20-%20Variability%20of%20precipitation%20in%20Romania.pdf">Variability of precipitation in Romania: recent trends and projected changes in climate scenarios</a> </p> </li>
+<li style="font-size:70%"> <p> 2022, WeADL workshop, Mihaela Caian (NMA) <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2022/06/Mihaela%20Caian%20-%20Variability%20of%20precipitation%20in%20Romania.pdf">Variability of precipitation in Romania: recent trends and projected changes in climate scenarios</a> </p> </li>
 
-<li style="font-size:80%"> <p> 2022, WeADL workshop, Magnus Haukeland (MET) <a href="">How nowcasting is used in today’s danger warnings</a> </p> </li>
+<li style="font-size:70%"> <p> 2022, WeADL workshop, Magnus Haukeland (MET) <a href="">How nowcasting is used in today’s danger warnings</a> </p> </li>
 
-<li style="font-size:80%"> <p> 2022, WeADL workshop, Christoffer Artturi Elo (MET) <a href="">Processing and filtering of radar end-product composite reflectivity</a> </p> </li>
+<li style="font-size:70%"> <p> 2022, WeADL workshop, Christoffer Artturi Elo (MET) <a href="">Processing and filtering of radar end-product composite reflectivity</a> </p> </li>
 
-<li style="font-size:80%"> <p> 2022, WeADL workshop, Mihai Andrei (BBU) <a href="/assets/files/weadl22andrei.pdf">Using convolutional autoencoders for precipitation nowcasting based on radar data</a> </p> </li>
+<li style="font-size:70%"> <p> 2022, WeADL workshop, Mihai Andrei (BBU) <a href="/assets/files/weadl22andrei.pdf">Using convolutional autoencoders for precipitation nowcasting based on radar data</a> </p> </li>
 
-<li style="font-size:80%"> <p> 2022, WeADL workshop, Gabriel-Ioan Mircea (BBU) <a href="/assets/files/weadl22gabi.pdf">ConvLSTM architectures for meteorological nowcasting based on satellite imagery</a> </p> </li>
+<li style="font-size:70%"> <p> 2022, WeADL workshop, Gabriel-Ioan Mircea (BBU) <a href="/assets/files/weadl22gabi.pdf">ConvLSTM architectures for meteorological nowcasting based on satellite imagery</a> </p> </li>
 
-<li style="font-size:80%"> <p> 2022, WeADL workshop, Abdelkader Mezghani (MET) <a href="">How to use the WeaMyL machine learning forecasting platform</a> </p> </li>
+<li style="font-size:70%"> <p> 2022, WeADL workshop, Abdelkader Mezghani (MET) <a href="">How to use the WeaMyL machine learning forecasting platform</a> </p> </li>
 
-<li style="font-size:80%"> <p> 2022, WeADL workshop, Arild Burud (MET) <a href="">A brief introduction on the netCDF file format, the OPeNDAP protocol and THREDDS Data server</a> </p> </li>
+<li style="font-size:70%"> <p> 2022, WeADL workshop, Arild Burud (MET) <a href="">A brief introduction on the netCDF file format, the OPeNDAP protocol and THREDDS Data server</a> </p> </li>
 
-<li style="font-size:80%"> <p> 2022, WeADL workshop, George Ciubotariu (BBU) <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2022/06/George%20Ciubotariu%20-%20MBMT-Net.pdf">MBMT-Net: A Multi-Backbone, Multi-Task Deep Convolutional Neural Network </a> </p> </li>
+<li style="font-size:70%"> <p> 2022, WeADL workshop, George Ciubotariu (BBU) <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2022/06/George%20Ciubotariu%20-%20MBMT-Net.pdf">MBMT-Net: A Multi-Backbone, Multi-Task Deep Convolutional Neural Network </a> </p> </li>
 
-<li style="font-size:80%"> <p> 2022, WeADL workshop, Radu Galan (BBU) <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2022/06/Radu%20Galan%20-%20Generation%20and%20Simulation%20of%20Artificial%20Human%20Societies.pdf">Generation and Simulation of Artificial Human Societies using Anthropologically modelled Learning Agents </a> </p> </li>
+<li style="font-size:70%"> <p> 2022, WeADL workshop, Radu Galan (BBU) <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2022/06/Radu%20Galan%20-%20Generation%20and%20Simulation%20of%20Artificial%20Human%20Societies.pdf">Generation and Simulation of Artificial Human Societies using Anthropologically modelled Learning Agents </a> </p> </li>
 
-<li style="font-size:80%"> <p> 2022, WeADL workshop, Raluca Hațegan (BBU) <a href="">Application of Machine Learning algorithms for the botanical origin assessment of honey using isotope and elemental profiles </a> </p> </li>
+<li style="font-size:70%"> <p> 2022, WeADL workshop, Raluca Hațegan (BBU) <a href="">Application of Machine Learning algorithms for the botanical origin assessment of honey using isotope and elemental profiles </a> </p> </li>
 
-<li style="font-size:80%"> <p> 2022, WeADL workshop, Alexandra Albu (BBU) <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2022/06/Alexandra%20Albu%20-%20Protein-Protein%20Interaction%20Prediction.pdf">Protein-Protein Interaction Prediction using a Deep Learning Approach based on Autoencoders </a> </p> </li>
+<li style="font-size:70%"> <p> 2022, WeADL workshop, Alexandra Albu (BBU) <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2022/06/Alexandra%20Albu%20-%20Protein-Protein%20Interaction%20Prediction.pdf">Protein-Protein Interaction Prediction using a Deep Learning Approach based on Autoencoders </a> </p> </li>
 
-<li style="font-size:80%"> <p> 2022, Cluj IT Days,<a href="https://www.itdays.ro/presentation/An-innovative-machine-learning-model-for-short-term-weather-prediction-based-on-radar-data"> Andrei Mihai (BBU)</a>: <a href="/assets/files/ITDays_2022.pdf">An innovative machine learning model for short term weather prediction based on radar data </a></p> </li>
+<li style="font-size:70%"> <p> 2022, Cluj IT Days,<a href="https://www.itdays.ro/presentation/An-innovative-machine-learning-model-for-short-term-weather-prediction-based-on-radar-data"> Andrei Mihai (BBU)</a>: <a href="/assets/files/ITDays_2022.pdf">An innovative machine learning model for short term weather prediction based on radar data </a></p> </li>
 
 </ul>
 </div>
@@ -184,61 +184,61 @@ title: "Project dissemination"
 <button type="button" class="collapsible">Video</button>
 <div class="content">
  <ul>
-<li style="font-size:80%"> <p> 2021, WeADL workshop, Eugen Mihuleț (NMA): <a href="https://www.youtube.com/watch?v=_Jxk9NMJMZ4"> Technology in weather forecasting </a> </p> </li>
+<li style="font-size:70%"> <p> 2021, WeADL workshop, Eugen Mihuleț (NMA): <a href="https://www.youtube.com/watch?v=_Jxk9NMJMZ4"> Technology in weather forecasting </a> </p> </li>
 
-<li style="font-size:80%"> <p> 2021, WeADL workshop, Sorin Burcea (NMA): <a href="https://www.youtube.com/watch?v=9XpdoY2vG98"> Weather radars - basic principles and application in nowcasting in Romania </a> </p> </li>
+<li style="font-size:70%"> <p> 2021, WeADL workshop, Sorin Burcea (NMA): <a href="https://www.youtube.com/watch?v=9XpdoY2vG98"> Weather radars - basic principles and application in nowcasting in Romania </a> </p> </li>
 
-<li style="font-size:80%"> <p> 2021, WeADL workshop, Thomas Nipen (MET): <a href="https://www.youtube.com/watch?v=0iIty6GnlX8"> Nowcasting on Yr - opportunities and challenges </a> </p> </li>
+<li style="font-size:70%"> <p> 2021, WeADL workshop, Thomas Nipen (MET): <a href="https://www.youtube.com/watch?v=0iIty6GnlX8"> Nowcasting on Yr - opportunities and challenges </a> </p> </li>
 
-<li style="font-size:80%"> <p> 2021, WeADL workshop, Arild Burud (MET): <a href="https://www.youtube.com/watch?v=b2MfdSa4GYM"> A brief introduction to the netCDF format and THREDDS data server </a> </p> </li>
+<li style="font-size:70%"> <p> 2021, WeADL workshop, Arild Burud (MET): <a href="https://www.youtube.com/watch?v=b2MfdSa4GYM"> A brief introduction to the netCDF format and THREDDS data server </a> </p> </li>
 
-<li style="font-size:80%"> <p> 2021, WeADL workshop, Istvan Czibula (BBU): <a href="https://www.youtube.com/watch?v=gYIW8cRpihQ"> Computational models for nowcasting </a> </p> </li>
+<li style="font-size:70%"> <p> 2021, WeADL workshop, Istvan Czibula (BBU): <a href="https://www.youtube.com/watch?v=gYIW8cRpihQ"> Computational models for nowcasting </a> </p> </li>
 
-<li style="font-size:80%"> <p> 2021, WeADL workshop, Andrei Mihai (BBU): <a href="https://www.youtube.com/watch?v=upL4vKHCl4c"> Supervised and unsupervised machine learning for nowcasting, applied on radar data from central Transylvania region </a> </p> </li>
+<li style="font-size:70%"> <p> 2021, WeADL workshop, Andrei Mihai (BBU): <a href="https://www.youtube.com/watch?v=upL4vKHCl4c"> Supervised and unsupervised machine learning for nowcasting, applied on radar data from central Transylvania region </a> </p> </li>
 
-<li style="font-size:80%"> <p> 2021, WeADL workshop, Alexandra Albu (BBU): <a href="https://www.youtube.com/watch?v=T_QkFAwGyXs"> Deep learning models for composite reflectivity prediction </a> </p> </li>
+<li style="font-size:70%"> <p> 2021, WeADL workshop, Alexandra Albu (BBU): <a href="https://www.youtube.com/watch?v=T_QkFAwGyXs"> Deep learning models for composite reflectivity prediction </a> </p> </li>
 
-<li style="font-size:80%"> <p>2021, WeADL workshop, Vlad Ionescu (BBU): <a href="https://www.youtube.com/watch?v=q7M-GBLNEpE"> Deep neural network models for nowcasting using satellite data </a> </p> </li>
+<li style="font-size:70%"> <p>2021, WeADL workshop, Vlad Ionescu (BBU): <a href="https://www.youtube.com/watch?v=q7M-GBLNEpE"> Deep neural network models for nowcasting using satellite data </a> </p> </li>
 
-<li style="font-size:80%"> <p> 2021, WeADL workshop, George Ciubotariu (BBU): <a href="https://www.youtube.com/watch?v=pTqlERdTMKE"> Enhancing the performance of indoor-outdoor image classifications using  depth-map features  </a> </p> </li>
+<li style="font-size:70%"> <p> 2021, WeADL workshop, George Ciubotariu (BBU): <a href="https://www.youtube.com/watch?v=pTqlERdTMKE"> Enhancing the performance of indoor-outdoor image classifications using  depth-map features  </a> </p> </li>
 
-<li style="font-size:80%"> <p> 2021, WeADL workshop, Alexandru-Marian Adăscăliței (BBU): <a href="https://www.youtube.com/watch?v=a-_vIs1zoBc"> Review and analysis of grayscale photography colorization using CNNs  </a> </p> </li>
+<li style="font-size:70%"> <p> 2021, WeADL workshop, Alexandru-Marian Adăscăliței (BBU): <a href="https://www.youtube.com/watch?v=a-_vIs1zoBc"> Review and analysis of grayscale photography colorization using CNNs  </a> </p> </li>
 
-<li style="font-size:80%"> <p> 2021, WeADL workshop, Maria-Mădălina Mircea (BBU): <a href="https://www.youtube.com/watch?v=1SEGzw46-So"> A machine learning approach for data protection in VR therapy applications  </a> </p> </li>
+<li style="font-size:70%"> <p> 2021, WeADL workshop, Maria-Mădălina Mircea (BBU): <a href="https://www.youtube.com/watch?v=1SEGzw46-So"> A machine learning approach for data protection in VR therapy applications  </a> </p> </li>
 
-<li style="font-size:80%"> <p> 2021, WeADL workshop, Andrei Bratu (BBU): <a href="https://www.youtube.com/watch?v=im3ChDq1P6o"> Training data augmentation for RL based trading algorithms using adversarial techniques  </a> </p> </li>
+<li style="font-size:70%"> <p> 2021, WeADL workshop, Andrei Bratu (BBU): <a href="https://www.youtube.com/watch?v=im3ChDq1P6o"> Training data augmentation for RL based trading algorithms using adversarial techniques  </a> </p> </li>
 
-<li style="font-size:80%"> <p> 2021, WeADL workshop, Iulia-Monica Szuhai (BBU): <a href="https://www.youtube.com/watch?v=otT68PnfWaU"> DNA classification using supervised deep learning </a> </p> </li>
+<li style="font-size:70%"> <p> 2021, WeADL workshop, Iulia-Monica Szuhai (BBU): <a href="https://www.youtube.com/watch?v=otT68PnfWaU"> DNA classification using supervised deep learning </a> </p> </li>
 
-<li style="font-size:80%"> <p> 2021, KES Conference, Vlad-Sebastian Ionescu (BBU), Gabriela Czibula (BBU), Eugen Mihuleț (NMA): <a href="/assets/videos/kes2021.mp4"> DeePSat: A deep learning model for prediction of satellite images for nowcasting purposes </a> </p> </li>
+<li style="font-size:70%"> <p> 2021, KES Conference, Vlad-Sebastian Ionescu (BBU), Gabriela Czibula (BBU), Eugen Mihuleț (NMA): <a href="/assets/videos/kes2021.mp4"> DeePSat: A deep learning model for prediction of satellite images for nowcasting purposes </a> </p> </li>
 
-<li style="font-size:80%"> <p> 2021, Cluj IT Days, Andrei Mihai (BBU): <a href="https://vimeo.com/647889204">Enhancing the performance of weather nowcasting by use of machine learning techniques </a></p> </li>
+<li style="font-size:70%"> <p> 2021, Cluj IT Days, Andrei Mihai (BBU): <a href="https://vimeo.com/647889204">Enhancing the performance of weather nowcasting by use of machine learning techniques </a></p> </li>
 
-<li style="font-size:80%"> <p> 2022, Abdelkader Mezghani (MET) <a href="/assets/videos/weamyl_video_version0.webm">WeaMyL. Demo on how to access and visualise the output from the machine learning platform</a></p> </li>
+<li style="font-size:70%"> <p> 2022, Abdelkader Mezghani (MET) <a href="/assets/videos/weamyl_video_version0.webm">WeaMyL. Demo on how to access and visualise the output from the machine learning platform</a></p> </li>
 
-<li style="font-size:80%"> <p> 2022, WeADL workshop, Sorin Cheval (NMA) <a href="https://youtu.be/CiIXkNuAkzc">A country scale assessment of the heat hazard-risk in urban areas</a> </p> </li>
+<li style="font-size:70%"> <p> 2022, WeADL workshop, Sorin Cheval (NMA) <a href="https://youtu.be/CiIXkNuAkzc">A country scale assessment of the heat hazard-risk in urban areas</a> </p> </li>
 
-<li style="font-size:80%"> <p> 2022, WeADL workshop, Mihaela Caian (NMA) <a href="https://youtu.be/2Kmyw7tecls">Variability of precipitation in Romania: recent trends and projected changes in climate scenarios</a> </p> </li>
+<li style="font-size:70%"> <p> 2022, WeADL workshop, Mihaela Caian (NMA) <a href="https://youtu.be/2Kmyw7tecls">Variability of precipitation in Romania: recent trends and projected changes in climate scenarios</a> </p> </li>
 
-<li style="font-size:80%"> <p> 2022, WeADL workshop, Magnus Haukeland (MET) <a href="https://youtu.be/WFIRPSUW5OY">How nowcasting is used in today’s danger warnings</a> </p> </li>
+<li style="font-size:70%"> <p> 2022, WeADL workshop, Magnus Haukeland (MET) <a href="https://youtu.be/WFIRPSUW5OY">How nowcasting is used in today’s danger warnings</a> </p> </li>
 
-<li style="font-size:80%"> <p> 2022, WeADL workshop, Christoffer Artturi Elo (MET) <a href="https://youtu.be/3dgdfWPPpE4">Processing and filtering of radar end-product composite reflectivity</a> </p> </li>
+<li style="font-size:70%"> <p> 2022, WeADL workshop, Christoffer Artturi Elo (MET) <a href="https://youtu.be/3dgdfWPPpE4">Processing and filtering of radar end-product composite reflectivity</a> </p> </li>
 
-<li style="font-size:80%"> <p> 2022, WeADL workshop, Mihai Andrei (BBU) <a href="https://youtu.be/bqoQQdOK60M">Using convolutional autoencoders for precipitation nowcasting based on radar data</a> </p> </li>
+<li style="font-size:70%"> <p> 2022, WeADL workshop, Mihai Andrei (BBU) <a href="https://youtu.be/bqoQQdOK60M">Using convolutional autoencoders for precipitation nowcasting based on radar data</a> </p> </li>
 
-<li style="font-size:80%"> <p> 2022, WeADL workshop, Gabriel-Ioan Mircea (BBU) <a href="https://youtu.be/zvtAG4pLBuo">ConvLSTM architectures for meteorological nowcasting based on satellite imagery</a> </p> </li>
+<li style="font-size:70%"> <p> 2022, WeADL workshop, Gabriel-Ioan Mircea (BBU) <a href="https://youtu.be/zvtAG4pLBuo">ConvLSTM architectures for meteorological nowcasting based on satellite imagery</a> </p> </li>
 
-<li style="font-size:80%"> <p> 2022, WeADL workshop, Abdelkader Mezghani (MET) <a href="https://youtu.be/1zoaLWrCkcU">How to use the WeaMyL machine learning forecasting platform</a> </p> </li>
+<li style="font-size:70%"> <p> 2022, WeADL workshop, Abdelkader Mezghani (MET) <a href="https://youtu.be/1zoaLWrCkcU">How to use the WeaMyL machine learning forecasting platform</a> </p> </li>
 
-<li style="font-size:80%"> <p> 2022, WeADL workshop, Arild Burud (MET) <a href="https://youtu.be/XauPIiDR52g">A brief introduction on the netCDF file format, the OPeNDAP protocol and THREDDS Data server</a> </p> </li>
+<li style="font-size:70%"> <p> 2022, WeADL workshop, Arild Burud (MET) <a href="https://youtu.be/XauPIiDR52g">A brief introduction on the netCDF file format, the OPeNDAP protocol and THREDDS Data server</a> </p> </li>
 
-<li style="font-size:80%"> <p> 2022, WeADL workshop, George Ciubotariu (BBU) <a href="https://youtu.be/ojPcj6kpVxA">MBMT-Net: A Multi-Backbone, Multi-Task Deep Convolutional Neural Network </a> </p> </li>
+<li style="font-size:70%"> <p> 2022, WeADL workshop, George Ciubotariu (BBU) <a href="https://youtu.be/ojPcj6kpVxA">MBMT-Net: A Multi-Backbone, Multi-Task Deep Convolutional Neural Network </a> </p> </li>
 
-<li style="font-size:80%"> <p> 2022, WeADL workshop, Radu Galan (BBU) <a href="https://youtu.be/8Xu_pZsmr1s">Generation and Simulation of Artificial Human Societies using Anthropologically modelled Learning Agents </a> </p> </li>
+<li style="font-size:70%"> <p> 2022, WeADL workshop, Radu Galan (BBU) <a href="https://youtu.be/8Xu_pZsmr1s">Generation and Simulation of Artificial Human Societies using Anthropologically modelled Learning Agents </a> </p> </li>
 
 <!--<li style="font-size:80%"> <p> 2022, WeADL workshop, Raluca Hațegan (BBU) <a href="">Application of Machine Learning algorithms for the botanical origin assessment of honey using isotope and elemental profiles </a> </p> </li> -->
 
-<li style="font-size:80%"> <p> 2022, WeADL workshop, Alexandra Albu (BBU) <a href="https://youtu.be/zfMXwB7g6m8">Protein-Protein Interaction Prediction using a Deep Learning Approach based on Autoencoders </a> </p> </li>
+<li style="font-size:70%"> <p> 2022, WeADL workshop, Alexandra Albu (BBU) <a href="https://youtu.be/zfMXwB7g6m8">Protein-Protein Interaction Prediction using a Deep Learning Approach based on Autoencoders </a> </p> </li>
 
 
 </ul>
