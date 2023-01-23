@@ -93,7 +93,7 @@ title: "Results"
 
 <img src="/assets/images/demo_GeoWeb.png" />
 
-<p class="small" align="justify"><b>Video 1.</b> An example illustrating the ML ouptut as forecast (left) versus observed (right) equivalent reflectivity factor using teh GeoWeb mapping service for the weather event on April 08, 2022 at 18:05 UTC. This video is generated based on data assimilated every 5 to 10 minutes.</p>
+<p class="small" align="justify"><b>Video 1.</b> An example illustrating the ML ouptut as forecast (left) versus observed (right) equivalent reflectivity factor using the Open GeoWeb mapping service for the weather event on April 08, 2022 at 18:05 UTC. This video is generated based on data assimilated every 5 to 10 minutes.</p>
 
 <video width="100%" controls>
   <source src="/assets/videos/GeoWeb_demo.mp4" type="video/mp4">
