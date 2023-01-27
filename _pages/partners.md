@@ -97,6 +97,10 @@ for (i = 0; i < coll.length; i++) {
 }
 </script>
 
+<figure>
 
+  <img src="/assets/images/meetings/ian23.png" alt="Zoom meeting" style="width:100%">
+    <center><figcaption>Zoom meeting from January 2023</figcaption></center>
+</figure>
 </body>
 </html>
