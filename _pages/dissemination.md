@@ -178,6 +178,9 @@ title: "Project dissemination"
 
 <li style="font-size:70%"> <p> 2022, Cluj IT Days,<a href="https://www.itdays.ro/presentation/An-innovative-machine-learning-model-for-short-term-weather-prediction-based-on-radar-data"> Andrei Mihai (BBU)</a>: <a href="/assets/files/ITDays_2022.pdf">An innovative machine learning model for short term weather prediction based on radar data </a></p> </li>
 
+<li style="font-size:70%"> <p> January 31th 2023, Artificial Intelligence 4.0@UBB, Eugen Mihuleț (NMA), <a href="/assets/files/Eugen.pdf">AI for Environment</a></p> </li>
+
+
 </ul>
 </div>
 
