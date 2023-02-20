@@ -323,7 +323,7 @@ title: "Project dissemination"
 <ul>
 <li style="font-size:80%">  <p> <a href="https://weamyl.met.no/assets/files/report21.pdf">2020-2021 Technical report summary</a></p></li>
 
-<li style="font-size:80%">  <p> <a href="https://weamyl.met.no/assets/files/report22.pdf">2021-2022 Technical report summary</a></p></li>
+<li style="font-size:80%">  <p> <a href="https://weamyl.met.no/assets/files/report22.pdf">2022 Technical report summary</a></p></li>
 
 </ul>
 </div>
