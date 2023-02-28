@@ -41,26 +41,32 @@ title: "Results"
 <button type="button" class="collapsible"><h1>Nowcasting models</h1></button>
 <div class="content">
 
-<h2> NowCastX version 1.0.0</h2>
+<h2> XNow version 1.0.0</h2>
 
-<p class="small" align="justify">NowCastX version 1.0.0 - <a href="https://ieeexplore.ieee.org/document/9118849">Xception-based model</a> trained on a dataset containing 45 days of radar data <a href="https://thredds.met.no/thredds/catalog/remotesensing/reflectivity-nordic/catalog.html">(thredds)</a>. The model has been trained on a region of approximately 300km x 300km surrounding Oslo for predicting the composite reflectivity values in the future using current radar values. The day used for illustrating the predictions has not been used for training.</p>
+<p class="small" align="justify">XNow version 1.0.0 - <a href="https://ieeexplore.ieee.org/document/9118849">Xception-based model</a> trained on a dataset containing 45 days of radar data <a href="https://thredds.met.no/thredds/catalog/remotesensing/reflectivity-nordic/catalog.html">(thredds)</a>. The model has been trained on a region of approximately 300km x 300km surrounding Oslo for predicting the composite reflectivity values in the future using current radar values. The day used for illustrating the predictions has not been used for training.</p>
 <video width="100%" controls>
   <source src="/assets/videos/xnow-4steps-5min-publ.mp4" type="video/mp4">
 </video>
-<p class="small">NowCastX 5 min - based on currently available radar data predicts the radar values 5 minutes in the future. </p>
+<p class="small">XNow 5 min - based on currently available radar data predicts the radar values 5 minutes in the future. </p>
 <video width="100%" controls>
   <source src="/assets/videos/xnow-4steps-15min-publ.mp4" type="video/mp4">
 </video>
-<p class="small">NowCastX 15 min - based on currently available radar data predicts the radar values 15 minutes in the future. </p>
+<p class="small">XNow 15 min - based on currently available radar data predicts the radar values 15 minutes in the future. </p>
 
-<h2> NowCastX version 0.0.1</h2>
+<h2> XNow version 0.0.1</h2>
 
-<p class="small" align="justify">NowCastX version 0.0.1 - Incipient Xception-based model trained on a dataset containing 6 days with meteorological events <a href="https://thredds.met.no/thredds/catalog/remotesensing/reflectivity-nordic/catalog.html">(thredds)</a>, selected from the CAP warnings available at <a href="https://api.met.no/weatherapi/metalerts/1.1?show=all&lang=en">weatherapi</a>. The model has been trained on a region of approximately 300km x 300km surrounding Oslo for predicting the composite reflectivity values at 5 minutes in the future using the values from the current timestamp. The day used for illustrating the predictions has not been used for training.</p>
+<p class="small" align="justify">XNow version 0.0.1 - Incipient Xception-based model trained on a dataset containing 6 days with meteorological events <a href="https://thredds.met.no/thredds/catalog/remotesensing/reflectivity-nordic/catalog.html">(thredds)</a>, selected from the CAP warnings available at <a href="https://api.met.no/weatherapi/metalerts/1.1?show=all&lang=en">weatherapi</a>. The model has been trained on a region of approximately 300km x 300km surrounding Oslo for predicting the composite reflectivity values at 5 minutes in the future using the values from the current timestamp. The day used for illustrating the predictions has not been used for training.</p>
 
 <video width="100%" controls>
   <source src="/assets/videos/xnow_5m_with_negative_5minutes_noRMSE_noCM.mp4" type="video/mp4">
 </video>
+
+
+<h2>ConvSNow 1.0.0</h2>
+<p class="small" align="justify">Experiments conducted on satellite data, 10 days (5 from 2018, 5 from 2020), centered around Romania, with 5 channels (1 black and white, 4 RGB).</p>
+
 </div>
+
 
 <button type="button" class="collapsible"><h1>Annotated Atlas of Meteorological Observations</h1></button>
 <div class="content">
