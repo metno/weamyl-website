@@ -63,7 +63,11 @@ title: "Results"
 
 
 <h2>ConvSNow 1.0.0</h2>
-<p class="small" align="justify">Experiments conducted on satellite data, 10 days (5 from 2018, 5 from 2020), centered around Romania, with 5 channels (1 black and white, 4 RGB).</p>
+<p class="small" align="justify">ConvSNow version 1.0.0 - Convolutionary LSTM model trained on satellite imagery collected by EUMESAT's Meteosat-11 satellite utilizing the Severe Storms RGB product, in a region centered around Romania. The day used for illustrating the predictions has not been used for training.</p>
+
+<img src="/assets/images/ConvSNow.gif" size=30%>
+
+<p class="small" align="justify">ConvSNow 15 min - based on currently available satellite data predicts the Severe Storms RGB product 15 minutes in the future. The bottom side animation represents the model prediction, while the top side image represents the actual (real) observation.</p>
 
 </div>
 
