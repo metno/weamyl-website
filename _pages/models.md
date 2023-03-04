@@ -58,14 +58,14 @@ title: "Results"
 <p class="small" align="justify">XNow version 0.0.1 - Incipient Xception-based model trained on a dataset containing 6 days with meteorological events <a href="https://thredds.met.no/thredds/catalog/remotesensing/reflectivity-nordic/catalog.html">(thredds)</a>, selected from the CAP warnings available at <a href="https://api.met.no/weatherapi/metalerts/1.1?show=all&lang=en">weatherapi</a>. The model has been trained on a region of approximately 300km x 300km surrounding Oslo for predicting the composite reflectivity values at 5 minutes in the future using the values from the current timestamp. The day used for illustrating the predictions has not been used for training.</p>
 
 <video width="100%" controls>
-  <source src="/assets/videos/xnow_5m_with_negative_5minutes_noRMSE_noCM.mp4" type="video/mp4" style="width:50%;height:50%">
+  <source src="/assets/videos/xnow_5m_with_negative_5minutes_noRMSE_noCM.mp4" type="video/mp4" >
 </video>
 
 
 <h2>ConvSNow 1.0.0</h2>
-<p class="small" align="justify">ConvSNow version 1.0.0 - Convolutionary LSTM model trained on satellite imagery spanning Europe collected by  EUMESAT's Meteosat-11 satellite utilizing the Severe Storms RGB product. The day used for illustrating the predictions has not been used for training.</p>
+<p class="small" align="justify">ConvSNow version 1.0.0 - Convolutionary LSTM model trained on satellite imagery spanning Europe collected by EUMESAT's Meteosat-11 satellite utilizing the Severe Storms RGB product. The day used for illustrating the predictions has not been used for training.</p>
 
-<img src="/assets/images/ConvSNow.gif" >
+<img src="/assets/images/ConvSNow.gif" style="width:50%">
 
 <p class="small" align="justify">ConvSNow 15 min - based on currently available satellite data predicts the Severe Storms RGB product 15 minutes in the future. The bottom side animation represents the model prediction, while the top side image represents the actual (real) observation.</p>
 
