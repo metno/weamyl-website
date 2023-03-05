@@ -67,7 +67,7 @@ title: "Results"
 
 <img src="/assets/images/ConvSNow.gif" style="width:50%">
 
-<p class="small" align="justify">ConvSNow 15 min - based on currently available satellite data predicts the Severe Storms RGB product 15 minutes in the future. The bottom side animation represents the model prediction, while the top side image represents the actual (real) observation.</p>
+<p class="small" align="justify">ConvSNow 15 min - based on currently available satellite data predicts the Severe Storms RGB product 15 minutes in the future. The top side animation represents the model prediction, while the bottom side animation represents the actual (real) observation.</p>
 
 </div>
 
