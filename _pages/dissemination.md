@@ -109,6 +109,8 @@ title: "Project dissemination"
 
 <li style="font-size:70%"> <p> On the 3rd of June 2022, the <a href="http://www.cs.ubbcluj.ro/weadl/"> 2nd Workshop on Applied Deep Learning </a> was jointly organised by the <a href="http://www.cs.ubbcluj.ro/ml/">MLyRE research group on Machine Learning</a>, Faculty of Mathematics and Computer Science, Babeș-Bolyai University together with the <a href="https://www.meteoromania.ro/">Romanian National Meteorological Administration</a> and <a href="https://www.met.no/en">Meteorologisk Institutt Norway</a>. </p> </li>
 
+<li style="font-size:70%"> <p> 19 - 22 september, 2022, <a href="/assets/files/workshopMET.pdf"> Science2Service </a> workshop, held at Meteorologisk Institutt Norway </p> </li>
+
 </ul>
 </div>
 
