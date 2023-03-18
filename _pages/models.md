@@ -63,7 +63,7 @@ title: "Results"
 
 
 <h2>ConvSNow 1.0.0</h2>
-<p class="small" align="justify">ConvSNow version 1.0.0 - Convolutionary LSTM model trained on satellite imagery spanning Europe collected by EUMESAT's Meteosat-11 satellite utilizing the Severe Storms RGB product. The day used for illustrating the predictions has not been used for training.</p>
+<p class="small" align="justify">ConvSNow version 1.0.0 - Convolutionary LSTM model trained on satellite imagery spanning Europe collected by EUMESAT's Meteosat-11 satellite utilizing the Severe Storms RGB product. The model was trained on 24 days from June 2021. The day used for illustrating the predictions is a day from June 2021 that has not been used for training.</p>
 
 <img src="/assets/images/ConvSNow.gif" style="width:50%">
 
