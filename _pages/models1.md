@@ -1,5 +1,5 @@
 ---
-permalink: /models/
+permalink: /models1/
 title: "Models"
 ---
 <html>
