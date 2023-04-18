@@ -30,105 +30,38 @@ title: "Results"
 }
 </style>
 </head>
-<body>
 
+<body>
+<a href="/_pages/models1.md"><button type="button">Machine Learning models for the Nowcasting platform</button></a>
+<h2>Overview of the WeaMyL System</h2>
 <figure>
-  <center><figcaption>The WeaMyL System</figcaption></center>
-  <img src="/assets/images/Container.png" alt="The WeaMyL System" style="width:100%">
+
+  <img src="/assets/images/Container.png" alt="Overview of the WeaMyL System" style="width:100%">
 </figure>
 
+<h2>Forecasting Platform</h2>
 
-<button type="button" class="collapsible"><h1>Nowcasting models</h1></button>
-<div class="content">
+<a href="">Machine Learning models for the Nowcasting platform</a>
+<br>
 
-<h2> XNow version 1.0.0</h2>
-
-<p class="small" align="justify">XNow version 1.0.0 - <a href="https://ieeexplore.ieee.org/document/9118849">Xception-based model</a> trained on a dataset containing 45 days of radar data <a href="https://thredds.met.no/thredds/catalog/remotesensing/reflectivity-nordic/catalog.html">(thredds)</a>. The model has been trained on a region of approximately 300km x 300km surrounding Oslo for predicting the composite reflectivity values in the future using current radar values. The day used for illustrating the predictions has not been used for training.</p>
-<video width="100%" controls>
-  <source src="/assets/videos/xnow-4steps-5min-publ.mp4" type="video/mp4">
-</video>
-<p class="small">XNow 5 min - based on currently available radar data predicts the radar values 5 minutes in the future. </p>
-<video width="100%" controls>
-  <source src="/assets/videos/xnow-4steps-15min-publ.mp4" type="video/mp4">
-</video>
-<p class="small">XNow 15 min - based on currently available radar data predicts the radar values 15 minutes in the future. </p>
-
-<h2> XNow version 0.0.1</h2>
-
-<p class="small" align="justify">XNow version 0.0.1 - Incipient Xception-based model trained on a dataset containing 6 days with meteorological events <a href="https://thredds.met.no/thredds/catalog/remotesensing/reflectivity-nordic/catalog.html">(thredds)</a>, selected from the CAP warnings available at <a href="https://api.met.no/weatherapi/metalerts/1.1?show=all&lang=en">weatherapi</a>. The model has been trained on a region of approximately 300km x 300km surrounding Oslo for predicting the composite reflectivity values at 5 minutes in the future using the values from the current timestamp. The day used for illustrating the predictions has not been used for training.</p>
+<p class="small" align="justify"><b>Video 1.</b> An example illustrating the observed equivalent reflectivity factor (left) versus the forecast of XNow 1.0.0 (middle) versus the forecast of XNow 2.0.3 (right) using the Open GeoWeb mapping service for the weather event on June 28, 2022 at 09:55 UTC. This video is generated using the models, as the platform is intended to be used by meteorologists to analyze the weather 60 minutes into the future.	</p>
 
 <video width="100%" controls>
-  <source src="/assets/videos/xnow_5m_with_negative_5minutes_noRMSE_noCM.mp4" type="video/mp4" >
+  <source src="/assets/videos/video29mar.mp4" type="video/mp4">
 </video>
-
-
-<h2>ConvSNow 1.0.0</h2>
-<p class="small" align="justify">ConvSNow version 1.0.0 - Convolutionary LSTM model trained on satellite imagery spanning Europe collected by EUMESAT's Meteosat-11 satellite utilizing the Severe Storms RGB product. The model was trained on 24 days from June 2021. The day used for illustrating the predictions is a day from June 2021 that has not been used for training.</p>
-
-<img src="/assets/images/ConvSNow.gif" style="width:50%">
-
-<p class="small" align="justify">ConvSNow 15 min - based on currently available satellite data predicts the Severe Storms RGB product 15 minutes in the future. The top side animation represents the model prediction, while the bottom side animation represents the actual (real) observation.</p>
-
-</div>
-
-
-<button type="button" class="collapsible"><h1>Annotated Atlas of Meteorological Observations</h1></button>
-<div class="content">
-
-<p class="small" align="justify">This component offers a web interface to a search engine connected to a semantic database which contains severe weather warnings. The web interface is easy to use and allows searching/filtering for different types of weather events and also for named weather events. The web interface also offers the possibility to investigate geographical areas affected by annotated and earlier events. In addition, It provides information about where to find the source data files, hence, providing support to the training machine learning models to detect interesting possible weather events.</p>
-
-<img src="/assets/images/atlas1.png"/>
-</div>
-
-<button type="button" class="collapsible"><h1>Forecasting Platform</h1></button>
-<div class="content">
-
-<p class="small" align="justify">The forecasting platform consists of the following components:</p>
-<ul>
-<li> <p class="small" align="justify"> GeoWeb - A web application used to visualize all kinds of meteorological data. That includes output from the machine learning algorithm and CAP warnings.</p></li>
-
-<li style="small"><p class="small" align="justify">  WebMapService providing data from the ML algorithms - Services providing all kinds of meteorological data, including model output satellite images, radar data, in situ observations as images that can be displayed on a map.</p></li>
-
-<li > <p class="small" align="justify"> Machine Learning Algorithms - producing forecasts based on the latest recorded radar data sets.</p></li>
-
-<!--<li> <p class="small" align="justify"> WebMapServices - Services providing all kinds of meteorological data, including model output, satellite images, radar data, in situ observations, as images that can be displayed on a map.</p></li>-->
-
-<li > <p class="small" align="justify"> CAP editor - editor used by the forecaster to produce CAP warnings.</p></li>
-
-<li> <p class="small" align="justify"> CAP feed - service providing all issued CAP warnings.</p></li>
-
-</ul>
-
-<p class="small" align="justify">Below is an example of visualizing the ML output as forecast (left) versus observed (right) equivalent reflectivity factor using the Open GeoWeb mapping service for the weather event on April 08, 2022 at 18:05 UTC. This visualization is based on data assimilated every 5 to 10 minutes.</p>
-
-<img src="/assets/images/demo_GeoWeb.png" />
-
-<p class="small" align="justify"><b>Video 1.</b> An example illustrating the ML ouptut as forecast (left) versus observed (right) equivalent reflectivity factor using the Open GeoWeb mapping service for the weather event on April 08, 2022 at 18:05 UTC. This video is generated based on data assimilated every 5 to 10 minutes.</p>
+<br><br>
+<p class="small" align="justify"><b>Video 2.</b> This video is generated using the model XNow version 0.0.1, as the platform is intended to be used by meteorologists to analyze the weather 5 minutes into the future.</p>
 
 <video width="100%" controls>
   <source src="/assets/videos/GeoWeb_demo.mp4" type="video/mp4">
 </video>
 
-</div>
+<br>
 
-<script>
-var coll = document.getElementsByClassName("collapsible");
-var i;
+<b>Annotated Atlas of Meteorological Observations</b>
+<p class="small" align="justify">This component offers a web interface to a search engine connected to a semantic database which contains severe weather warnings. The web interface is easy to use and allows searching/filtering for different types of weather events and also for named weather events. The web interface also offers the possibility to investigate geographical areas affected by annotated and earlier events. In addition, It provides information about where to find the source data files, hence, providing support to the training machine learning models to detect interesting possible weather events.</p>
 
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.display === "block") {
-      content.style.display = "none";
-    } else {
-      content.style.display = "block";
-    }
-  });
-}
-</script>
-
-
+<img src="/assets/images/atlas1.png"/>
 
 </body>
 </html>
