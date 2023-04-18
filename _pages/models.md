@@ -32,7 +32,7 @@ title: "Results"
 </head>
 
 <body>
-<a href="/_pages/models1.md"><button type="button">Machine Learning models for the Nowcasting platform</button></a>
+<a href="https://weamyl.met.no/models1"><button type="button">Machine Learning models for the Nowcasting platform</button></a>
 <h2>Overview of the WeaMyL System</h2>
 <figure>
 
@@ -41,7 +41,7 @@ title: "Results"
 
 <h2>Forecasting Platform</h2>
 
-<a href="">Machine Learning models for the Nowcasting platform</a>
+<a href="https://weamyl.met.no/models1">Machine Learning models for the Nowcasting platform</a>
 <br>
 
 <p class="small" align="justify"><b>Video 1.</b> An example illustrating the observed equivalent reflectivity factor (left) versus the forecast of XNow 1.0.0 (middle) versus the forecast of XNow 2.0.3 (right) using the Open GeoWeb mapping service for the weather event on June 28, 2022 at 09:55 UTC. This video is generated using the models, as the platform is intended to be used by meteorologists to analyze the weather 60 minutes into the future.	</p>
