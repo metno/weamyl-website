@@ -40,7 +40,7 @@ title: "Results"
 </figure>
 
 
-<button type="button" class="collapsible"><h2>Forecasting Platform</h2></button>
+<button type="button" class="collapsible">Forecasting Platform</button>
 <div class="content">
 
 <p class="small" align="justify">The forecasting platform consists of the following components:</p>
@@ -75,12 +75,30 @@ title: "Results"
 </div>
 
 
-<button type="button" class="collapsible"><h2>Annotated Atlas of Meteorological Observations</h2></button>
+<button type="button" class="collapsible">Annotated Atlas of Meteorological Observations</button>
 <div class="content">
 <p class="small" align="justify">This component offers a web interface to a search engine connected to a semantic database which contains severe weather warnings. The web interface is easy to use and allows searching/filtering for different types of weather events and also for named weather events. The web interface also offers the possibility to investigate geographical areas affected by annotated and earlier events. In addition, It provides information about where to find the source data files, hence, providing support to the training machine learning models to detect interesting possible weather events.</p>
 
 <img src="/assets/images/atlas1.png"/>
 
 </div>
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
+
 </body>
 </html>
