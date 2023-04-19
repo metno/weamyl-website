@@ -41,9 +41,21 @@ title: "Results"
 
 <h2>Forecasting Platform</h2>
 
-<a href="https://weamyl.met.no/models1">Machine Learning models for the Nowcasting platform</a>
-<br>
+<p class="small" align="justify">The forecasting platform consists of the following components:</p>
+<ul>
+<li> <p class="small" align="justify"> GeoWeb - A web application used to visualize all kinds of meteorological data. That includes output from the machine learning algorithm and CAP warnings.</p></li>
 
+<li style="small"><p class="small" align="justify">  WebMapService providing data from the ML algorithms - Services providing all kinds of meteorological data, including model output satellite images, radar data, in situ observations as images that can be displayed on a map.</p></li>
+
+<li > <p class="small" align="justify"> <a href="https://weamyl.met.no/models1">Machine Learning Algorithms</a> - producing forecasts based on the latest recorded radar data sets.</p></li>
+
+<!--<li> <p class="small" align="justify"> WebMapServices - Services providing all kinds of meteorological data, including model output, satellite images, radar data, in situ observations, as images that can be displayed on a map.</p></li>-->
+
+<li > <p class="small" align="justify"> CAP editor - editor used by the forecaster to produce CAP warnings.</p></li>
+
+<li> <p class="small" align="justify"> CAP feed - service providing all issued CAP warnings.</p></li>
+
+</ul>
 <p class="small" align="justify"><b>Video 1.</b> An example illustrating the observed equivalent reflectivity factor (left) versus the forecast of XNow 1.0.0 (middle) versus the forecast of XNow 2.0.3 (right) using the Open GeoWeb mapping service for the weather event on June 28, 2022 at 09:55 UTC. This video is generated using the models, as the platform is intended to be used by meteorologists to analyze the weather 60 minutes into the future.	</p>
 
 <video width="100%" controls>
