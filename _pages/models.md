@@ -32,20 +32,23 @@ title: "Results"
 </head>
 
 <body>
-<a href="https://weamyl.met.no/models1"><button type="button">Machine Learning models for the Nowcasting platform</button></a>
+<a href="https://weamyl.met.no/models1"><button type="button">Deep learning models for the Forecasting platform</button></a>
 <h2>Overview of the WeaMyL System</h2>
 <figure>
 
   <img src="/assets/images/Container.png" alt="Overview of the WeaMyL System" style="width:100%">
 </figure>
 
-<h2>Forecasting Platform</h2>
+
+<button type="button" class="collapsible"><h2>Forecasting Platform</h2></button>
+<div class="content">
 
 <p class="small" align="justify">The forecasting platform consists of the following components:</p>
+
 <ul>
 <li> <p class="small" align="justify"> GeoWeb - A web application used to visualize all kinds of meteorological data. That includes output from the machine learning algorithm and CAP warnings.</p></li>
 
-<li style="small"><p class="small" align="justify">  WebMapService providing data from the ML algorithms - Services providing all kinds of meteorological data, including model output satellite images, radar data, in situ observations as images that can be displayed on a map.</p></li>
+<li style="small"><p class="small" align="justify"> WebMapService providing data from the ML algorithms - Services providing all kinds of meteorological data, including model output satellite images, radar data, in situ observations as images that can be displayed on a map.</p></li>
 
 <li > <p class="small" align="justify"> <a href="https://weamyl.met.no/models1">Machine Learning Algorithms</a> - producing forecasts based on the latest recorded radar data sets.</p></li>
 
@@ -68,12 +71,16 @@ title: "Results"
   <source src="/assets/videos/GeoWeb_demo.mp4" type="video/mp4">
 </video>
 
-<br>
 
-<b>Annotated Atlas of Meteorological Observations</b>
+</div>
+
+
+<button type="button" class="collapsible"><h2>Annotated Atlas of Meteorological Observations</h2></button>
+<div class="content">
 <p class="small" align="justify">This component offers a web interface to a search engine connected to a semantic database which contains severe weather warnings. The web interface is easy to use and allows searching/filtering for different types of weather events and also for named weather events. The web interface also offers the possibility to investigate geographical areas affected by annotated and earlier events. In addition, It provides information about where to find the source data files, hence, providing support to the training machine learning models to detect interesting possible weather events.</p>
 
 <img src="/assets/images/atlas1.png"/>
 
+</div>
 </body>
 </html>

@@ -34,7 +34,7 @@ title: "Models"
 
 
 
-<h2>Models</h2>
+<h2>Deep learning models for the Forecasting platform</h2>
 
 <h3>XNow 2.0.4</h3>
 <p class="small" align="justify">XNow version 2.0.4 - Xception-based ensemble of 3 models trained on a dataset containing 45 days of radar data (thredds). Each model has been trained on a region of approximately 300km x 300km surrounding Oslo for predicting the composite reflectivity values in the future using current radar values and an improved loss function. The day used for illustrating the predictions has not been used for training.</p>
