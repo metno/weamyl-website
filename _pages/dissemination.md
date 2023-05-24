@@ -76,6 +76,9 @@ title: "Project dissemination"
 
 <li style="font-size:70%"> <p>  Mihuleţ, Eugen, Sorin Burcea, Andrei Mihai, and Gabriela Czibula, <a href="https://www.mdpi.com/2073-4433/14/1/182"> Enhancing the Performance of Quantitative Precipitation Estimation Using Ensemble of Machine Learning Models Applied on Weather Radar Data</a>, Atmosphere 14, no. 1: 182, 2023 (2021 IF=3.110, Q2) </p></li>
 
+<li style="font-size:70%"> <p>  Adelin Mihoc, Vlad-Sebastian Ionescu, Ioan-Gabriel Mircea, Gabriela Czibula, Eugen Mihuleț, Trygve Aspenes, <a href=""> ConvSNow: A tailored Conv-LSTM architecture for weather nowcasting based on satellite imagery</a>, 27th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES2023), 2023, to be published (B-ranked according to CORE classification, indexed WoS) </p></li>
+
+<li style="font-size:70%"> <p> Alexandra-Ioana Albu, <a href="">Improving radar echo extrapolation models using autoencoder-based perceptual losses</a>, 27th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES2023),  2023,  to be published  (B-ranked according to CORE classification, indexed WoS) </p></li>
 </ol>
 </div>
 
@@ -109,7 +112,7 @@ title: "Project dissemination"
 
 <li style="font-size:70%"> <p> On the 3rd of June 2022, the <a href="http://www.cs.ubbcluj.ro/weadl/"> 2nd Workshop on Applied Deep Learning </a> was jointly organised by the <a href="http://www.cs.ubbcluj.ro/ml/">MLyRE research group on Machine Learning</a>, Faculty of Mathematics and Computer Science, Babeș-Bolyai University together with the <a href="https://www.meteoromania.ro/">Romanian National Meteorological Administration</a> and <a href="https://www.met.no/en">Meteorologisk Institutt Norway</a>. </p> </li>
 
-<li style="font-size:70%"> <p> On 19 - 22 september, 2022, the <a href="/assets/files/workshopAbdelkader.pdf"> Science2Service</a> workshop at Meteorologisk Institutt Norway. </p> </li>
+<li style="font-size:70%"> <p> On 19 - 22 september, 2022, the <a href="/assets/files/workshopMET.pdf"> Science2Service</a> workshop at Meteorologisk Institutt Norway. </p> </li>
 
 </ul>
 </div>
