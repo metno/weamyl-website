@@ -313,6 +313,10 @@ title: "Project dissemination"
 
 <li style="font-size:80%">  <p> <a href="https://news.ubbcluj.ro/ubb-organizeaza-a-doua-editie-a-workshopului-weadl-workshop-on-applied-deep-learning/"> Press release, NEWSUBB, BBU, 25.05.2022 </a></p></li>
 
+<li style="font-size:80%">  <p> <a href="https://www.cs.ubbcluj.ro/3rd-workshop-on-applied-deep-learning-weadl-2023-2/"> Press release, Faculty of Mathematics and Computer Science (BBU), 31.05.2023 </a></p></li>
+
+<li style="font-size:80%">  <p> <a href="https://news.ubbcluj.ro/a-treia-editie-a-workshop-ului-in-invatare-profunda-aplicata-weadl-la-ubb/"> Press release, NEWSUBB, BBU, 31.05.2023 </a></p></li>
+
 </ul>
 </div>
 
