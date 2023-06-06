@@ -317,6 +317,9 @@ title: "Project dissemination"
 
 <li style="font-size:80%">  <p> <a href="https://news.ubbcluj.ro/a-treia-editie-a-workshop-ului-in-invatare-profunda-aplicata-weadl-la-ubb/"> Press release, NEWSUBB, BBU, 31.05.2023 </a></p></li>
 
+<li style="font-size:80%">  <p> <a href="https://www.meteoromania.ro/"> Press release, NMA, 06.06.2023 </a></p></li>
+
+
 </ul>
 </div>
 
