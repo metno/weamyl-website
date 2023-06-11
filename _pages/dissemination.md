@@ -327,6 +327,8 @@ title: "Project dissemination"
 <div class="content">
 <ul>
 <li style="font-size:80%">  <p> <a href="https://www.facebook.com/105951141283282/posts/pfbid024ATGcYRfFgnbto8YDZ9u72j6oLB1y3RioBBewPfEmD5D1Kv6oTkSze5875kSrrCvl"> WeADL, 2nd edition </a></p></li>
+
+<li style="font-size:80%">  <p> <a href="https://www.facebook.com/100069013215997/posts/pfbid02VY8m4J8uN2F6xnU6o1FFsc7rfjbrgBpqxFgCv6R3h7Dz8EaYYXy7pGz5cbhsBRhEl"> WeADL, 3rd edition </a></p></li>
 </ul>
 </div>
 
