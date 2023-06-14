@@ -77,10 +77,16 @@ title: "Results"
 
 <button type="button" class="collapsible">Annotated Atlas of Meteorological Observations</button>
 <div class="content">
-<p class="small" align="justify">This component offers a web interface to a search engine connected to a semantic database which contains severe weather warnings. The web interface is easy to use and allows searching/filtering for different types of weather events and also for named weather events. The web interface also offers the possibility to investigate geographical areas affected by annotated and earlier events. In addition, It provides information about where to find the source data files, hence, providing support to the training machine learning models to detect interesting possible weather events.</p>
+<p class="small" align="justify">This component offers a web interface to a search engine connected to a semantic database which contains severe weather warnings. The web interface is easy to use and allows searching/filtering for different types of weather events and also for named weather events. The web interface also offers the possibility to investigate geographical areas affected by annotated and earlier events. In addition, It provides information about where to find the source data files, hence, providing support to the training machine learning models to detect interesting possible weather events. Figure 1 illustrates the Front-end GUI of the Annotated Atlas, deployed at MET.</p>
+<figure>
+<img src="/assets/images/atlas1.png"/>  <center><figcaption><b>Figure 1.</b> Front-end GUI of the Annotated Atlas, deployed at MET</figcaption></center>
+</figure>
+<br>
 
-<img src="/assets/images/atlas1.png"/>
-
+At NMA, the front-end of Annotated Atlas was successfully deployed on a dedicated server (Figure 2).
+<figure>
+<img src="/assets/images/atlas2.png"/>  <center><figcaption><b>Figure 2.</b> Front-end GUI of the Annotated Atlas, deployed at NMA</figcaption></center>
+</figure>
 </div>
 
 <script>
