@@ -83,7 +83,7 @@ title: "Results"
 </figure>
 <br>
 
-At NMA, the front-end of Annotated Atlas was successfully deployed on a dedicated server (Figure 2).
+<p class="small" align="justify">At NMA, the front-end of Annotated Atlas was successfully deployed on a dedicated server (Figure 2).</p>
 <figure>
 <img src="/assets/images/atlas2.png"/>  <center><figcaption><b>Figure 2.</b> Front-end GUI of the Annotated Atlas, deployed at NMA</figcaption></center>
 </figure>
