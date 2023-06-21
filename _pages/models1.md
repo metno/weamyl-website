@@ -39,7 +39,7 @@ title: "Models"
 <p class="small" align="justify">XNow version 3.0.3 - Xception-based ensemble of 3 models trained on a dataset containing 102 days of radar data (thredds). Each model has been trained on a region of approximately 300km x 300km surrounding Oslo for predicting the composite reflectivity values in the future using current radar values and an improved loss function. The day used for illustrating the predictions has not been used for training.</p>
 
 <video width="100%" controls>
-  <source src="/assets/videos/V4_102Days.mp4" type="video/mp4" >
+  <source src="/assets/videos/V5_102Days.mp4" type="video/mp4" >
 </video>
 
 <h3>XNow 2.0.4</h3>
