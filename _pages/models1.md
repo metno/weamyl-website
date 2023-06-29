@@ -83,18 +83,20 @@ title: "Models"
   <source src="/assets/videos/xnow_5m_with_negative_5minutes_noRMSE_noCM.mp4" type="video/mp4" >
 </video>
 
-
+</div>
 
 
 <button type="button" class="collapsible">NMA - Deep learning models on radar data</button>
+<div class="content">
 <h3>SepConv 0.0.1</h3>
 <p class="small" align="justify">SepConv 0.0.1 - Incipient Separable Convolutional Neural Network-based model trained on a dataset containing 20 days with convective events that occurred in central Romania. The radar data set used for training consists of radar reflectivity sampled at 6 elevation angles, while the deep learning (DL) model output consists in maximum radar reflectivity, computed from all 6 elevations, for each grid cell, on an area defined by a 230 km radius relative to the radar site. To predict the maximum reflectivity for the next scan (~ 6 minutes), the DL model uses the radar reflectivity from four previous timestamps as input. The day used for illustrating the maximum radar reflectivity predictions has not been used for training, and the result shows a good correlation between the radar measurements and DL predictions in terms of spatial and intensity evolution of the radar echoes. The example below shows the radar - DL model prediction comparison for a two-hour time span.</p>
 <video width="100%" controls>
   <source src="/assets/videos/anm_V1_xnow.mp4" type="video/mp4" >
 </video>
-
+</div>
 
 <button type="button" class="collapsible">Deep learning models on satellite data </button>
+<div class="content">
 <h3>ConvSNow 1.0.0</h3>
 <p class="small" align="justify">ConvSNow 1.0.0 - Convolutionary LSTM model trained on satellite imagery spanning Europe collected by EUMESAT's Meteosat-11 satellite utilizing the Severe Storms RGB product. The model was trained on 24 days from June 2021. The day used for illustrating the predictions is a day from June 2021 that has not been used for training.</p>
 
@@ -102,7 +104,7 @@ title: "Models"
 
 <p class="small" align="justify">ConvSNow 15 min - based on currently available satellite data predicts the Severe Storms RGB product 15 minutes in the future. The top side animation represents the model prediction, while the bottom side animation represents the actual (real) observation.</p>
 
-
+</div>
 <script>
 var coll = document.getElementsByClassName("collapsible");
 var i;
