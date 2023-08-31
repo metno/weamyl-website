@@ -80,7 +80,7 @@ title: "Project dissemination"
 
 <li style="font-size:70%"> <p> Alexandra-Ioana Albu, <a href="">Improving radar echo extrapolation models using autoencoder-based perceptual losses</a>, 27th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES2023),  2023,  to be published  (B-ranked according to CORE classification, indexed WoS) </p></li>
 
-<li style="font-size:70%"> <p> Andrei Mihai, <a href="https://www.todaysoftmag.ro/article/3926/xnow-un-model-de-invatare-profunda-pentru-prezicerea-datelor-radar-in-meteorologie">XNow: un model de învățare profundă pentru prezicerea datelor radar în meteorologie</a>, TODAY SOFTWARE MAGAZINE, Nr. 134 </p></li>
+<li style="font-size:70%"> <p> Andrei Mihai, <a href="https://www.todaysoftmag.ro/article/3926/xnow-un-model-de-invatare-profunda-pentru-prezicerea-datelor-radar-in-meteorologie">XNow: un model de învățare profundă pentru prezicerea datelor radar în meteorologie</a>, TODAY SOFTWARE MAGAZINE, Nr. 134, pp. 15-18. </p></li>
 
 </ol>
 </div>
