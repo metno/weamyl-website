@@ -40,6 +40,8 @@ title: "Models"
 <button type="button" class="collapsible">MET - Deep learning models on radar data</button>
 <div class="content">
 
+
+
 <h3>XNow 3.0.0</h3>
 <p class="small" align="justify">XNow 3.0.0 - Xception-based ensemble of 3 models trained on a dataset containing 102 days of radar data (thredds). Each model has been trained on a region of approximately 300km x 300km surrounding Oslo for predicting the composite reflectivity values in the future using current radar values and an improved loss function. The day used for illustrating the predictions has not been used for training.</p>
 
@@ -88,8 +90,15 @@ title: "Models"
 
 <button type="button" class="collapsible">NMA - Deep learning models on radar data</button>
 <div class="content">
+
+<h3>SepConv 1.0.0</h3>
+<p class="small" align="justify">SepConv 1.0.0 - Improved Separable Convolutional Neural Network-based model trained using a customized weighted loss on a dataset containing 20 days with convective events that occurred in central Romania, on an area defined by a 230 km radius relative to the radar site. To predict the maximum reflectivity for the next scan (~ 6 minutes), the DL model uses the radar reflectivity from four previous timestamps as input. The day used for illustrating the maximum radar reflectivity predictions has not been used for training. The example below shows the radar - DL model prediction comparison for 22.5 hours (May 7, 2023).</p>
+<video width="100%" controls>
+  <source src="/assets/videos/anm_V2_wl32.mp4" type="video/mp4" >
+</video>
+
 <h3>SepConv 0.0.1</h3>
-<p class="small" align="justify">SepConv 0.0.1 - Incipient Separable Convolutional Neural Network-based model trained on a dataset containing 20 days with convective events that occurred in central Romania. The radar data set used for training consists of radar reflectivity sampled at 6 elevation angles, while the deep learning (DL) model output consists in maximum radar reflectivity, computed from all 6 elevations, for each grid cell, on an area defined by a 230 km radius relative to the radar site. To predict the maximum reflectivity for the next scan (~ 6 minutes), the DL model uses the radar reflectivity from four previous timestamps as input. The day used for illustrating the maximum radar reflectivity predictions has not been used for training, and the result shows a good correlation between the radar measurements and DL predictions in terms of spatial and intensity evolution of the radar echoes. The example below shows the radar - DL model prediction comparison for a two-hour time span.</p>
+<p class="small" align="justify">SepConv 0.0.1 - Incipient Separable Convolutional Neural Network-based model trained on a dataset containing 20 days with convective events that occurred in central Romania. The radar data set used for training consists of radar reflectivity sampled at 6 elevation angles, while the deep learning (DL) model output consists in maximum radar reflectivity, computed from all 6 elevations, for each grid cell, on an area defined by a 230 km radius relative to the radar site. To predict the maximum reflectivity for the next scan (~ 6 minutes), the DL model uses the radar reflectivity from four previous timestamps as input. The day used for illustrating the maximum radar reflectivity predictions has not been used for training. The example below shows the radar - DL model prediction comparison for a two-hour time span.</p>
 <video width="100%" controls>
   <source src="/assets/videos/anm_V1_xnow.mp4" type="video/mp4" >
 </video>

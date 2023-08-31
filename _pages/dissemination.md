@@ -72,13 +72,16 @@ title: "Project dissemination"
 
 <li style="font-size:70%"> <p> Ciubotariu, G., Czibula, G., <a href=" https://ieeexplore.ieee.org/document/9966556">MBMT-Net: A multitask learning based convolutional neural network architecture for dense tasks performance improvement</a>, IEEE Access, 2022, Volume 10, pages 125600 - 125615 (2021 IF=3.476, Q2) </p></li>
 
-<li style="font-size:70%"> <p> Alexandra-Ioana Albu, Maria-Iuliana Bocicor, Gabriela Czibula, <a href="https://www.sciencedirect.com/science/article/pii/S0010482522012343"> MM-PPI: A New Deep Multimodal Approach for Protein-Protein Interaction Prediction</a>, Computers in Biology and Medicine, Vol. 153, 106526, 2023 (2021 IF=6.698, Q1) </p></li>
+<li style="font-size:70%"> <p> Alexandra-Ioana Albu, Maria-Iuliana Bocicor, Gabriela Czibula, <a href="https://www.sciencedirect.com/science/article/pii/S0010482522012343"> MM-StackEns: A new deep multimodal stacked generalization approach for protein–protein interaction prediction</a>, Computers in Biology and Medicine, Vol. 153, 106526, 2023 (2022 IF=7.7, Q1) </p></li>
 
-<li style="font-size:70%"> <p>  Mihuleţ, Eugen, Sorin Burcea, Andrei Mihai, and Gabriela Czibula, <a href="https://www.mdpi.com/2073-4433/14/1/182"> Enhancing the Performance of Quantitative Precipitation Estimation Using Ensemble of Machine Learning Models Applied on Weather Radar Data</a>, Atmosphere 14, no. 1: 182, 2023 (2021 IF=3.110, Q2) </p></li>
+<li style="font-size:70%"> <p>  Mihuleţ, Eugen, Sorin Burcea, Andrei Mihai, and Gabriela Czibula, <a href="https://www.mdpi.com/2073-4433/14/1/182"> Enhancing the Performance of Quantitative Precipitation Estimation Using Ensemble of Machine Learning Models Applied on Weather Radar Data</a>, Atmosphere 14, no. 1: 182, 2023 (2022 IF=2.9, Q2) </p></li>
 
 <li style="font-size:70%"> <p>  Adelin Mihoc, Vlad-Sebastian Ionescu, Ioan-Gabriel Mircea, Gabriela Czibula, Eugen Mihuleț, Trygve Aspenes, <a href=""> ConvSNow: A tailored Conv-LSTM architecture for weather nowcasting based on satellite imagery</a>, 27th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES2023), 2023, to be published (B-ranked according to CORE classification, indexed WoS) </p></li>
 
 <li style="font-size:70%"> <p> Alexandra-Ioana Albu, <a href="">Improving radar echo extrapolation models using autoencoder-based perceptual losses</a>, 27th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES2023),  2023,  to be published  (B-ranked according to CORE classification, indexed WoS) </p></li>
+
+<li style="font-size:70%"> <p> Andrei Mihai, <a href="https://www.todaysoftmag.ro/article/3926/xnow-un-model-de-invatare-profunda-pentru-prezicerea-datelor-radar-in-meteorologie">IXNow: un model de învățare profundă pentru prezicerea datelor radar în meteorologie</a>, TODAY SOFTWARE MAGAZINE, Nr. 134 </p></li>
+
 </ol>
 </div>
 
@@ -188,7 +191,26 @@ title: "Project dissemination"
 
 <li style="font-size:70%"> <p> January 31th 2023, Artificial Intelligence 4.0@UBB, Eugen Mihuleț (NMA), <a href="/assets/files/Eugen.pdf">AI for Environment</a></p> </li>
 
+<li style="font-size:70%"> <p> 2023, WeADL workshop, Andrei Mihai (BBU) <a href="">XNow: a convolutional neural network model for weather nowcasting using radar data from the Romanian National Meteorological Administration </a> </p> </li>
 
+<li style="font-size:70%"> <p> 2023, WeADL workshop, Alexandra Albu (BBU) <a href="">A convolutional neural network approach for weather forecasting using radar data </a> </p>
+ </li>
+
+ <li style="font-size:70%"> <p> 2023, WeADL workshop, Eugen Mihuleţ (NMA) <a href="">Enhancing the performance of quantitative precipitation estimation using ensemble of machine learning models applied on weather radar data </a> </p></li>
+
+ <li style="font-size:70%"> <p> 2023, WeADL workshop, Abdelkader Mezghani (MET) <a href="https://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2023/06/Abdelkader%20Mezghani%20-%20The%20WeaMyL%20Annotated%20Atlas%20of%20Meteorological%20Observations.pdf">The WeaMyL Annotated Atlas of Meteorological Observations  </a> </p></li>
+
+  <li style="font-size:70%"> <p> 2023, WeADL workshop, Abdelkader Mezghani (MET) <a href="https://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2023/06/Abdelkader%20Mezghani%20-%20The%20WeaMyL%20Forecasting%20Platform.pdf">The WeaMyL Forecasting Platform   </a> </p></li>
+
+<li style="font-size:70%"> <p> 2023, WeADL workshop, George Ciubotariu (BBU) <a href="https://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2023/06/George%20Ciubotariu%20-%20Comparing%20one-%20and%20binary-class%20SVM-based%20software%20defect%20predictors.pdf">Comparing one- and binary-class SVM-based software defect predictors </a> </p></li>
+
+<li style="font-size:70%"> <p> 2023, WeADL workshop, Paul Orășan (BBU) <a href="https://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2023/06/Orasan%20Paul%20-%20Video%20completion%20conditioned%20by%20natural%20language-based%20descriptions.pdf">Video completion conditioned by natural language-based descriptions</a> </p></li>
+
+<li style="font-size:70%"> <p> 2023, WeADL workshop, Anamaria Briciu (BBU) <a href="https://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2023/06/Briciu%20Anamaria%20-%20Enhancing%20the%20performance%20of%20software%20authorship%20attribution%20using%20deep%20autoencoders%20.pdf">Enhancing the performance of software authorship attribution using deep autoencoders</a> </p></li>
+
+<li style="font-size:70%"> <p> 2023, WeADL workshop, Sîrbu Alexandru-Gabriel (BBU) <a href="https://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2023/06/Sirbu%20Alexandru-Gabriel%20-%20Automatic%20code%20generation%20for%20malware%20detection%20based%20on%20MITRE%20ATT%20CK%20techniques.pdf">Automatic code generation for malware detection based on MITRE ATT&CK techniques</a> </p></li>
+
+<li style="font-size:70%"> <p> 2023, WeADL workshop, Imre Mali (BBU) <a href="">Finding Cooperation in the N-Player Iterated Prisoner’s Dilemma with Deep Reinforcement Learning Over Dynamic Complex Networks</a> </p></li>
 </ul>
 </div>
 
@@ -251,7 +273,26 @@ title: "Project dissemination"
 
 <li style="font-size:70%"> <p> 2022, WeADL workshop, Alexandra Albu (BBU) <a href="https://youtu.be/zfMXwB7g6m8">Protein-Protein Interaction Prediction using a Deep Learning Approach based on Autoencoders </a> </p> </li>
 
+<li style="font-size:70%"> <p> 2023, WeADL workshop, Andrei Mihai (BBU) <a href="">XNow: a convolutional neural network model for weather nowcasting using radar data from the Romanian National Meteorological Administration </a> </p> </li>
 
+<li style="font-size:70%"> <p> 2023, WeADL workshop, Alexandra Albu (BBU) <a href="">A convolutional neural network approach for weather forecasting using radar data </a> </p>
+ </li>
+
+ <li style="font-size:70%"> <p> 2023, WeADL workshop, Eugen Mihuleţ (NMA) <a href="https://www.youtube.com/watch?v=jHVRBRPJoJU">Enhancing the performance of quantitative precipitation estimation using ensemble of machine learning models applied on weather radar data </a> </p></li>
+
+ <li style="font-size:70%"> <p> 2023, WeADL workshop, Abdelkader Mezghani (MET) <a href="https://www.youtube.com/watch?v=HT_Es3hZHkM">The WeaMyL Annotated Atlas of Meteorological Observations  </a> </p></li>
+
+  <li style="font-size:70%"> <p> 2023, WeADL workshop, Abdelkader Mezghani (MET) <a href="https://www.youtube.com/watch?v=Efi-oYePO3c">The WeaMyL Forecasting Platform   </a> </p></li>
+
+<li style="font-size:70%"> <p> 2023, WeADL workshop, George Ciubotariu (BBU) <a href="https://www.youtube.com/watch?v=dO-gPupAJyU">Comparing one- and binary-class SVM-based software defect predictors </a> </p></li>
+
+<li style="font-size:70%"> <p> 2023, WeADL workshop, Paul Orășan (BBU) <a href="https://www.youtube.com/watch?v=rvelPAjcNg8">Video completion conditioned by natural language-based descriptions</a> </p></li>
+
+<li style="font-size:70%"> <p> 2023, WeADL workshop, Anamaria Briciu (BBU) <a href="https://www.youtube.com/watch?v=VzKJ3Jum4uo">Enhancing the performance of software authorship attribution using deep autoencoders</a> </p></li>
+
+<li style="font-size:70%"> <p> 2023, WeADL workshop, Sîrbu Alexandru-Gabriel (BBU) <a href="https://www.youtube.com/watch?v=JR6zKXr8DQs">Automatic code generation for malware detection based on MITRE ATT&CK techniques</a> </p></li>
+
+<li style="font-size:70%"> <p> 2023, WeADL workshop, Imre Mali (BBU) <a href="">Finding Cooperation in the N-Player Iterated Prisoner’s Dilemma with Deep Reinforcement Learning Over Dynamic Complex Networks</a> </p></li>
 </ul>
 </div>
 
@@ -341,6 +382,7 @@ title: "Project dissemination"
 <li style="font-size:80%">  <p> <a href="https://weamyl.met.no/assets/files/report21.pdf">2020-2021 Technical report summary</a></p></li>
 
 <li style="font-size:80%">  <p> <a href="https://weamyl.met.no/assets/files/report22.pdf">2022 Technical report summary</a></p></li>
+
 
 </ul>
 </div>
