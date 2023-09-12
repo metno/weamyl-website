@@ -383,7 +383,7 @@ title: "Project dissemination"
 
 <li style="font-size:80%">  <p> <a href="https://weamyl.met.no/assets/files/report22.pdf">2022 Technical report summary</a></p></li>
 
-
+<li style="font-size:80%">  <p> <a href="https://weamyl.met.no/assets/files/report23.pdf">2023 Technical report summary</a></p></li>
 </ul>
 </div>
 
