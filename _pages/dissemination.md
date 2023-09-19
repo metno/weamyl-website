@@ -351,6 +351,8 @@ title: "Project dissemination"
 
 <li style="font-size:80%">  <p> <a href="https://news.ubbcluj.ro/cadre-universitare-ale-ubb-prezente-la-evenimentul-itdays/"> Press release, BBU, 9.11.2021</a></p></li>
 
+<li style="font-size:80%">  <p> <a href="https://www.youtube.com/watch?v=hRYDuOGmDus&list=PLccBW8zEAWWnhED1LB7XO-Y5U7WLHHY-G&index=17">Research in the spotlight, Prof. Gabriela Czibula, 2022</a></p></li>
+
 <li style="font-size:80%">  <p> <a href="https://www.cs.ubbcluj.ro/2nd-workshop-on-applied-deep-learning-weadl-2022/"> Press release, Faculty of Mathematics and Computer Science (BBU), 26.05.2022</a></p></li>
 
 <li style="font-size:80%">  <p> <a href="https://m.facebook.com/story.php?story_fbid=pfbid0SB716nEHajYwSbMjwKnM2fpx9zeQBaeysHKdTcdVrAwdcUANPQsGVD5eDjhrF7b8l&amp;id=100069013215997"> Press release, UEFISCDI, 26.05.2022</a></p></li>
@@ -362,6 +364,7 @@ title: "Project dissemination"
 <li style="font-size:80%">  <p> <a href="https://news.ubbcluj.ro/a-treia-editie-a-workshop-ului-in-invatare-profunda-aplicata-weadl-la-ubb/"> Press release, NEWSUBB, BBU, 31.05.2023 </a></p></li>
 
 <li style="font-size:80%">  <p> <a href="https://www.meteoromania.ro/"> Press release, NMA, 06.06.2023 </a></p></li>
+
 
 
 </ul>
