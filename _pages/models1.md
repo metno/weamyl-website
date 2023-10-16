@@ -91,6 +91,18 @@ title: "Models"
 <button type="button" class="collapsible">NMA - Deep learning models on radar data</button>
 <div class="content">
 
+<h3>SepConv 2.0.0</h3>
+<p class="small" align="justify">SepConv 2.0.0 - Separable Convolutional Neural Network-based ensemble of 3 models trained on a dataset containing 211 days with convective events (from 2020, 2021 and 2022) that occurred in central Romania, on an area defined by a 230 km radius relative to the radar site. To predict the maximum reflectivity for 6 to 48 minutes ahead, the DL model uses the radar reflectivity from four previous timestamps as input. The examples below show the radar - DL model prediction comparison for May 7, 2023, for an interval of 22.7 hours (6 min ahead) and 22.3 hours (20 min ahead), respectively.
+ </p>
+<video width="100%" controls>
+  <source src="/assets/videos/anm_V2_wl32_3ani_6min.mp4" type="video/mp4" >
+</video>
+<p class="small">SepConv 2.0.0 6 min - based on currently available radar data predicts the  maximum reflectivity values 6 minutes ahead.</p>
+
+<video width="100%" controls>
+  <source src="/assets/videos/anm_V2_wl32_3ani_20min.mp4" type="video/mp4" >
+</video>
+<p class="small">SepConv 2.0.0 20 min - based on currently available radar data predicts the  maximum reflectivity values 20 minutes ahead.</p>
 <h3>SepConv 1.0.0</h3>
 <p class="small" align="justify">SepConv 1.0.0 - Improved Separable Convolutional Neural Network-based model trained using a customized weighted loss on a dataset containing 20 days with convective events that occurred in central Romania, on an area defined by a 230 km radius relative to the radar site. To predict the maximum reflectivity for the next scan (~ 6 minutes), the DL model uses the radar reflectivity from four previous timestamps as input. The day used for illustrating the maximum radar reflectivity predictions has not been used for training. The example below shows the radar - DL model prediction comparison for 22.5 hours (May 7, 2023).</p>
 <video width="100%" controls>
