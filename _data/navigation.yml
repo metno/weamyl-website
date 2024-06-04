@@ -7,7 +7,7 @@ main:
     url: /partners/
   - title: Results
     url: /models/
-  - title: Upcoming Events
+  - title: Upcoming
     url: /upcoming/
   - title: Contact
     url : /contact/
@@ -27,7 +27,7 @@ page_links:
       url: /partners/
     - title: Results
       url: /models/
-    - title: Upcoming events
+    - title: Upcoming
       url: /upcoming/
     - title: Contact
       url : /contact/
